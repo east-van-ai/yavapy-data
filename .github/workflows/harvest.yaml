@@ -20,10 +20,11 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - uses: astral-sh/setup-uv@v10.3.2
-      - name: Set the bot identity
+      # the same author as the hand-run harvest commits
+      - name: Set the author
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "East Van AI"
+          git config user.email "east-van-ai@proton.me"
       - name: Walkdown
         run: |
           title=$(uvx --from "$HARVESTER" yavapy-harvester walkdown . --limit 50)
