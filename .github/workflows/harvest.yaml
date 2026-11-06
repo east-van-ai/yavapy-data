@@ -28,7 +28,7 @@ jobs:
       - name: Walkdown
         run: |
           title=$(uvx --from "$HARVESTER" yavapy-harvester walkdown . --limit 50)
-          git add projects.csv marks.json
+          git add projects.csv
           git diff --cached --quiet || git commit -m "$title"
       - name: Catchup
         run: |
