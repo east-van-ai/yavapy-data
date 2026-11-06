@@ -2,8 +2,8 @@
 
 ## [Unreleased]
 
-- The Harvest workflow runs `walkdown` and `catchup` on demand and pushes their
-  commits to `main`.
+- The Harvest workflow runs `walkdown` and `catchup` twice an hour and on demand, and
+  pushes their commits to `main`.
 
 ## [0.1.0] - 2026-11-05
 
