@@ -1,9 +1,9 @@
 name: Harvest
 
 on:
-  # odd minutes, away from the top of the hour, when GitHub's queue is busiest
+  # away from the top of the hour, when GitHub's queue is busiest
   schedule:
-    - cron: "17,47 * * * *"
+    - cron: '27 * * * *'
   workflow_dispatch:
 
 # a run that overlaps another would race it on projects.csv
