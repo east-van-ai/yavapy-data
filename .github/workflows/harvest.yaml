@@ -1,0 +1,42 @@
+name: Harvest
+
+on:
+  workflow_dispatch:
+
+# a run that overlaps another would race it on projects.csv
+concurrency:
+  group: harvest
+
+permissions:
+  contents: write
+
+env:
+  HARVESTER: git+https://github.com/east-van-ai/yavapy-harvester@v0.1.0
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v10.3.2
+      - name: Set the bot identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Walkdown
+        run: |
+          title=$(uvx --from "$HARVESTER" yavapy-harvester walkdown . --limit 50)
+          git add projects.csv marks.json
+          git diff --cached --quiet || git commit -m "$title"
+      - name: Catchup
+        run: |
+          title=$(uvx --from "$HARVESTER" yavapy-harvester catchup . --limit 50)
+          git add projects.csv marks.json
+          git diff --cached --quiet || git commit -m "$title"
+      # pushes the walkdown commit even when catchup failed; a failed step's rows are dropped
+      - name: Push
+        if: ${{ !cancelled() }}
+        run: |
+          git pull --rebase origin main
+          git push origin HEAD:main
