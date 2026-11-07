@@ -1,0 +1,43 @@
+name: Sync
+
+on:
+  # away from the top of the hour, when GitHub's queue is busiest
+  schedule:
+    - cron: '27 * * * *'
+  workflow_dispatch:
+
+# shared with Harvest: every step of both writes index.csv
+concurrency:
+  group: harvest
+
+permissions:
+  contents: write
+
+env:
+  HARVESTER: git+https://github.com/east-van-ai/yavapy-harvester@v0.1.1
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v10.3.2
+        # the pin lives here, so the cache refreshes when it moves
+        with:
+          cache-dependency-glob: .github/workflows/sync.yaml
+      # the same author as the hand-run harvest commits
+      - name: Set the author
+        run: |
+          git config user.name "East Van AI"
+          git config user.email "east-van-ai@proton.me"
+      - name: Sync
+        run: |
+          title=$(uvx --from "$HARVESTER" yavapy-harvester sync .)
+          git add index.csv
+          git diff --cached --quiet || git commit -m "$title"
+      - name: Push
+        if: ${{ !cancelled() }}
+        run: |
+          git restore .
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -2,14 +2,32 @@
 
 The data behind YavaPy, which aggregates the Agent Skills that live beside
 published Python command-line tools. The aggregation is virtual: each row
-points to a skill in its own repository and never copies it. One CSV file.
+points to a skill in its own repository and never copies it. Two CSV files.
 
-## What a row is
+## The two files
 
-A row is a candidate: a PyPI project with the `Environment :: Console`
-classifier and a release in the twelve months before it was checked. Every
-candidate gets a row, whether or not its repository holds a `SKILL.md`. So the
-file is a census of candidates as well as a directory of skills.
+`projects.csv` holds the candidates, one row each, sorted by name, so each
+update's diff reads line by line. It is the file the search page reads.
+
+`index.csv` lists every PyPI project with a serial above 32,000,000, one row
+each, with the same columns. It is sorted by serial, newest first, so it reads
+as a feed of PyPI. It is the harvest's working list, and a row fills in stages:
+
+- Not looked at yet: `name` and `serial`.
+- Looked at, not a candidate: `released_at` and `checked_at` as well.
+- A candidate: every column the project has, the same as its row in
+  `projects.csv`.
+
+An empty `checked_at` means the row is waiting for a look. When a project's
+serial moves on PyPI, its `checked_at` is emptied, so it gets looked at again.
+Until then, its other cells hold the last look.
+
+## What a candidate is
+
+A candidate is a PyPI project with the `Environment :: Console` classifier and
+a release in the twelve months before it was checked. Every candidate gets a
+row, whether or not its repository holds a `SKILL.md`. So `projects.csv` is a
+census of candidates as well as a directory of skills.
 
 A row says a file was found when the project was checked. It does not say the
 file is still there, and it is not a review.
@@ -24,12 +42,10 @@ agent. To report a row, write to <east-van-ai@proton.me>.
 
 ## Columns
 
-The file is sorted by name, so each update's diff reads line by line.
-
 | Column | Holds |
 | --- | --- |
 | `name` | the normalized PyPI name |
-| `serial` | the project's PyPI serial when checked, `0` when removed |
+| `serial` | the project's serial in PyPI's simple index, `0` when removed |
 | `version` | the latest version |
 | `summary` | PyPI's one-line summary |
 | `classifiers` | the project's classifiers, sorted, joined with `; ` |
@@ -53,12 +69,15 @@ Bitbucket, though it is still recorded.
 empty. They describe the repository when it was checked, not at the release
 tag. An empty cell in these three columns says nothing about the project.
 
+The serial is the one PyPI's simple index lists for the project. The project's
+own pages on PyPI can report an older one.
+
 A serial of `0` means the project was removed. The row holds the name and `0`,
 and every other cell is empty. The row stays so the project's next release
 cannot bring it back.
 
-`marks.json` holds the PyPI serial the harvest has climbed to. It is bookkeeping,
-not data.
+`marks.json` holds the serial the harvest has climbed to in `index.csv`. It is
+bookkeeping, not data.
 
 ## Licence
 
