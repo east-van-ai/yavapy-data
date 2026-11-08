@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-awghr,43373502,,,,,,,,,,,,
-proprioceptive-lens,43373500,,,,,,,,,,,,
-vgi-python,43373498,,,,,,,,,,,,
-statusdoc,43373494,,,,,,,,,,,,
-hermax,43373489,,,,,,,,,,,,
-kinescript,43373482,,,,,,,,,,,,
-forgegraph,43373479,,,,,,,,,,,,
-harny-ai,43373476,,,,,,,,,,,,
-vulnly,43373475,,,,,,,,,,,,
-svdoc,43373470,,,,,,,,,,,,
+awghr,43373502,,,,2026-11-08T19:08:22+00:00,2026-11-08T19:37:36+00:00,,,,,,,
+proprioceptive-lens,43373500,,,,2026-11-08T19:08:22+00:00,2026-11-08T19:37:36+00:00,,,,,,,
+vgi-python,43373498,,,,2026-11-08T19:08:22+00:00,2026-11-08T19:37:36+00:00,,,,,,,
+statusdoc,43373494,0.1.0,"Open Status Document: a spec and tools to discover, read and validate service status pages",Environment :: Console; Programming Language :: Python :: 3; Topic :: System :: Monitoring,2026-11-08T19:08:13+00:00,2026-11-08T19:37:36+00:00,https://github.com/AndreaAcanfora/statusdoc,v0.1.0,0,,cli; devops; incidents; monitoring; python; specification; sre; status-page; statuspage; uptime,MIT,"status page, statuspage, incidents, monitoring, sre, uptime"
+hermax,43373489,,,,2026-11-08T19:07:50+00:00,2026-11-08T19:37:36+00:00,,,,,,,
+kinescript,43373482,2.2.0,"Render motion graphics, video edits and voice-over from JSON scenes, with checks for agents and a browser editor.",Development Status :: 5 - Production/Stable; Environment :: Console; Environment :: GPU; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: Implementation :: CPython; Topic :: Artistic Software; Topic :: Multimedia :: Graphics; Topic :: Multimedia :: Sound/Audio :: Mixers; Topic :: Multimedia :: Video; Topic :: Multimedia :: Video :: Conversion; Topic :: Multimedia :: Video :: Non-Linear Editor,2026-11-08T19:07:13+00:00,2026-11-08T19:37:36+00:00,https://github.com/drknowhow/kinescript,v2.2.0,1,skills/making-kinescript-videos/SKILL.md,,NOASSERTION,"video, video rendering, video editing, programmatic video, motion graphics, animation, json, skia, gpu, ffmpeg, 3d, captions, voice-over, text to speech, audio mixing, loudness, mcp, ai agents, video editor, annotation"
+forgegraph,43373479,,,,2026-11-08T19:07:10+00:00,2026-11-08T19:37:36+00:00,,,,,,,
+harny-ai,43373476,,,,2026-11-08T19:07:04+00:00,2026-11-08T19:37:36+00:00,,,,,,,
+vulnly,43373475,1.2.0,"Generate offline, self-contained HTML vulnerability reports from Cloudsmith, Trivy, Grype and Snyk scan output",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Information Technology; Intended Audience :: System Administrators; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Security; Topic :: Software Development :: Quality Assurance; Typing :: Typed,2026-11-08T19:07:03+00:00,2026-11-08T19:37:36+00:00,https://github.com/fullstackspectrum/Vulnly,,,,cli; cloudsmith; container-security; cve; devsecops; grype; html-report; offline; python; sbom; security; snyk; trivy; vulnerability-report; vulnerability-scanner,Apache-2.0,"vulnerability, security, scanner, report, trivy, grype, cloudsmith, html"
+svdoc,43373470,0.4.0,pydoc-style documentation generator for SystemVerilog RTL,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development :: Documentation; Topic :: Utilities,2026-11-08T19:07:00+00:00,2026-11-08T19:37:36+00:00,,,,,,,
 zinn-sdk,43373467,,,,,,,,,,,,
 cvxium,43373464,,,,,,,,,,,,
 renest,43373461,,,,2026-11-07T09:49:32+00:00,,,,,,,,
