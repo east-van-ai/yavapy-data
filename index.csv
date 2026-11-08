@@ -38968,16 +38968,16 @@ hspylib,42985000,,,,2026-10-30T20:28:34+00:00,2026-11-08T20:52:44+00:00,,,,,,,
 biocompile,42984997,,,,2026-10-30T20:28:31+00:00,2026-11-08T20:52:44+00:00,,,,,,,
 hspylib-hqt,42984992,0.9.46,HsPyLib - QT framework extensions,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: MacOS :: MacOS X; Operating System :: POSIX :: Linux; Operating System :: Unix; Programming Language :: Python :: 3.10; Topic :: Software Development :: Libraries :: Application Frameworks; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Terminals,2026-10-30T20:28:23+00:00,2026-11-08T20:52:44+00:00,https://github.com/yorevs/hspylib,,,,framework; homesetup; library; mit-license; open-source; python; python3,MIT,"qt, ui, extensions, application, pyqt"
 exacly,42984989,0.6.0,"Validate, refresh and ask Exacly models (0.1 product maps, 0.2 config and state), for people and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Quality Assurance; Typing :: Typed,2026-10-29T22:46:14+00:00,2026-11-08T20:52:44+00:00,https://github.com/whiteredhouse/exacly,,,,architecture-as-code; json-schema; plan-and-apply; product-modeling; sdlc; spec-driven-development; specification; traceability,Apache-2.0,"architecture, mcp, product-model, requirements, traceability"
-hspylib-firebase,42984988,,,,,,,,,,,,
-hspylib-datasource,42984979,,,,,,,,,,,,
-hspylib-clitt,42984973,,,,,,,,,,,,
-karabiner-dsl,42984903,,,,,,,,,,,,
-spatial-continuum,42984895,,,,,,,,,,,,
-multabench,42984884,,,,,,,,,,,,
-tabletkey,42984867,,,,,,,,,,,,
-aml-graphminer,42984866,,,,,,,,,,,,
-taegis-sdk-python,42984844,,,,,,,,,,,,
-taegis-magic,42984840,,,,,,,,,,,,
+hspylib-firebase,42984988,0.9.157,HsPyLib - Firebase integration,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: MacOS :: MacOS X; Operating System :: POSIX :: Linux; Operating System :: Unix; Programming Language :: Python :: 3.10; Topic :: Terminals,2026-10-30T20:28:13+00:00,2026-11-08T21:07:46+00:00,https://github.com/yorevs/hspylib,,,,framework; homesetup; library; mit-license; open-source; python; python3,MIT,"firebase, google, integration, application"
+hspylib-datasource,42984979,0.9.84,HsPyLib - Datasource integration,Development Status :: 2 - Pre-Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: MacOS :: MacOS X; Operating System :: POSIX :: Linux; Operating System :: Unix; Programming Language :: Python :: 3.10; Topic :: Software Development :: Libraries :: Application Frameworks; Topic :: Software Development :: Libraries :: Python Modules,2026-10-30T20:28:04+00:00,2026-11-08T21:07:46+00:00,https://github.com/yorevs/hspylib,,,,framework; homesetup; library; mit-license; open-source; python; python3,MIT,"datasource, database, sql, nosql, db"
+hspylib-clitt,42984973,0.9.155,HsPyLib - CLI Terminal Tools,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: MacOS :: MacOS X; Operating System :: POSIX :: Linux; Operating System :: Unix; Programming Language :: Python :: 3.10; Topic :: Software Development :: Libraries :: Application Frameworks; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Terminals,2026-10-30T20:27:53+00:00,2026-11-08T21:07:46+00:00,https://github.com/yorevs/hspylib,v0.9.155,0,,framework; homesetup; library; mit-license; open-source; python; python3,MIT,"cli, clitt, terminal, tui, manager, application, widgets"
+karabiner-dsl,42984903,0.1.0,Write Karabiner-Elements rules as short English sentences.,Environment :: Console; Intended Audience :: End Users/Desktop; Operating System :: MacOS; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Utilities,2026-10-30T20:25:50+00:00,2026-11-08T21:07:46+00:00,https://github.com/cornapps/karabiner-dsl,v0.1.0,0,,,MIT,"dsl, karabiner, karabiner-elements, keyboard, macos"
+spatial-continuum,42984895,,,,2026-10-30T20:25:37+00:00,2026-11-08T21:07:46+00:00,,,,,,,
+multabench,42984884,,,,2026-10-30T20:24:54+00:00,2026-11-08T21:07:46+00:00,,,,,,,
+tabletkey,42984867,,,,2026-10-30T20:24:04+00:00,2026-11-08T21:07:46+00:00,,,,,,,
+aml-graphminer,42984866,,,,2026-10-30T20:24:02+00:00,2026-11-08T21:07:46+00:00,,,,,,,
+taegis-sdk-python,42984844,,,,2026-10-30T20:23:08+00:00,2026-11-08T21:07:46+00:00,,,,,,,
+taegis-magic,42984840,,,,2026-10-30T20:22:32+00:00,2026-11-08T21:07:46+00:00,,,,,,,
 arv-mcp,42984818,,,,,,,,,,,,
 nanoscope-lab,42984809,,,,,,,,,,,,
 typesafe-sdk,42984806,,,,,,,,,,,,
