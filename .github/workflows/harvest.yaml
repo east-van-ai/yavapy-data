@@ -1,9 +1,9 @@
 name: Harvest
 
 on:
-  # small batches, four an hour, clear of Sync at :27 and of the top of the hour
+  # an outside cron dispatches four batches an hour; this is the hourly fallback
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: '7 * * * *'
   workflow_dispatch:
 
 # shared with Sync: every step of both writes index.csv
