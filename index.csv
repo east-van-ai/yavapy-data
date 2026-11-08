@@ -38866,16 +38866,16 @@ habemus-papadum-ship,42985761,,,,2026-10-30T20:53:57+00:00,2026-11-08T19:22:43+0
 pinbridge-sdk,42985758,,,,2026-10-30T20:53:45+00:00,2026-11-08T19:22:43+00:00,,,,,,,
 onapsdk,42985755,,,,2026-10-30T20:53:34+00:00,2026-11-08T19:22:43+00:00,,,,,,,
 pyqir,42985753,,,,2026-10-30T20:53:32+00:00,2026-11-08T19:22:43+00:00,,,,,,,
-binwitness,42985747,,,,,,,,,,,,
-flowfile,42985721,,,,,,,,,,,,
-gamepad-overlay,42985678,,,,,,,,,,,,
-battery-tray,42985658,,,,,,,,,,,,
-rupython,42985644,,,,,,,,,,,,
-ogx-client,42985632,,,,,,,,,,,,
-pipecat-ai-context-hub,42985627,,,,,,,,,,,,
-ccgarden,42985618,,,,,,,,,,,,
-diskclean-mcp-server,42985615,,,,,,,,,,,,
-versioninfo-helper,42985612,,,,,,,,,,,,
+binwitness,42985747,0.4.7,"Evidence-backed software composition analysis for delivered binaries: jars, wars, container images and front-end builds.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Information Technology; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Security; Topic :: Software Development :: Quality Assurance,2026-10-30T20:53:26+00:00,2026-11-08T19:37:47+00:00,https://github.com/Wushangyin/binwitness,v0.4.7,0,,cli; cyclonedx; java; maven; npm; osv; sbom; sca; security-audit; software-composition-analysis; supply-chain-security; vulnerability-scanner,Apache-2.0,"sca, sbom, cyclonedx, osv, vulnerability, license, supply-chain, audit, mcp"
+flowfile,42985721,,,,2026-10-30T20:52:38+00:00,2026-11-08T19:37:47+00:00,,,,,,,
+gamepad-overlay,42985678,,,,2026-10-30T20:50:38+00:00,2026-11-08T19:37:47+00:00,,,,,,,
+battery-tray,42985658,,,,2026-10-30T20:49:58+00:00,2026-11-08T19:37:47+00:00,,,,,,,
+rupython,42985644,,,,2026-10-30T20:48:58+00:00,2026-11-08T19:37:47+00:00,,,,,,,
+ogx-client,42985632,,,,2026-10-09T01:40:07+00:00,2026-11-08T19:37:47+00:00,,,,,,,
+pipecat-ai-context-hub,42985627,0.9.3,"Local-first MCP server providing fresh Pipecat docs/examples context for Claude Code, Cursor, VS Code, and Zed.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Documentation,2026-10-30T20:48:18+00:00,2026-11-08T19:37:47+00:00,https://github.com/pipecat-ai/pipecat-context-hub,v0.9.3,4,plugins/pipecat-context-hub/skills/build/SKILL.md,ai-coding; developer-tools; mcp; pipecat; retreival; retrieval,BSD-2-Clause,"claude-code, cursor, mcp, model-context-protocol, pipecat, rag, voice-ai"
+ccgarden,42985618,0.7.9,Grow a tree/garden visualization from ccstats.db session history,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Utilities,2026-10-30T20:47:58+00:00,2026-11-08T19:37:47+00:00,https://github.com/dannybrown37/ccgarden,v0.7.9,0,,,MIT,"claude, claude-code, stats, svg, visualization"
+diskclean-mcp-server,42985615,0.1.0,"MCP server that finds dev caches, large unused videos and old logs, and moves them to the OS trash after your approval",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: System :: Filesystems; Topic :: Utilities,2026-10-30T20:47:28+00:00,2026-11-08T19:37:47+00:00,https://github.com/Kate941-su/diskcleaner-mcp,v0.1.0,1,.claude/skills/disk-cleanup/SKILL.md,,MIT,"mcp, model-context-protocol, disk-cleanup, node_modules, cache, claude"
+versioninfo-helper,42985612,,,,2026-10-30T20:47:25+00:00,2026-11-08T19:37:47+00:00,,,,,,,
 readme-doctor,42985601,,,,,,,,,,,,
 packingcubes,42985572,,,,,,,,,,,,
 ai-accountant,42985564,,,,,,,,,,,,
