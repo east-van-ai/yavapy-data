@@ -38958,16 +38958,16 @@ sqlfluff-templater-dbt,42985040,4.5.0,Lint your dbt project SQL,Development Stat
 puggles-dashboard,42985037,,,,2026-10-30T20:29:16+00:00,2026-11-08T20:37:50+00:00,,,,,,,
 miminions,42985036,,,,2026-10-08T05:58:24+00:00,2026-11-08T20:37:50+00:00,,,,,,,
 fluidgrids-workflows,42985035,,,,2026-10-30T20:29:15+00:00,2026-11-08T20:37:50+00:00,,,,,,,
-puggles,42985034,,,,,,,,,,,,
-sqlfluff,42985029,,,,,,,,,,,,
-hspylib-vault,42985018,,,,,,,,,,,,
-hspylib-setman,42985008,,,,,,,,,,,,
-kwasm,42985005,,,,,,,,,,,,
-hspylib-kafman,42985003,,,,,,,,,,,,
-hspylib,42985000,,,,,,,,,,,,
-biocompile,42984997,,,,,,,,,,,,
-hspylib-hqt,42984992,,,,,,,,,,,,
-exacly,42984989,,,,,,,,,,,,
+puggles,42985034,,,,2026-10-30T20:29:14+00:00,2026-11-08T20:52:44+00:00,,,,,,,
+sqlfluff,42985029,4.5.0,The SQL Linter for Humans,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX; Operating System :: Unix; Programming Language :: Python; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: Implementation :: CPython; Programming Language :: SQL; Topic :: Software Development :: Quality Assurance; Topic :: Utilities,2026-10-30T20:29:12+00:00,2026-11-08T20:52:44+00:00,https://github.com/sqlfluff/sqlfluff,4.5.0,0,,hacktoberfest; pypi; sql; sql-linter,MIT,"sqlfluff, sql, linter, formatter, athena, bigquery, clickhouse, databricks, db2, doris, duckdb, exasol, flink, greenplum, hive, impala, materialize, mariadb, mysql, postgres, redshift, snowflake, soql, sparksql, sqlite, starrocks, teradata, trino, tsql, vertica, dbt, sqlmesh"
+hspylib-vault,42985018,0.10.1,HsPyLib - Secrets Vault,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: MacOS :: MacOS X; Operating System :: POSIX :: Linux; Operating System :: Unix; Programming Language :: Python :: 3.10; Topic :: Terminals,2026-10-30T20:29:06+00:00,2026-11-08T20:52:44+00:00,https://github.com/yorevs/hspylib,,,,framework; homesetup; library; mit-license; open-source; python; python3,MIT,"secrets, passwords, safe, vault, manager, application"
+hspylib-setman,42985008,0.10.46,HsPyLib - Settings Manager,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: MacOS :: MacOS X; Operating System :: POSIX :: Linux; Operating System :: Unix; Programming Language :: Python :: 3.10; Topic :: Software Development :: Libraries :: Application Frameworks; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Terminals,2026-10-30T20:28:55+00:00,2026-11-08T20:52:44+00:00,https://github.com/yorevs/hspylib,,,,framework; homesetup; library; mit-license; open-source; python; python3,MIT,"settings, terminal, manager"
+kwasm,42985005,,,,2026-10-30T20:28:46+00:00,2026-11-08T20:52:44+00:00,,,,,,,
+hspylib-kafman,42985003,,,,2026-10-30T20:28:45+00:00,2026-11-08T20:52:44+00:00,,,,,,,
+hspylib,42985000,,,,2026-10-30T20:28:34+00:00,2026-11-08T20:52:44+00:00,,,,,,,
+biocompile,42984997,,,,2026-10-30T20:28:31+00:00,2026-11-08T20:52:44+00:00,,,,,,,
+hspylib-hqt,42984992,0.9.46,HsPyLib - QT framework extensions,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: MacOS :: MacOS X; Operating System :: POSIX :: Linux; Operating System :: Unix; Programming Language :: Python :: 3.10; Topic :: Software Development :: Libraries :: Application Frameworks; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Terminals,2026-10-30T20:28:23+00:00,2026-11-08T20:52:44+00:00,https://github.com/yorevs/hspylib,,,,framework; homesetup; library; mit-license; open-source; python; python3,MIT,"qt, ui, extensions, application, pyqt"
+exacly,42984989,0.6.0,"Validate, refresh and ask Exacly models (0.1 product maps, 0.2 config and state), for people and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Quality Assurance; Typing :: Typed,2026-10-29T22:46:14+00:00,2026-11-08T20:52:44+00:00,https://github.com/whiteredhouse/exacly,,,,architecture-as-code; json-schema; plan-and-apply; product-modeling; sdlc; spec-driven-development; specification; traceability,Apache-2.0,"architecture, mcp, product-model, requirements, traceability"
 hspylib-firebase,42984988,,,,,,,,,,,,
 hspylib-datasource,42984979,,,,,,,,,,,,
 hspylib-clitt,42984973,,,,,,,,,,,,
