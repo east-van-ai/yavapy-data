@@ -40065,16 +40065,16 @@ tai42-mcp-dynamic-postgres,42980726,,,,2026-10-30T18:17:33+00:00,2026-11-09T04:5
 travis234,42980697,,,,2026-10-30T18:17:12+00:00,2026-11-09T04:52:42+00:00,,,,,,,
 amagi-throughput-lab,42980688,0.1.0,"Find the llama-server (or vLLM) settings that serve the most people from one GPU: sweeps instances x --parallel x concurrency with distinct prompts, joins nvidia-smi power for tokens per joule, draws HTML/PNG charts and prints the command to run.",Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: System :: Benchmark,2026-10-30T18:17:03+00:00,2026-11-09T04:52:42+00:00,https://github.com/amagilabs/amagi-throughput-lab,v0.1.0,1,.claude/skills/amagi-throughput-lab/SKILL.md,benchmark; concurrency; llama-cpp; llama-server; llm; throughput; tokens-per-joule; vllm,MIT,"llm, llama.cpp, llama-server, vllm, throughput, benchmark, concurrency, tokens-per-joule, gpu, localllama, cli"
 bettercollected,42980678,0.1.0,Typed client and forms-as-code CLI for the BetterCollected public API.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Internet :: WWW/HTTP; Topic :: Software Development :: Libraries :: Python Modules; Typing :: Typed,2026-10-30T18:16:41+00:00,2026-11-09T04:52:42+00:00,https://github.com/bettercollected/bettercollected,,,,data-rights; form-builder; privacy-compliance,Apache-2.0,"api-client, bettercollected, cli, form-builder, forms, forms-as-code, gdpr, privacy, sdk"
-attribution-suite,42980660,,,,,,,,,,,,
-gale-shapley-algorithm,42980655,,,,,,,,,,,,
-cctrack-ai,42980652,,,,,,,,,,,,
-spirisynq,42980638,,,,,,,,,,,,
-projectaria-commons,42980635,,,,,,,,,,,,
-citeget,42980633,,,,,,,,,,,,
-aspose-psd,42980620,,,,,,,,,,,,
-git-history-cleaner,42980617,,,,,,,,,,,,
-tap-usgs-earthquakes,42980610,,,,,,,,,,,,
-astral-dev-toolchain-cargo-edit,42980583,,,,,,,,,,,,
+attribution-suite,42980660,,,,2026-10-30T18:16:22+00:00,2026-11-09T05:07:43+00:00,,,,,,,
+gale-shapley-algorithm,42980655,,,,2026-10-30T18:16:21+00:00,2026-11-09T05:07:43+00:00,,,,,,,
+cctrack-ai,42980652,0.5.0,Track and analyze AI token usage from Claude Code and other CLI agents,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Topic :: Utilities,2026-10-30T18:16:08+00:00,2026-11-09T05:07:43+00:00,https://github.com/Sk786/cctrack,v0.5.0,0,,ai; claude-code; cli; cost-tracking; developer-tools; heatmap; openai; python; terminal; token-usage,,"ai, claude, cli, terminal, token, usage"
+spirisynq,42980638,,,,2026-10-30T18:15:55+00:00,2026-11-09T05:07:43+00:00,,,,,,,
+projectaria-commons,42980635,,,,2026-10-30T18:15:48+00:00,2026-11-09T05:07:43+00:00,,,,,,,
+citeget,42980633,,,,2026-10-30T18:15:37+00:00,2026-11-09T05:07:43+00:00,,,,,,,
+aspose-psd,42980620,,,,2026-10-30T18:15:01+00:00,2026-11-09T05:07:43+00:00,,,,,,,
+git-history-cleaner,42980617,1.1.1,Remove obsolete file history while preserving the current Git tree,Development Status :: 5 - Production/Stable; Environment :: Console; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Topic :: Software Development :: Version Control :: Git,2026-10-30T18:14:17+00:00,2026-11-09T05:07:43+00:00,https://github.com/cybergarage/git-history-cleaner,v1.1.1,0,,,MIT,"git, history, cleanup, repository"
+tap-usgs-earthquakes,42980610,,,,2026-10-30T18:14:00+00:00,2026-11-09T05:07:43+00:00,,,,,,,
+astral-dev-toolchain-cargo-edit,42980583,,,,2026-10-30T18:13:15+00:00,2026-11-09T05:07:43+00:00,,,,,,,
 faster-or-curvature,42980564,,,,,,,,,,,,
 warden-mesh,42980561,,,,,,,,,,,,
 cellier,42980525,,,,,,,,,,,,
