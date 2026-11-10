@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-didupwrapper,43468985,,,,,,,,,,,,
-pytest-json-ctrf,43468982,,,,,,,,,,,,
-stilo-cli,43468979,,,,,,,,,,,,
-gsctl,43468976,,,,,,,,,,,,
-pgmig,43468974,,,,,,,,,,,,
-graphscope-flex,43468973,,,,,,,,,,,,
-pyrig,43468969,19.24.2,A Python project setup and management tool built on infrastructure as code and convention over configuration.,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Software Development :: Build Tools; Topic :: Software Development :: Code Generators; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing; Topic :: System :: Installation/Setup; Topic :: System :: Software Distribution; Typing :: Typed,2026-11-10T14:01:39+00:00,,https://github.com/Winipedia/pyrig,19.24.2,0,,automation; boilerplate; ci-cd; code-generation; code-quality; configuration; convention-over-configuration; developer-tools; devops; github-actions; infrastructure-as-code; project-generator; project-maintenance; project-scaffolding; project-setup; python-project; test-generation; test-scaffolding,MIT,"automation, boilerplate, ci-cd, code-generation, code-quality, configuration, convention-over-configuration, developer-tools, devops, github-actions, infrastructure-as-code, project-generator, project-maintenance, project-scaffolding, project-setup, python-project, test-generation, test-scaffolding"
-alloy-engine,43468966,,,,,,,,,,,,
-muxtower,43468961,,,,,,,,,,,,
-pkgdx,43468958,,,,,,,,,,,,
+didupwrapper,43468985,,,,2026-11-10T19:04:48+00:00,2026-11-10T19:37:35+00:00,,,,,,,
+pytest-json-ctrf,43468982,,,,2026-11-10T19:04:43+00:00,2026-11-10T19:37:35+00:00,,,,,,,
+stilo-cli,43468979,,,,2026-11-10T19:04:38+00:00,2026-11-10T19:37:35+00:00,,,,,,,
+gsctl,43468976,,,,2025-02-21T03:32:56+00:00,2026-11-10T19:37:35+00:00,,,,,,,
+pgmig,43468974,,,,2026-11-10T19:04:36+00:00,2026-11-10T19:37:35+00:00,,,,,,,
+graphscope-flex,43468973,,,,2025-01-27T09:55:20+00:00,2026-11-10T19:37:35+00:00,,,,,,,
+pyrig,43468969,19.26.1,A Python project setup and management tool built on infrastructure as code and convention over configuration.,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Software Development :: Build Tools; Topic :: Software Development :: Code Generators; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing; Topic :: System :: Installation/Setup; Topic :: System :: Software Distribution; Typing :: Typed,2026-11-10T19:11:22+00:00,2026-11-10T19:37:35+00:00,https://github.com/Winipedia/pyrig,19.26.1,0,,automation; boilerplate; ci-cd; code-generation; code-quality; configuration; convention-over-configuration; developer-tools; devops; github-actions; infrastructure-as-code; project-generator; project-maintenance; project-scaffolding; project-setup; python-project; test-generation; test-scaffolding,MIT,"automation, boilerplate, ci-cd, code-generation, code-quality, configuration, convention-over-configuration, developer-tools, devops, github-actions, infrastructure-as-code, project-generator, project-maintenance, project-scaffolding, project-setup, python-project, test-generation, test-scaffolding"
+alloy-engine,43468966,,,,2026-11-10T19:04:06+00:00,2026-11-10T19:37:35+00:00,,,,,,,
+muxtower,43468961,,,,2026-11-10T19:22:44+00:00,2026-11-10T19:37:35+00:00,,,,,,,
+pkgdx,43468958,0.11.0,A package to centralise standards across Python projects.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development :: Quality Assurance; Typing :: Typed,2026-11-10T19:03:37+00:00,2026-11-10T19:37:35+00:00,https://gitlab.com/andyrids/pkgdx,,,,,,"CLI, DevEx, linting, pre-commit, typing"
 metaprobe,43468955,,,,,,,,,,,,
 pairwise-compare,43468950,,,,,,,,,,,,
 eudr-geojson-validator,43468947,,,,,,,,,,,,
