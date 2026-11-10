@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-helix-fhir-client-sdk,43450573,,,,,,,,,,,,
-armature-mcp-analytics,43450570,,,,,,,,,,,,
-vipi-scanner,43450567,,,,,,,,,,,,
-ryjwt,43450564,,,,,,,,,,,,
-saygo-agent-control,43450554,,,,,,,,,,,,
-evlet,43450553,,,,2026-11-02T09:34:49+00:00,,,,,,,,
-claide-web,43450544,,,,,,,,,,,,
-cdx-manager,43450536,,,,,,,,,,,,
-aeris-channel,43450508,,,,,,,,,,,,
-otterdog,43450504,,,,,,,,,,,,
+helix-fhir-client-sdk,43450573,,,,2026-11-10T11:32:32+00:00,2026-11-10T11:37:36+00:00,,,,,,,
+armature-mcp-analytics,43450570,,,,2026-11-10T11:10:29+00:00,2026-11-10T11:37:36+00:00,,,,,,,
+vipi-scanner,43450567,0.6.1,"Detect visual prompt injections in images with OCR, a Python CLI, and a GitHub Action",Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Security,2026-11-10T11:10:20+00:00,2026-11-10T11:37:36+00:00,https://github.com/EnXan/VIPI,v0.6.1,0,,ai-security; github-actions; llm-security; ocr; prompt-injection; python; visual-prompt-injection,Apache-2.0,"GitHub Actions, LLM security, OCR, image prompt injection, image scanner, visual prompt injection"
+ryjwt,43450564,,,,2026-11-10T11:10:09+00:00,2026-11-10T11:37:36+00:00,,,,,,,
+saygo-agent-control,43450554,,,,2026-11-10T11:09:54+00:00,2026-11-10T11:37:36+00:00,,,,,,,
+evlet,43450553,,,,2026-11-10T11:09:54+00:00,2026-11-10T11:37:36+00:00,,,,,,,
+claide-web,43450544,,,,2026-11-10T11:31:32+00:00,2026-11-10T11:37:36+00:00,,,,,,,
+cdx-manager,43450536,0.26.13,Terminal session manager for Codex and Claude accounts.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development; Topic :: Terminals,2026-11-10T11:09:40+00:00,2026-11-10T11:37:36+00:00,https://github.com/AlexAgo83/cdx-manager,v0.26.13,0,,account-manager; ai-tools; antigravity; claude; claude-code; cli; codex; codex-cli; developer-tools; npm; ollama; python; session-manager; terminal,MIT,"codex, claude, cli, terminal, session-manager, ai-tools"
+aeris-channel,43450508,,,,2026-11-10T11:08:50+00:00,2026-11-10T11:37:36+00:00,,,,,,,
+otterdog,43450504,1.8.0,Tool to manage GitHub organizations and their repositories.,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; License :: OSI Approved :: Eclipse Public License 2.0 (EPL-2.0); Programming Language :: Python; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Software Development :: Version Control; Topic :: System :: Systems Administration; Typing :: Typed,2026-11-10T11:08:43+00:00,2026-11-10T11:37:36+00:00,https://github.com/eclipse-csi/otterdog,v1.8.0,0,,asyncio; configuration-as-code; github-config; python; security; supply-chain,EPL-2.0,"infrastructure-as-code, supply-chain-security, github, gitops"
 maf-sandbox-wslc,43450499,,,,,,,,,,,,
 juntagrico-webdav,43450498,,,,,,,,,,,,
 pykz,43450490,,,,,,,,,,,,
