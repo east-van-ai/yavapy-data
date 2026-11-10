@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-mibz2,43464477,,,,,,,,,,,,
-jvspatial,43464475,,,,,,,,,,,,
-ovos-number-parser,43464474,,,,,,,,,,,,
-homismart-client,43464469,,,,,,,,,,,,
-encord-agents,43464466,,,,,,,,,,,,
-asm-mcp,43464465,,,,,,,,,,,,
-nautobot-app-ssot-lantronix,43464462,,,,,,,,,,,,
-power-bdd,43464461,,,,,,,,,,,,
-pangea-flows,43464458,,,,,,,,,,,,
-open-code-review-toolkit,43464455,0.14.6,Unofficial GitLab CI integration layer for Open Code Review,Development Status :: 4 - Beta; Environment :: Console; License :: OSI Approved :: Apache Software License; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Typing :: Typed,2026-11-06T04:59:18+00:00,,https://github.com/xeonvs/open-code-review-toolkit,v0.14.6,0,,code-review; devsecops; gitlab-ci; open-code-review; python,Apache-2.0,"ci, code-review, gitlab, open-code-review"
+mibz2,43464477,,,,2026-11-10T17:03:57+00:00,2026-11-10T17:37:35+00:00,,,,,,,
+jvspatial,43464475,,,,2026-11-10T17:03:48+00:00,2026-11-10T17:37:35+00:00,,,,,,,
+ovos-number-parser,43464474,,,,2026-08-13T16:19:33+00:00,2026-11-10T17:37:35+00:00,,,,,,,
+homismart-client,43464469,,,,2026-11-10T17:03:42+00:00,2026-11-10T17:37:35+00:00,,,,,,,
+encord-agents,43464466,0.2.11,A framework for producing custom agents for the Encord ecosystem.,Environment :: Console; Environment :: Web Environment; Intended Audience :: Developers; Intended Audience :: Education; Intended Audience :: Information Technology; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Topic :: Scientific/Engineering; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Scientific/Engineering :: Information Analysis; Topic :: Software Development; Topic :: Software Development :: Quality Assurance,2026-11-10T17:03:39+00:00,2026-11-10T17:37:35+00:00,https://github.com/encord-team/encord-agents,v0.2.11,0,,agentic-framework; agentic-workflow; data; data-engine,Apache-2.0,"agent, agents, automation, data, encord, label, learning, machine, model, quality, test"
+asm-mcp,43464465,,,,2026-11-10T16:51:28+00:00,2026-11-10T17:37:35+00:00,,,,,,,
+nautobot-app-ssot-lantronix,43464462,,,,2026-11-10T04:56:48+00:00,2026-11-10T17:37:35+00:00,,,,,,,
+power-bdd,43464461,,,,2026-11-10T17:03:17+00:00,2026-11-10T17:37:35+00:00,,,,,,,
+pangea-flows,43464458,,,,2026-11-10T17:03:14+00:00,2026-11-10T17:37:35+00:00,,,,,,,
+open-code-review-toolkit,43464455,0.14.7,Unofficial GitLab CI integration layer for Open Code Review,Development Status :: 4 - Beta; Environment :: Console; License :: OSI Approved :: Apache Software License; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Typing :: Typed,2026-11-10T17:03:07+00:00,2026-11-10T17:37:35+00:00,https://github.com/xeonvs/open-code-review-toolkit,v0.14.7,0,,code-review; devsecops; gitlab-ci; open-code-review; python,Apache-2.0,"ci, code-review, gitlab, open-code-review"
 beakr-sdk,43464452,,,,,,,,,,,,
 flockspeech,43464449,,,,,,,,,,,,
 uvcron,43464447,,,,,,,,,,,,
