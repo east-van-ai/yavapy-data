@@ -49760,16 +49760,16 @@ dictdumper,42948564,0.8.5,DictDumper: comprehensive network packet analysis libr
 openroutine,42948558,1.0.7,"Your AI agents' crontab, as markdown",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Rust; Topic :: Utilities,2026-10-26T09:13:21+00:00,2026-11-11T08:22:48+00:00,https://github.com/openswe/openroutine,v1.0.7,1,skills/openroutine/SKILL.md,,MIT,"cron, scheduler, agents, automation, ai"
 seex,42948473,,,,2026-10-30T03:16:11+00:00,2026-11-11T08:22:48+00:00,,,,,,,
 markitdown-wolfxl,42948450,,,,2026-10-30T03:15:42+00:00,2026-11-11T08:22:48+00:00,,,,,,,
-pyopenlayersqt,42948436,,,,,,,,,,,,
-lexitron,42948420,,,,,,,,,,,,
-allianceauth-oidc-provider-eveo7,42948419,,,,,,,,,,,,
-qbd-agent-kit,42948406,,,,,,,,,,,,
-odoo-addon-l10n-br-currency-rate-update,42948397,,,,,,,,,,,,
-odoo-addon-l10n-br-fiscal-dfe,42948384,,,,,,,,,,,,
-tokeven,42948364,,,,,,,,,,,,
-docuquery,42948358,,,,,,,,,,,,
-odoo-addon-document-page-tag,42948348,,,,,,,,,,,,
-odoo-addon-document-url,42948346,,,,,,,,,,,,
+pyopenlayersqt,42948436,,,,2026-10-30T03:15:03+00:00,2026-11-11T08:37:43+00:00,,,,,,,
+lexitron,42948420,5.2.0,A command-line regex search engine for the English language,Environment :: Console; License :: OSI Approved :: GNU General Public License v2 (GPLv2); Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Games/Entertainment :: Puzzle Games; Topic :: Text Processing :: Linguistic,2026-10-30T03:14:07+00:00,2026-11-11T08:37:43+00:00,https://github.com/rothos/lexitron,v5.2.0,0,,,GPL-2.0,"english, dictionary, crossword, spelling, words, lexicon, search, anagram, scrabble, wordle, spelling bee, regex, rhymes, rhyming dictionary"
+allianceauth-oidc-provider-eveo7,42948419,,,,2026-10-30T03:14:06+00:00,2026-11-11T08:37:43+00:00,,,,,,,
+qbd-agent-kit,42948406,0.2.0,"QuickBooks Desktop for AI agents: a command line that runs on the Windows PC that hosts QuickBooks, with merchant workflows (daily brief, collections, bills, cash, reorder, duplicates, month-end checks) and agent skills. No Web Connector, no cloud.",Environment :: Console; Intended Audience :: Financial and Insurance Industry; Operating System :: Microsoft :: Windows; Programming Language :: Python :: 3; Topic :: Office/Business :: Financial :: Accounting,2026-10-30T03:13:09+00:00,2026-11-11T08:37:43+00:00,https://github.com/ph4mHoa/qbd-agent-kit,v0.2.0,9,skills/support-case/SKILL.md,accounting; agent-skills; ai-agents; bookkeeping; claude-code; cli; python; qbxml; quickbooks; quickbooks-desktop; windows,MIT,"quickbooks, quickbooks-desktop, qbxml, ai-agents, claude, cli, accounting, bookkeeping"
+odoo-addon-l10n-br-currency-rate-update,42948397,,,,2026-05-07T18:03:23+00:00,2026-11-11T08:37:43+00:00,,,,,,,
+odoo-addon-l10n-br-fiscal-dfe,42948384,,,,2026-10-21T03:15:04+00:00,2026-11-11T08:37:43+00:00,,,,,,,
+tokeven,42948364,,,,2026-10-30T03:10:44+00:00,2026-11-11T08:37:43+00:00,,,,,,,
+docuquery,42948358,0.1.0,A local file RAG engine CLI tool,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: End Users/Desktop; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Text Processing :: Indexing,2026-10-30T03:10:26+00:00,2026-11-11T08:37:43+00:00,https://github.com/nnamanikester/docuquery,v0.1.0,0,,,MIT,"rag, cli, pdf, pgvector, openai, documents, search"
+odoo-addon-document-page-tag,42948348,,,,2026-10-25T03:10:16+00:00,2026-11-11T08:37:43+00:00,,,,,,,
+odoo-addon-document-url,42948346,,,,2026-06-27T03:11:46+00:00,2026-11-11T08:37:43+00:00,,,,,,,
 odoo-addon-document-page-approval,42948342,,,,,,,,,,,,
 symasc-repoatlas,42948340,,,,,,,,,,,,
 ocdscardinal,42948339,,,,,,,,,,,,
