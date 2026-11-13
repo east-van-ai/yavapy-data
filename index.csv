@@ -58084,16 +58084,16 @@ acellera-openff-nagl,42910352,,,,2026-10-29T10:43:35+00:00,2026-11-13T15:17:37+0
 rfl-web,42910339,1.10.0,Rackslab Foundation Library: web package,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: System Administrators; Programming Language :: Python :: 3; Topic :: System :: Systems Administration,2026-10-29T10:43:22+00:00,2026-11-13T15:17:37+00:00,https://github.com/rackslab/RFL,v1.10.0,0,,,LGPL-3.0,"utility, basic"
 lanka-kit,42910333,,,,2026-10-29T10:43:14+00:00,2026-11-13T15:17:37+00:00,,,,,,,
 acellera-openff-nagl-models,42910327,,,,2026-10-29T10:43:07+00:00,2026-11-13T15:17:37+00:00,,,,,,,
-rfl-settings,42910325,,,,,,,,,,,,
-rfl-permissions,42910319,,,,,,,,,,,,
-algovoi-substrate-guard,42910309,,,,,,,,,,,,
-algovoi-spend-guardrail-lite,42910301,,,,,,,,,,,,
-trellis-datamodel,42910300,,,,,,,,,,,,
-acellera-openforcefields,42910295,,,,,,,,,,,,
-rfl-log,42910291,,,,,,,,,,,,
-algovoi-revocation-ref,42910289,,,,,,,,,,,,
-yeetr,42910284,,,,,,,,,,,,
-trainerbase,42910279,,,,,,,,,,,,
+rfl-settings,42910325,1.10.0,Rackslab Foundation Library: settings package,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: System Administrators; Programming Language :: Python :: 3; Topic :: System :: Systems Administration,2026-10-29T10:43:08+00:00,2026-11-13T15:22:44+00:00,https://github.com/rackslab/RFL,v1.10.0,0,,,LGPL-3.0,"utility, basic"
+rfl-permissions,42910319,1.10.0,Rackslab Foundation Library: permissions package,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: System Administrators; Programming Language :: Python :: 3; Topic :: System :: Systems Administration,2026-10-29T10:42:55+00:00,2026-11-13T15:22:44+00:00,https://github.com/rackslab/RFL,v1.10.0,0,,,LGPL-3.0,"utility, basic"
+algovoi-substrate-guard,42910309,,,,2026-10-29T10:42:49+00:00,2026-11-13T15:22:44+00:00,,,,,,,
+algovoi-spend-guardrail-lite,42910301,,,,2026-10-29T10:42:46+00:00,2026-11-13T15:22:44+00:00,,,,,,,
+trellis-datamodel,42910300,,,,2026-10-29T10:42:44+00:00,2026-11-13T15:22:44+00:00,,,,,,,
+acellera-openforcefields,42910295,,,,2026-10-29T10:42:42+00:00,2026-11-13T15:22:44+00:00,,,,,,,
+rfl-log,42910291,1.10.0,Rackslab Foundation Library: log package,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: System Administrators; Programming Language :: Python :: 3; Topic :: System :: Systems Administration,2026-10-29T10:42:43+00:00,2026-11-13T15:22:44+00:00,https://github.com/rackslab/RFL,v1.10.0,0,,,LGPL-3.0,"utility, basic"
+algovoi-revocation-ref,42910289,,,,2026-10-29T10:42:42+00:00,2026-11-13T15:22:44+00:00,,,,,,,
+yeetr,42910284,,,,2026-10-29T10:42:41+00:00,2026-11-13T15:22:44+00:00,,,,,,,
+trainerbase,42910279,,,,2026-10-29T10:42:40+00:00,2026-11-13T15:22:44+00:00,,,,,,,
 mixmogam,42910276,,,,,,,,,,,,
 algovoi-retention-chain,42910273,,,,,,,,,,,,
 algovoi-refund-receipt-lite,42910266,,,,,,,,,,,,
