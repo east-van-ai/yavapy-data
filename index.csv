@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-flowevent,43662936,,,,,,,,,,,,
-orange-gualbe-toolbox,43662920,,,,,,,,,,,,
-context-handoff,43662919,,,,,,,,,,,,
-lecop,43662914,,,,,,,,,,,,
-rm-api,43662909,,,,,,,,,,,,
-invinite-data-api,43662905,,,,2026-11-13T07:04:16+00:00,,,,,,,,
-skcomms,43662902,,,,,,,,,,,,
-mantos,43662901,0.109.0,The Mantos CLI — reach your Mantos tenant's API from a terminal,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: Other/Proprietary License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Utilities,2026-11-13T07:03:28+00:00,,,,,,,,"agents, api, cli, mantos"
-ggtree-py,43662896,,,,,,,,,,,,
-solvapay,43662895,,,,,,,,,,,,
+flowevent,43662936,,,,2026-11-14T20:24:27+00:00,2026-11-14T20:52:36+00:00,,,,,,,
+orange-gualbe-toolbox,43662920,,,,2026-11-14T20:22:46+00:00,2026-11-14T20:52:36+00:00,,,,,,,
+context-handoff,43662919,0.1.4,"Keep Claude Code sessions cheap: meter cost, write a handoff note, resume after /clear",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development,2026-11-14T20:22:46+00:00,2026-11-14T20:52:36+00:00,https://github.com/YauhenBichel/context-handoff,,,,anthropic; claude; claude-code; claude-code-hooks; claude-code-plugin; context-window; developer-tools; llm-cost; prompt-caching,MIT,"claude, claude-code, llm, cost, context, handoff"
+lecop,43662914,0.2.0,Fast health checks for LeRobot-format robot datasets (unofficial),Environment :: Console; Programming Language :: Rust; Topic :: Scientific/Engineering,2026-11-14T20:22:37+00:00,2026-11-14T20:52:36+00:00,https://github.com/michele-xilo/lecop,v0.2.0,0,,cli; data-validation; dataset; lerobot; parquet; robot-learning; robotics; rust,Apache-2.0,"lerobot, robotics, dataset, validator, parquet"
+rm-api,43662909,,,,2026-11-14T20:22:30+00:00,2026-11-14T20:52:36+00:00,,,,,,,
+invinite-data-api,43662905,,,,2026-11-14T20:22:28+00:00,2026-11-14T20:52:36+00:00,,,,,,,
+skcomms,43662902,0.2.22,Sovereign communications for AI agents — multi-channel transport + FQID realm addressing,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+); Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Communications; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Security :: Cryptography; Topic :: Software Development :: Libraries,2026-11-14T20:22:21+00:00,2026-11-14T20:52:36+00:00,https://github.com/smilinTux/skcomms,v0.2.22,0,,,GPL-3.0,"ai, agent, communication, realm, routing, identity, pgp, envelope, sovereign, syncthing, p2p, encrypted, transport, messaging"
+mantos,43662901,0.109.2,The Mantos CLI — reach your Mantos tenant's API from a terminal,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: Other/Proprietary License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Utilities,2026-11-14T20:22:21+00:00,2026-11-14T20:52:36+00:00,,,,,,,"agents, api, cli, mantos"
+ggtree-py,43662896,,,,2026-11-14T20:22:01+00:00,2026-11-14T20:52:36+00:00,,,,,,,
+solvapay,43662895,,,,2026-11-14T20:48:16+00:00,2026-11-14T20:52:36+00:00,,,,,,,
 email-validator,43662890,,,,,,,,,,,,
 pernox,43662887,,,,,,,,,,,,
 pyceler,43662886,,,,,,,,,,,,
