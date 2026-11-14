@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-plugin-scanner,43661599,3.59.0,"Lint, verify, and gate plugin ecosystems for maintainers, CI, and publish workflows.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Software Development :: Quality Assurance,2026-11-05T01:28:15+00:00,,https://github.com/hashgraph-online/hol-guard,v3.59.0,17,docs/guard/SKILL.md,agent-security; ai-agent-security; ai-agents; ai-antivirus; ai-security; claude-code; cursor; devsecops; gemini-cli; mcp; mcp-security; openclaw; opencode; prompt-injection; runtime-security; secrets-detection; security; security-scanner; supply-chain-security; vulnify,Apache-2.0,"ai agent security, ai agents, ai antivirus, claude, cli, codex, cursor, gemini, mcp security, opencode, plugin security, prompt injection, runtime security, secrets detection, supply chain security"
-tapwright,43661590,,,,2026-11-13T05:59:17+00:00,,,,,,,,
-heinzel-google,43661576,,,,,,,,,,,,
-fused-render,43661564,,,,,,,,,,,,
-sentrycove,43661555,,,,,,,,,,,,
-tau-by-clarity,43661553,,,,,,,,,,,,
-zim-pro,43661545,,,,,,,,,,,,
-incr-concurrent,43661542,,,,,,,,,,,,
-recusal-openai-agents-mcp,43661539,,,,,,,,,,,,
-parallax-evals,43661525,,,,,,,,,,,,
+plugin-scanner,43661599,3.59.0,"Lint, verify, and gate plugin ecosystems for maintainers, CI, and publish workflows.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Software Development :: Quality Assurance,2026-11-05T01:28:15+00:00,2026-11-14T20:37:34+00:00,https://github.com/hashgraph-online/hol-guard,v3.59.0,17,docs/guard/SKILL.md,agent-security; ai-agent-security; ai-agents; ai-antivirus; ai-security; claude-code; cursor; devsecops; gemini-cli; mcp; mcp-security; openclaw; opencode; prompt-injection; runtime-security; secrets-detection; security; security-scanner; supply-chain-security; vulnify,Apache-2.0,"ai agent security, ai agents, ai antivirus, claude, cli, codex, cursor, gemini, mcp security, opencode, plugin security, prompt injection, runtime security, secrets detection, supply chain security"
+tapwright,43661590,,,,2026-11-14T19:52:47+00:00,2026-11-14T20:37:34+00:00,,,,,,,
+heinzel-google,43661576,,,,2026-11-14T19:52:32+00:00,2026-11-14T20:37:34+00:00,,,,,,,
+fused-render,43661564,,,,2026-11-14T19:51:56+00:00,2026-11-14T20:37:34+00:00,,,,,,,
+sentrycove,43661555,,,,,2026-11-14T20:37:34+00:00,,,,,,,
+tau-by-clarity,43661553,0.60.16,"Python port of pi-mono: coding agent with multi-provider LLM support, TUI, agent loop, and tools",Development Status :: 4 - Beta; Environment :: Console; Environment :: Console :: Curses; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development; Topic :: Software Development :: Code Generators; Topic :: Software Development :: User Interfaces; Topic :: Terminals; Typing :: Typed,2026-11-14T19:51:34+00:00,2026-11-14T20:37:34+00:00,https://github.com/Nuosis/tau-by-clarity,,,,,,"agent, ai, anthropic, cli, coding-agent, llm, openai, tui"
+zim-pro,43661545,,,,2026-11-14T19:51:22+00:00,2026-11-14T20:37:34+00:00,,,,,,,
+incr-concurrent,43661542,,,,2026-04-06T02:35:55+00:00,2026-11-14T20:37:34+00:00,,,,,,,
+recusal-openai-agents-mcp,43661539,,,,2026-11-14T19:51:07+00:00,2026-11-14T20:37:34+00:00,,,,,,,
+parallax-evals,43661525,,,,2026-11-04T09:47:36+00:00,2026-11-14T20:37:34+00:00,,,,,,,
 n24q02m-crg,43661519,,,,,,,,,,,,
 al3x38-intent-guard,43661509,,,,,,,,,,,,
 ringgrid,43661501,,,,2026-10-30T20:07:43+00:00,,,,,,,,
