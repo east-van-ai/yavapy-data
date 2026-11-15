@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-planx-3d-city,43688518,,,,,,,,,,,,
-stiles,43688515,,,,,,,,,,,,
-sdg11,43688512,,,,,,,,,,,,
-opds-client,43688509,,,,,,,,,,,,
-pystashx,43688506,,,,,,,,,,,,
-urban-mcp,43688501,,,,,,,,,,,,
-pyarchinit-photogrammetry,43688498,,,,,,,,,,,,
-free-search-mcp,43688497,,,,,,,,,,,,
-sediment-export,43688492,,,,2026-11-03T22:55:45+00:00,,,,,,,,
-sediment-derive,43688491,,,,2026-11-03T22:55:44+00:00,,,,,,,,
+planx-3d-city,43688518,0.1.3,"Export GeoJSON, GeoDataFrames, OpenStreetMap data and DEMs to an offline Three.js 3D city viewer: building massing, terrain, portable HTML packages and a local preview server.",Development Status :: 4 - Beta; Environment :: Console; Environment :: Web Environment; Intended Audience :: Developers; Intended Audience :: Education; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: JavaScript; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.9; Topic :: Multimedia :: Graphics :: 3D Rendering; Topic :: Scientific/Engineering :: GIS; Topic :: Scientific/Engineering :: Visualization; Typing :: Typed,2026-11-15T14:32:04+00:00,2026-11-15T15:37:37+00:00,https://gitlab.com/geophilo1/planx_3d_city_sdk,,,,,,"3d-city-model, threejs, webgl, geojson, geopandas, dem, openstreetmap, building-massing, digital-twin, urban-planning, cityjson, 3d-tiles, gltf, gis, 3d-visualization"
+stiles,43688515,,,,2026-11-15T14:31:54+00:00,2026-11-15T15:37:37+00:00,,,,,,,
+sdg11,43688512,0.1.2,"UN SDG 11 urban indicators (11.1.1 slums, 11.2.1 transit access, 11.3.1 land consumption, 11.6.2 PM2.5, 11.7.1 open space) and the Degree of Urbanisation, following the UN-Habitat metadata.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: End Users/Desktop; Intended Audience :: Other Audience; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.9; Topic :: Scientific/Engineering :: GIS; Topic :: Scientific/Engineering :: Information Analysis; Topic :: Sociology; Typing :: Typed,2026-11-15T14:31:50+00:00,2026-11-15T15:37:37+00:00,https://gitlab.com/geophilo1/sdg11_sdk,,,,,,"sdg, sdg11, sustainable-development-goals, un-habitat, urban-indicators, degree-of-urbanisation, degurba, public-transport-access, land-consumption, lcrpgr, open-space, pm2.5, slums, voluntary-local-review, gis"
+opds-client,43688509,,,,2026-11-15T14:31:48+00:00,2026-11-15T15:37:37+00:00,,,,,,,
+pystashx,43688506,,,,2026-11-15T15:20:17+00:00,2026-11-15T15:37:37+00:00,,,,,,,
+urban-mcp,43688501,0.1.2,"MCP server (Model Context Protocol) giving AI agents urban planning and spatial statistics tools: 2SFCA accessibility, PTAL, AHP/TOPSIS, space syntax, slope-aware routing, Moran's I, LISA, Gi* and GWR.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Education; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Scientific/Engineering :: GIS; Topic :: Scientific/Engineering :: Information Analysis; Typing :: Typed,2026-11-15T14:31:38+00:00,2026-11-15T15:37:37+00:00,https://gitlab.com/geophilo1/urban_mcp_sdk,,,,,,"mcp, mcp-server, model-context-protocol, ai-agents, llm-tools, urban-planning, accessibility, 2sfca, 15-minute-city, space-syntax, isochrone, spatial-statistics, hotspot-analysis, gwr, geojson"
+pyarchinit-photogrammetry,43688498,,,,2026-11-15T14:31:06+00:00,2026-11-15T15:37:37+00:00,,,,,,,
+free-search-mcp,43688497,,,,2026-11-15T14:31:06+00:00,2026-11-15T15:37:37+00:00,,,,,,,
+sediment-export,43688492,,,,2026-11-15T14:30:42+00:00,2026-11-15T15:37:37+00:00,,,,,,,
+sediment-derive,43688491,,,,2026-11-15T14:30:41+00:00,2026-11-15T15:37:37+00:00,,,,,,,
 sediment-core,43688490,,,,2026-11-03T22:55:42+00:00,,,,,,,,
 sediment-cli,43688489,,,,2026-11-03T22:55:41+00:00,,,,,,,,
 sediment-capture,43688488,,,,2026-11-03T22:55:41+00:00,,,,,,,,
