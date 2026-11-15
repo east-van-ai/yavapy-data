@@ -64191,16 +64191,16 @@ liboqs-python,42877445,,,,2026-10-28T17:24:33+00:00,2026-11-15T12:37:43+00:00,,,
 med-imagenet,42877381,,,,2026-10-28T17:23:00+00:00,2026-11-15T12:37:43+00:00,,,,,,,
 gandr-mcp,42877371,,,,2026-10-28T17:22:36+00:00,2026-11-15T12:37:43+00:00,,,,,,,
 lassonet,42877297,,,,2026-10-28T17:21:32+00:00,2026-11-15T12:37:43+00:00,,,,,,,
-lang2sim,42877291,,,,,,,,,,,,
-certbot-dns-netbox,42877290,,,,,,,,,,,,
-agdapm,42877252,,,,,,,,,,,,
-jarvix-cli,42877249,,,,,,,,,,,,
-autograder-gen,42877246,,,,,,,,,,,,
-jarvix-harness,42877244,,,,,,,,,,,,
-jarvix-hub,42877240,,,,,,,,,,,,
-jarvix-mux,42877230,,,,,,,,,,,,
-jarvix-core,42877227,,,,,,,,,,,,
-jarvix,42877224,,,,,,,,,,,,
+lang2sim,42877291,,,,2026-10-28T17:21:25+00:00,2026-11-15T12:52:41+00:00,,,,,,,
+certbot-dns-netbox,42877290,,,,2026-10-28T17:21:19+00:00,2026-11-15T12:52:41+00:00,,,,,,,
+agdapm,42877252,,,,2026-10-28T17:20:25+00:00,2026-11-15T12:52:41+00:00,,,,,,,
+jarvix-cli,42877249,0.2.3,Jarvix command line interface,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-10-28T17:20:12+00:00,2026-11-15T12:52:41+00:00,https://github.com/loctvl842/jarvix,,,,,,"agents, ai, cli, multiplexer, tmux"
+autograder-gen,42877246,0.2.0,A tool for lecturers to automatically generate assessment scripts for Gradescope,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Education; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3,2026-10-28T17:20:11+00:00,2026-11-15T12:52:41+00:00,https://github.com/alanlivio/autograder-gen,,,,,NOASSERTION,"autograder, gradescope"
+jarvix-harness,42877244,0.2.3,Jarvix harness adapters: everything specific to one coding agent CLI,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-10-28T17:20:10+00:00,2026-11-15T12:52:41+00:00,https://github.com/loctvl842/jarvix,,,,,,"agents, ai, cli, multiplexer, tmux"
+jarvix-hub,42877240,0.2.3,Jarvix hub: agent state tracking server and client,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-10-28T17:20:08+00:00,2026-11-15T12:52:41+00:00,https://github.com/loctvl842/jarvix,,,,,,"agents, ai, cli, multiplexer, tmux"
+jarvix-mux,42877230,0.2.3,Jarvix terminal multiplexer drivers,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-10-28T17:20:05+00:00,2026-11-15T12:52:41+00:00,https://github.com/loctvl842/jarvix,,,,,,"agents, ai, cli, multiplexer, tmux"
+jarvix-core,42877227,0.2.3,Jarvix core: graph primitives,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-10-28T17:20:03+00:00,2026-11-15T12:52:41+00:00,https://github.com/loctvl842/jarvix,,,,,,"agents, ai, cli, multiplexer, tmux"
+jarvix,42877224,0.2.3,Talk to your agent(s),Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-10-28T17:20:01+00:00,2026-11-15T12:52:41+00:00,https://github.com/loctvl842/jarvix,,,,,,"agents, ai, cli, multiplexer, tmux"
 linode-cli,42877138,,,,,,,,,,,,
 jupyter-notebook-codio-ext,42877136,,,,,,,,,,,,
 pydantic-settings-utils,42877106,,,,,,,,,,,,
