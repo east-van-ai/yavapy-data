@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-cylindra,43698313,,,,2026-11-03T14:08:51+00:00,,,,,,,,
-lemonpie-cli,43698301,0.2.0rc2,LemonPie — A lightweight Ollama client for terminal users,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3,2026-11-01T14:50:35+00:00,,https://github.com/famousStratum/LemonPie,,,,cli; llm; local-ai; ollama; python; raspberry-pi; self-hosted; terminal,GPL-3.0,
-dinkster-frontend,43698299,,,,,,,,,,,,
-satchel-server,43698295,,,,,,,,,,,,
-openhound-saml-producer,43698285,,,,,,,,,,,,
-pyselfupdate,43698273,,,,,,,,,,,,
-pythonic-fp,43698270,,,,,,,,,,,,
-spawnr-cli,43698267,,,,2026-11-01T18:36:16+00:00,,,,,,,,
-spawnr,43698264,0.1.0,CLI for the Spawnr task tracker,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.9; Topic :: Software Development :: Build Tools,2026-11-01T18:36:13+00:00,,,,,,,,"cli, spawnr, sse, task-tracker"
-reaktiv,43698261,,,,,,,,,,,,
+cylindra,43698313,,,,2026-11-15T20:05:20+00:00,2026-11-15T20:37:35+00:00,,,,,,,
+lemonpie-cli,43698301,0.3.1,LemonPie — A lightweight CLI for LLM inference servers,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3,2026-11-15T20:04:42+00:00,2026-11-15T20:37:35+00:00,https://github.com/famousStratum/LemonPie,v0.3.1,0,,cli; llm; local-ai; ollama; python; raspberry-pi; self-hosted; terminal,GPL-3.0,
+dinkster-frontend,43698299,,,,2026-11-14T06:39:55+00:00,2026-11-15T20:37:35+00:00,,,,,,,
+satchel-server,43698295,,,,2026-11-15T20:32:40+00:00,2026-11-15T20:37:35+00:00,,,,,,,
+openhound-saml-producer,43698285,,,,2026-11-15T20:04:32+00:00,2026-11-15T20:37:35+00:00,,,,,,,
+pyselfupdate,43698273,0.8.0,Self-update and update notification for Python CLIs installed with uv tool,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3 :: Only; Topic :: Software Development :: Libraries; Topic :: System :: Software Distribution; Typing :: Typed,2026-11-15T20:04:08+00:00,2026-11-15T20:37:35+00:00,https://github.com/datapointchris/pyselfupdate,v0.8.0,0,,auto-update; cli; python; self-update; update-notifier; uv,MIT,"cli, release, self-update, update-notifier, uv"
+pythonic-fp,43698270,,,,2026-11-15T20:03:53+00:00,2026-11-15T20:37:35+00:00,,,,,,,
+spawnr-cli,43698267,,,,2026-11-15T20:03:48+00:00,2026-11-15T20:37:35+00:00,,,,,,,
+spawnr,43698264,0.2.0,CLI for the Spawnr task tracker,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.9; Topic :: Software Development :: Build Tools,2026-11-15T20:03:46+00:00,2026-11-15T20:37:35+00:00,,,,,,,"cli, spawnr, sse, task-tracker"
+reaktiv,43698261,,,,2026-11-15T20:03:08+00:00,2026-11-15T20:37:35+00:00,,,,,,,
 waldur-api-client,43698258,,,,,,,,,,,,
 voxa-dub,43698257,1.13.0,Voxa — automatic video translation and dubbing (Whisper + LLM translation + multi-engine TTS),Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Intended Audience :: End Users/Desktop; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.9; Topic :: Multimedia :: Sound/Audio :: Speech; Topic :: Multimedia :: Video; Topic :: Scientific/Engineering :: Artificial Intelligence,2026-11-06T07:28:21+00:00,,https://github.com/akshinmrv/Voxa,v1.13.0,0,,ai; dubbing; dubbing-ai; faster-whisper; ffmpeg; localization; ollama; openai-whisper; piper-tts; python; speech-to-text; text-to-speech; translation; video-dubbing; video-translation; voice-cloning; whisper; xttsv2,MIT,"dubbing, video, translation, whisper, tts, openai, subtitles, voice-cloning"
 krabby-hal-server,43698252,,,,,,,,,,,,
