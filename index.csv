@@ -49,7 +49,7 @@ inspire-skill,43769792,,,,,,,,,,,,
 precursor-ai,43769787,,,,2026-11-10T08:26:54+00:00,,,,,,,,
 wraithwall-sdk,43769784,,,,,,,,,,,,
 millwork,43769781,,,,,,,,,,,,
-the-loopy-one,43769779,20.12.0,"Lightweight, extensible CLI for the-loop — quality-of-life commands the the-loop plugin can use (e.g. a GitHub webhook receiver).",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Software Development :: Build Tools,2026-11-17T04:38:04+00:00,,https://github.com/MadaraUchiha-314/the-loop,v20.12.0,3,skills/writing/SKILL.md,agentic-coding; claude-code; claude-plugin; claude-skills; cursor; loop; pdlc; sdlc,MIT,"cli, pdlc, the-loop, webhook"
+the-loopy-one,43769779,20.13.0,"Lightweight, extensible CLI for the-loop — quality-of-life commands the the-loop plugin can use (e.g. a GitHub webhook receiver).",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Software Development :: Build Tools,2026-11-17T06:57:54+00:00,2026-11-17T07:37:40+00:00,https://github.com/MadaraUchiha-314/the-loop,v20.13.0,3,skills/writing/SKILL.md,agentic-coding; claude-code; claude-plugin; claude-skills; cursor; loop; pdlc; sdlc,MIT,"cli, pdlc, the-loop, webhook"
 e2me,43769778,,,,,,,,,,,,
 switchboard-agent,43769773,,,,,,,,,,,,
 netbox-proxbox,43769770,,,,,,,,,,,,
@@ -196,7 +196,7 @@ fxapk,43769242,,,,,,,,,,,,
 hestia-earth-validation,43769239,,,,,,,,,,,,
 ys-base,43769233,,,,2026-11-09T10:18:05+00:00,,,,,,,,
 boutpp-nightly,43769230,,,,,,,,,,,,
-xpd,43769228,0.31.3,"Fast, opinionated linter for Python library habits, starting with pandas, NumPy, SciPy and scikit-learn, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-17T06:32:10+00:00,,https://github.com/bjoernaagaard/xpd,v0.31.3,3,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
+xpd,43769228,0.31.3,"Fast, opinionated linter for Python library habits, starting with pandas, NumPy, SciPy and scikit-learn, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-17T06:32:10+00:00,2026-11-17T07:37:40+00:00,https://github.com/bjoernaagaard/xpd,v0.31.3,3,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
 oss-mcp-server,43769225,,,,,,,,,,,,
 captchakraken,43769219,,,,,,,,,,,,
 pgsqlite-failover,43769215,,,,,,,,,,,,
@@ -305,7 +305,7 @@ scotty-beam-tracing,43768769,,,,2026-10-30T17:07:46+00:00,,,,,,,,
 pinecall,43768766,,,,,,,,,,,,
 pinecall-runtime,43768765,,,,,,,,,,,,
 cpgeo,43768761,,,,,,,,,,,,
-revyl,43768760,0.2.12,Revyl CLI - AI-powered app testing,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.9; Topic :: Software Development :: Testing,2026-11-15T03:33:40+00:00,,https://github.com/RevylAI/revyl-cli,v0.2.12,42,skills/revyl-cli/SKILL.md,,,"android, automation, e2e, ios, mobile, revyl, testing"
+revyl,43768760,0.2.15,Revyl CLI - AI-powered app testing,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.9; Topic :: Software Development :: Testing,2026-11-17T06:16:06+00:00,2026-11-17T07:37:40+00:00,https://github.com/RevylAI/revyl-cli,v0.2.15,42,skills/revyl-cli/SKILL.md,,,"android, automation, e2e, ios, mobile, revyl, testing"
 unitysvc-core,43768759,,,,2026-11-09T01:12:25+00:00,,,,,,,,
 tradepose-models,43768753,,,,,,,,,,,,
 policyengine-us,43768748,,,,2026-11-17T03:27:04+00:00,,,,,,,,
