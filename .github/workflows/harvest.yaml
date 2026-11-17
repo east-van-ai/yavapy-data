@@ -1,12 +1,12 @@
 name: Harvest
 
 on:
-  # small batches, four an hour, clear of Sync at :27 and of the top of the hour
+  # an outside cron dispatches four batches an hour; this is the hourly fallback
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: '7 * * * *'
   workflow_dispatch:
 
-# shared with Sync: every step of both writes index.csv
+# shared with Sync and Update: every step of all three writes index.csv
 concurrency:
   group: harvest
 
@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 env:
-  HARVESTER: git+https://github.com/east-van-ai/yavapy-harvester@v0.1.1
+  HARVESTER: git+https://github.com/east-van-ai/yavapy-harvester@v0.1.2
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
@@ -34,6 +34,12 @@ jobs:
       - name: Walkdown
         run: |
           title=$(uvx --from "$HARVESTER" yavapy-harvester walkdown . --limit 10)
+          git add index.csv projects.csv
+          git diff --cached --quiet || git commit -m "$title"
+      # after Walkdown, so the rows sync added are walked before refresh stamps any
+      - name: Refresh
+        run: |
+          title=$(uvx --from "$HARVESTER" yavapy-harvester refresh . --limit 10)
           git add index.csv projects.csv
           git diff --cached --quiet || git commit -m "$title"
       - name: Catchup

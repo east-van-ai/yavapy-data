@@ -2,6 +2,15 @@
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-11-16
+
+- The workflows run the harvester's v0.1.2.
+- Harvest runs `refresh`, which looks again at projects with skills whose new release
+  is waiting.
+- The Update workflow runs `update` for one project, on demand.
+- An outside cron starts Sync and Harvest on time. Their own schedules are an hourly
+  fallback, and the Ping workflow is gone.
+
 ## [0.1.1] - 2026-11-07
 
 - `index.csv` lists every PyPI project above serial 32,000,000, sorted by serial,

@@ -6,7 +6,7 @@ on:
     - cron: '27 * * * *'
   workflow_dispatch:
 
-# shared with Harvest: every step of both writes index.csv
+# shared with Harvest and Update: every step of all three writes index.csv
 concurrency:
   group: harvest
 
@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 env:
-  HARVESTER: git+https://github.com/east-van-ai/yavapy-harvester@v0.1.1
+  HARVESTER: git+https://github.com/east-van-ai/yavapy-harvester@v0.1.2
 
 jobs:
   sync:
