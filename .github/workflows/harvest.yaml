@@ -6,7 +6,7 @@ on:
     - cron: '7 * * * *'
   workflow_dispatch:
 
-# shared with Sync: every step of both writes index.csv
+# shared with Sync and Update: every step of all three writes index.csv
 concurrency:
   group: harvest
 
