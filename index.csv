@@ -69688,16 +69688,16 @@ xploreai,42847139,,,,2026-10-28T01:59:35+00:00,2026-11-17T03:52:53+00:00,,,,,,,
 cloudoll,42847133,,,,2026-10-28T01:58:53+00:00,2026-11-17T03:52:53+00:00,,,,,,,
 async-url-caller-base,42847095,0.1.0,python async base class for calling URLs,Development Status :: 1 - Planning; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.12; Topic :: Utilities,2026-10-28T01:57:16+00:00,2026-11-17T03:52:53+00:00,https://bitbucket.org/arrizza-public/async-url-caller-base,,,,,,"async, aiohttp"
 wordsnum,42847061,,,,2026-10-28T01:55:49+00:00,2026-11-17T03:52:53+00:00,,,,,,,
-intranges,42847056,,,,,,,,,,,,
-qzsl6tool,42847045,,,,,,,,,,,,
-bytesz,42847044,,,,,,,,,,,,
-zotkit,42847019,,,,,,,,,,,,
-nonebot-plugin-farm,42847014,,,,,,,,,,,,
-fipc-python,42847009,,,,,,,,,,,,
-pelorus-cli,42847001,,,,,,,,,,,,
-pelorus,42847000,,,,,,,,,,,,
-apifix,42846972,,,,,,,,,,,,
-ray-ascend,42846958,,,,,,,,,,,,
+intranges,42847056,0.2.0,"Typed conversion between range strings like 1-3,5 and ints, with a lazy set type, dialects and a CLI",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Topic :: Utilities; Typing :: Typed,2026-10-28T01:55:32+00:00,2026-11-17T04:07:59+00:00,https://github.com/JaviLianes8/intranges,,,,,MIT,"cli, compact, cpulist, integers, intervals, page-ranges, parse, range-string, ranges"
+qzsl6tool,42847045,0.1.12,"Command-line tools for reading and converting GNSS messages, including QZSS L6, RTCM, Galileo HAS, and BeiDou PPP-B2b data.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Science/Research; Natural Language :: English; Natural Language :: Japanese; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Scientific/Engineering,2026-10-28T01:55:09+00:00,2026-11-17T04:07:59+00:00,https://github.com/yoronneko/qzsl6tool,,,,gnss; gnss-signals; python,NOASSERTION,"GNSS, QZSS, RTCM, CLAS, MADOCA, Galileo HAS, BeiDou"
+bytesz,42847044,0.2.0,Strict two-way conversion between byte counts and human sizes with explicit IEC and SI units,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Utilities; Typing :: Typed,2026-10-28T01:55:08+00:00,2026-11-17T04:07:59+00:00,https://github.com/JaviLianes8/bytesz,,,,,MIT,"bytes, format, human, iec, kib, mib, numfmt, parse, si, size"
+zotkit,42847019,0.12.0,"Let AI agents manage your Zotero library: headless CLI + Python API to search, import, enrich, export BibTeX, and attach PDFs (Web API + WebDAV) — no desktop app required",Environment :: Console; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3,2026-10-28T01:53:21+00:00,2026-11-17T04:07:59+00:00,https://github.com/oldantique/zotkit,v0.12.0,1,skills/zotkit/SKILL.md,ai-agents; bibliography; bibtex; cli; headless; reference-manager; research-tools; webdav; zotero,MIT,"zotero, reference-manager, webdav, bibliography, cli, headless, ai-agents, bibtex"
+nonebot-plugin-farm,42847014,,,,2026-10-28T01:53:18+00:00,2026-11-17T04:07:59+00:00,,,,,,,
+fipc-python,42847009,,,,2026-10-28T01:52:32+00:00,2026-11-17T04:07:59+00:00,,,,,,,
+pelorus-cli,42847001,,,,2026-10-28T01:52:11+00:00,2026-11-17T04:07:59+00:00,,,,,,,
+pelorus,42847000,,,,2026-10-28T01:52:10+00:00,2026-11-17T04:07:59+00:00,,,,,,,
+apifix,42846972,,,,2026-10-28T01:50:32+00:00,2026-11-17T04:07:59+00:00,,,,,,,
+ray-ascend,42846958,,,,2026-10-28T01:49:55+00:00,2026-11-17T04:07:59+00:00,,,,,,,
 docassemble-mako,42846935,,,,,,,,,,,,
 delta-kernel-rust-sharing-wrapper,42846904,,,,,,,,,,,,
 adbcbridge,42846889,,,,,,,,,,,,
