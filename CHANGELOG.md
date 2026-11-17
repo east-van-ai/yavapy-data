@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+- An outside cron starts both workflows on time. Harvest's own schedule is an hourly
+  fallback, and the Ping workflow is gone.
+
 ## [0.1.1] - 2026-11-07
 
 - `index.csv` lists every PyPI project above serial 32,000,000, sorted by serial,
