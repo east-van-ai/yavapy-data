@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 env:
-  HARVESTER: git+https://github.com/east-van-ai/yavapy-harvester@v0.1.1
+  HARVESTER: git+https://github.com/east-van-ai/yavapy-harvester@v0.1.2
 
 jobs:
   sync:
