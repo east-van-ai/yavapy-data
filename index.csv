@@ -70692,16 +70692,16 @@ abstract-serve-core,42839645,,,,2026-10-27T21:52:02+00:00,2026-11-17T11:22:48+00
 fairchem-core,42839636,,,,2026-10-27T21:51:51+00:00,2026-11-17T11:22:48+00:00,,,,,,,
 llmpro,42839627,0.1.4,"Keep AI assistant chats, memories and instructions in one git repo, with secrets redacted and checked.",Environment :: Console; Intended Audience :: Developers; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Topic :: Software Development,2026-10-27T21:51:35+00:00,2026-11-17T11:22:48+00:00,https://github.com/Yantrakar/llmpro,v0.1.4,1,skills/llmpro/SKILL.md,yantrakar-product,MIT,"ai, claude-code, codex, copilot, llm, mcp, memory, opencode, secrets"
 markdown-memory,42839572,,,,2026-10-27T21:50:06+00:00,2026-11-17T11:22:48+00:00,,,,,,,
-rer-linkchecker,42839540,,,,,,,,,,,,
-inklight,42839520,,,,,,,,,,,,
-media-intelligence,42839489,,,,,,,,,,,,
-argus-orchestrator,42839472,,,,,,,,,,,,
-pyramid-niteo,42839447,,,,,,,,,,,,
-sondalab-palette,42839425,,,,,,,,,,,,
-pyahead,42839340,,,,,,,,,,,,
-fastapi-ext-pkg,42839306,,,,,,,,,,,,
-django-imap-if,42839213,,,,,,,,,,,,
-soul-toolkit,42839193,,,,,,,,,,,,
+rer-linkchecker,42839540,,,,2026-10-27T21:49:01+00:00,2026-11-17T11:37:53+00:00,,,,,,,
+inklight,42839520,0.3.2,"A local document workspace for Arabic, English and mixed documents: text, tables, fields, search and review.",Development Status :: 4 - Beta; Environment :: Console; Environment :: Web Environment; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Scientific/Engineering :: Image Recognition; Topic :: Text Processing :: General; Typing :: Typed,2026-10-27T21:48:11+00:00,2026-11-17T11:37:53+00:00,https://github.com/MahmoudYahiaAhmed/inklight,v0.3.2,0,,,Apache-2.0,"arabic, document-ai, extraction, local-first, ocr, pdf, search, tables"
+media-intelligence,42839489,,,,2026-10-27T21:47:28+00:00,2026-11-17T11:37:53+00:00,,,,,,,
+argus-orchestrator,42839472,,,,2026-10-27T21:46:53+00:00,2026-11-17T11:37:53+00:00,,,,,,,
+pyramid-niteo,42839447,,,,2026-10-27T21:46:02+00:00,2026-11-17T11:37:53+00:00,,,,,,,
+sondalab-palette,42839425,0.9.1,Sondalab terminal palette: semantic color roles with a named-ANSI floor and truecolor opt-in.,Environment :: Console; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3,2026-10-27T21:45:51+00:00,2026-11-17T11:37:53+00:00,,,,,,,"ansi, cli, color, sondalab, terminal, tui"
+pyahead,42839340,0.8.1,Evidence-backed Python compatibility forecasting,Development Status :: 3 - Alpha; Environment :: Console; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14,2026-10-27T21:44:48+00:00,2026-11-17T11:37:53+00:00,https://github.com/diegorusso/pyahead,v0.8.1,0,,,Apache-2.0,
+fastapi-ext-pkg,42839306,,,,2026-10-27T21:43:45+00:00,2026-11-17T11:37:53+00:00,,,,,,,
+django-imap-if,42839213,,,,2026-10-27T21:40:44+00:00,2026-11-17T11:37:53+00:00,,,,,,,
+soul-toolkit,42839193,0.3.2,"Recon for authorized labs and CTFs: staged nmap plus per-service checks, ending in a ranked 'Where to start' list.",Environment :: Console; Intended Audience :: Information Technology; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.9; Topic :: Security,2026-10-27T21:40:06+00:00,2026-11-17T11:37:53+00:00,https://github.com/Soulsagate/soul-toolkit,v0.3.2,0,,ctf; cybersecurity; gobuster; nmap; pentest; python; recon; tryhackme,MIT,"pentest, recon, nmap, gobuster, ctf, tryhackme, security"
 madcats,42839188,,,,,,,,,,,,
 ynab-cli,42839182,,,,,,,,,,,,
 coordconverter-tk,42839169,,,,,,,,,,,,
