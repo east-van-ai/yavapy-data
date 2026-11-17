@@ -36,6 +36,12 @@ jobs:
           title=$(uvx --from "$HARVESTER" yavapy-harvester walkdown . --limit 10)
           git add index.csv projects.csv
           git diff --cached --quiet || git commit -m "$title"
+      # after Walkdown, so the rows sync added are walked before refresh stamps any
+      - name: Refresh
+        run: |
+          title=$(uvx --from "$HARVESTER" yavapy-harvester refresh . --limit 10)
+          git add index.csv projects.csv
+          git diff --cached --quiet || git commit -m "$title"
       - name: Catchup
         run: |
           title=$(uvx --from "$HARVESTER" yavapy-harvester catchup . --limit 20)
