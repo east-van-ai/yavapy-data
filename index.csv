@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-projectbudget,43811248,,,,,,,,,,,,
-clearcote,43811245,,,,2026-11-05T15:58:34+00:00,,,,,,,,
-sigmux,43811240,,,,,,,,,,,,
-narada-pyodide,43811237,,,,2026-11-04T22:29:18+00:00,,,,,,,,
-narada-core,43811236,,,,2026-11-04T22:29:17+00:00,,,,,,,,
-narada,43811235,,,,2026-11-04T22:29:16+00:00,,,,,,,,
-eclcli,43811234,,,,,,,,,,,,
-aa-health-duckdb,43811225,,,,,,,,,,,,
-slogo,43811222,,,,,,,,,,,,
-aws-snapshot,43811221,,,,,,,,,,,,
+projectbudget,43811248,,,,2026-11-18T01:19:27+00:00,2026-11-18T01:37:35+00:00,,,,,,,
+clearcote,43811245,,,,2026-11-18T01:19:21+00:00,2026-11-18T01:37:35+00:00,,,,,,,
+sigmux,43811240,0.4.0,"Convert Sigma detection rules into multiple SIEM query languages (Splunk SPL, Elasticsearch Query DSL, Microsoft Sentinel KQL, CrowdStrike Falcon LogScale, IBM QRadar AQL, Google Chronicle YARA-L, Sumo Logic).",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Information Technology; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security,2026-11-18T01:19:16+00:00,2026-11-18T01:37:35+00:00,https://github.com/kylemain/sigmux,v0.4.0,0,,,MIT,"sigma, siem, detection-engineering, splunk, elasticsearch, sentinel, kql, crowdstrike, logscale, qradar, chronicle, yara-l, sumologic, security, detectl"
+narada-pyodide,43811237,,,,2026-11-18T01:18:53+00:00,2026-11-18T01:37:35+00:00,,,,,,,
+narada-core,43811236,,,,2026-11-18T01:18:52+00:00,2026-11-18T01:37:35+00:00,,,,,,,
+narada,43811235,,,,2026-11-18T01:18:51+00:00,2026-11-18T01:37:35+00:00,,,,,,,
+eclcli,43811234,,,,2026-11-18T01:18:50+00:00,2026-11-18T01:37:35+00:00,,,,,,,
+aa-health-duckdb,43811225,0.1.16,"Adobe Analytics report suite health checks with the 2.0 API, DuckDB and one HTML report. Unofficial.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Information Technology; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Database; Topic :: Internet :: Log Analysis; Topic :: Utilities,2026-11-18T01:18:44+00:00,2026-11-18T01:37:35+00:00,https://github.com/brian-a-au/aa-health-duckdb,v0.1.16,0,,adobe; adobe-aa; adobe-analytics; adobe-cx-analytics; adobe-cx-cloud; analytics; cli; data-governance; python,Apache-2.0,"adobe-analytics, analytics, data-quality, duckdb, monitoring, report"
+slogo,43811222,,,,2026-11-18T01:29:17+00:00,2026-11-18T01:37:35+00:00,,,,,,,
+aws-snapshot,43811221,0.3.1,Point-in-time snapshots for S3 buckets and DynamoDB tables.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: System :: Archiving :: Backup; Topic :: System :: Recovery Tools; Topic :: Utilities; Typing :: Typed,2026-11-18T01:18:27+00:00,2026-11-18T01:37:35+00:00,https://github.com/GNS-Science/aws-snapshot,v0.3.1,0,,,AGPL-3.0,"aws, backup, disaster-recovery, dynamodb, pitr, s3, snapshot"
 agentenv-framework,43811216,,,,,,,,,,,,
 jcodemunch-mcp,43811213,,,,,,,,,,,,
 qig-core,43811212,,,,,,,,,,,,
