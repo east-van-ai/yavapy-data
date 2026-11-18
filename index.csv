@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-echonova,43839426,,,,,,,,,,,,
-hitlist,43839423,,,,,,,,,,,,
-akademtranslit,43839422,,,,,,,,,,,,
-icare-risk,43839421,,,,,,,,,,,,
-open-machine,43839420,,,,,,,,,,,,
-ecapi-sdk,43839411,,,,,,,,,,,,
-phiward,43839408,,,,,,,,,,,,
-dde-cargo,43839405,,,,,,,,,,,,
-bitranox-skills,43839400,,,,,,,,,,,,
-trustmux,43839397,7.23,Monitor and interact with tmux/Byobu sessions from your phone,Development Status :: 4 - Beta; Environment :: Console; License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+); Programming Language :: Python :: 3; Topic :: Terminals :: Terminal Emulators/X Terminals,2026-10-29T16:31:35+00:00,,https://github.com/dustinkirkland/byobu,7.23,0,,,GPL-3.0,"tmux, byobu, terminal, mobile, pwa"
+echonova,43839426,,,,2026-11-18T16:01:13+00:00,2026-11-18T16:37:37+00:00,,,,,,,
+hitlist,43839423,2.1.17,"Verified, source-preserving evidence for immune and nonimmune training data",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Scientific/Engineering :: Bio-Informatics,2026-11-18T16:01:08+00:00,2026-11-18T16:37:37+00:00,https://github.com/pirl-unc/hitlist,,,,,Apache-2.0,
+akademtranslit,43839422,,,,2026-11-18T15:46:38+00:00,2026-11-18T16:37:37+00:00,,,,,,,
+icare-risk,43839421,,,,2026-11-18T16:01:05+00:00,2026-11-18T16:37:37+00:00,,,,,,,
+open-machine,43839420,,,,2026-11-18T16:01:04+00:00,2026-11-18T16:37:37+00:00,,,,,,,
+ecapi-sdk,43839411,,,,2026-11-18T16:00:59+00:00,2026-11-18T16:37:37+00:00,,,,,,,
+phiward,43839408,0.2.0b1,Guards that keep protected data out of what an AI coding agent (Claude Code) sends to its model provider,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Science/Research; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.9; Topic :: Scientific/Engineering :: Bio-Informatics; Topic :: Security,2026-11-18T16:00:57+00:00,2026-11-18T16:37:37+00:00,https://github.com/msk-access/phiward,v0.2.0b1,4,skills/phiward/SKILL.md,,AGPL-3.0,"phi, hipaa, ai-agents, claude-code, sandbox, data-protection, hpc"
+dde-cargo,43839405,,,,2026-11-18T16:00:52+00:00,2026-11-18T16:37:37+00:00,,,,,,,
+bitranox-skills,43839400,11.11.0,"The bitranox Claude Code skill collection and its hooks, installable without the plugin marketplace.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Software Development,2026-11-18T16:00:45+00:00,2026-11-18T16:37:37+00:00,https://github.com/bitranox/bitranox-skills,v11.11.0,88,plugins/bitranox/skills/devops-bmk/SKILL.md,agent-memory; agent-skills; agentic-ai; ai-agents; anthropic; claude; claude-code; claude-code-hooks; claude-code-plugin; claude-code-skills; developer-tools; llm; long-term-memory; plugin-marketplace; prompt-engineering; pypi; python; self-improving; self-learning,NOASSERTION,"agent-skills, ai-agents, anthropic, claude, claude-code"
+trustmux,43839397,7.24,Monitor and interact with tmux/Byobu sessions from your phone,Development Status :: 4 - Beta; Environment :: Console; License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+); Programming Language :: Python :: 3; Topic :: Terminals :: Terminal Emulators/X Terminals,2026-11-18T16:00:43+00:00,2026-11-18T16:37:37+00:00,https://github.com/dustinkirkland/byobu,7.24,0,,,GPL-3.0,"tmux, byobu, terminal, mobile, pwa"
 pytest-bazel,43839396,,,,,,,,,,,,
 citry-ui,43839392,,,,2026-11-02T20:15:36+00:00,,,,,,,,
 bb-mask,43839389,,,,2026-10-30T11:26:59+00:00,,,,,,,,
