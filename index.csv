@@ -47787,26 +47787,26 @@ ros2-term,43348343,,,,,,,,,,,,
 advanced-automation-utilities,43348319,,,,,,,,,,,,
 precleared,43348310,,,,,,,,,,,,
 prompt-helm-sdk,43348272,,,,,,,,,,,,
-rapidgzip,43348271,,,,,,,,,,,,
-htvl-lang,43348195,,,,,,,,,,,,
-envread,43348140,,,,,,,,,,,,
-pypentair,43348127,,,,,,,,,,,,
-rwls,43348121,,,,,,,,,,,,
-legend-lh5io,43348111,,,,,,,,,,,,
-pexpect-executor,43348078,,,,,,,,,,,,
-git-dct,43348077,,,,,,,,,,,,
-gitlab-projects-migrate,43348071,,,,,,,,,,,,
-gitlab-projects-issues,43348058,,,,,,,,,,,,
-slatedb,43348032,,,,,,,,,,,,
-imagefv-extractor,43348018,,,,,,,,,,,,
-compas-robots,43347999,,,,,,,,,,,,
-mimeatlas,43347957,,,,,,,,,,,,
-walkupward,43347948,,,,,,,,,,,,
-sony-tv-rs232,43347930,,,,,,,,,,,,
-rootwire,43347911,,,,,,,,,,,,
-croner,43347904,,,,,,,,,,,,
-angmom-suite,43347880,,,,,,,,,,,,
-forelint,43347870,,,,,,,,,,,,
+rapidgzip,43348271,,,,2026-11-07T23:57:56+00:00,2026-11-19T09:37:57+00:00,,,,,,,
+htvl-lang,43348195,0.2.0,"HTVL - a tiny HTML transpiler: write .htvl files, get HTML.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: End Users/Desktop; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Compilers; Topic :: Text Processing :: Markup :: HTML,2026-11-07T23:56:10+00:00,2026-11-19T09:37:57+00:00,https://github.com/moinonin/htvl,v0.2.0,0,,,MIT,"html, transpiler, static-site, compiler, dsl"
+envread,43348140,0.2.0,"Typed reader for environment variables: inferred return types, settings dataclasses, .env files and a checker CLI, zero dependencies",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Libraries; Topic :: System :: Systems Administration; Typing :: Typed,2026-11-07T23:54:58+00:00,2026-11-19T09:37:57+00:00,https://github.com/JaviLianes8/typedenv,,,,,MIT,"12factor, config, dotenv, env, environment, environment-variables, settings, typed"
+pypentair,43348127,,,,2026-11-07T23:54:48+00:00,2026-11-19T09:37:57+00:00,,,,,,,
+rwls,43348121,,,,2026-11-07T23:54:42+00:00,2026-11-19T09:37:57+00:00,,,,,,,
+legend-lh5io,43348111,,,,2026-11-07T23:53:59+00:00,2026-11-19T09:37:57+00:00,,,,,,,
+pexpect-executor,43348078,4.5.0,Automate interactive CLI tools actions,Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development; Topic :: Utilities,2026-11-07T23:52:42+00:00,2026-11-19T09:37:57+00:00,https://gitlab.com/RadianDevCore/tools,,,,,,pexpect pexpect-executor
+git-dct,43348077,5.0.0,Git development CLI tools for daily usage,Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development; Topic :: Utilities,2026-11-07T23:52:42+00:00,2026-11-19T09:37:57+00:00,https://gitlab.com/RadianDevCore/tools,,,,,,git git-dct
+gitlab-projects-migrate,43348071,6.10.0,Migrate GitLab projects from a GitLab group to another GitLab's group,Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development; Topic :: Utilities,2026-11-07T23:52:30+00:00,2026-11-19T09:37:57+00:00,https://gitlab.com/RadianDevCore/tools,,,,,,gitlab projects migrate group project
+gitlab-projects-issues,43348058,4.3.0,Generate GitLab project issues and milestones statistics automatically,Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development; Topic :: Utilities,2026-11-07T23:52:14+00:00,2026-11-19T09:37:57+00:00,https://gitlab.com/RadianDevCore/tools,,,,,,gitlab projects issues milestones
+slatedb,43348032,,,,2026-11-07T23:51:41+00:00,2026-11-19T09:37:57+00:00,,,,,,,
+imagefv-extractor,43348018,1.0.2,Extract bootloader and charging images from imagefv firmware blobs,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Intended Audience :: End Users/Desktop; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Utilities; Typing :: Typed,2026-11-07T23:51:22+00:00,2026-11-19T09:37:57+00:00,https://github.com/chkndrp/imagefv-extractor,1.0.2,0,,abl; android; bootloader; cot; cross-platform; elf; imagefv; oem; qcom; qualcomm; reverse-engineering; splash; uefi; xbl,LGPL-3.0,"android, firmware, imagefv, qcom, qualcomm, uefi, extractor, bootloader, charging, research, cli, library, splash, logo"
+compas-robots,43347999,,,,2026-11-07T23:51:04+00:00,2026-11-19T09:37:57+00:00,,,,,,,
+mimeatlas,43347957,1.0.0,"Deterministic, OS-independent file extension and MIME type mapping generated from mime-db, zero dependencies",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Internet :: WWW/HTTP; Typing :: Typed,2026-11-07T23:49:17+00:00,2026-11-19T09:37:57+00:00,https://github.com/JaviLianes8/mimeatlas,,,,,MIT,"content-type, file-extension, media-type, mime, mime-db, mimetypes"
+walkupward,43347948,1.0.0,"Walk up from a start directory to find a marker file or directory, typed and dependency free",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development :: Libraries; Topic :: System :: Filesystems; Typing :: Typed,2026-11-07T23:49:05+00:00,2026-11-19T09:37:57+00:00,https://github.com/JaviLianes8/walkupward,,,,,MIT,"cli, directory, editorconfig, find-up, git, marker, project-root"
+sony-tv-rs232,43347930,,,,2026-11-07T23:48:10+00:00,2026-11-19T09:37:57+00:00,,,,,,,
+rootwire,43347911,7.0.0,RootWire: a network traffic monitor that decodes raw Ethernet frames,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Information Technology; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: System :: Networking :: Monitoring,2026-11-07T23:47:31+00:00,2026-11-19T09:37:57+00:00,https://github.com/EONRaider/RootWire,v7.0.0,0,,ethical-hacking; network-programming; packet-sniffer; pentesting-tools; tcp-ip,AGPL-3.0,"monitoring, networking, packets, security, sniffer"
+croner,43347904,,,,2026-11-07T23:47:25+00:00,2026-11-19T09:37:57+00:00,,,,,,,
+angmom-suite,43347880,,,,2026-11-07T23:47:04+00:00,2026-11-19T09:37:57+00:00,,,,,,,
+forelint,43347870,,,,2026-11-07T23:46:45+00:00,2026-11-19T09:37:57+00:00,,,,,,,
 scdlbot,43347869,,,,2026-11-07T23:46:45+00:00,2026-11-19T09:22:39+00:00,,,,,,,
 roadstyle-mcp,43347855,,,,2026-11-07T23:45:33+00:00,2026-11-19T09:22:39+00:00,,,,,,,
 roadstyle,43347854,,,,2026-11-07T23:45:31+00:00,2026-11-19T09:22:39+00:00,,,,,,,
