@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-agent-session-insights,43866401,,,,,,,,,,,,
-promptli-gateway,43866398,,,,2026-11-04T06:49:41+00:00,,,,,,,,
-hubrelay,43866395,,,,,,,,,,,,
-agcoord,43866392,,,,,,,,,,,,
-py-visactor-elk,43866391,,,,2026-11-07T13:48:09+00:00,,,,,,,,
-promptli,43866390,,,,2026-11-04T06:49:21+00:00,,,,,,,,
-chromedriver-py,43866389,,,,,,,,,,,,
-tailwhip,43866380,,,,,,,,,,,,
-esim-intellimanager,43866377,,,,,,,,,,,,
-rqark-tui,43866374,,,,,,,,,,,,
+agent-session-insights,43866401,0.1.9,Evidence-linked reports and offline players for coding-agent sessions.,Development Status :: 3 - Alpha; Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Topic :: Software Development,2026-11-19T05:18:07+00:00,2026-11-19T05:37:37+00:00,https://github.com/markrussinovich/agent-session-insights,v0.1.9,3,.github/skills/publish-review/SKILL.md,,MIT,
+promptli-gateway,43866398,,,,2026-11-19T05:18:05+00:00,2026-11-19T05:37:37+00:00,,,,,,,
+hubrelay,43866395,,,,2026-11-19T05:35:16+00:00,2026-11-19T05:37:37+00:00,,,,,,,
+agcoord,43866392,0.9.5,Local CI and merge queue for coding agents that share one machine,Development Status :: 3 - Alpha; Environment :: Console; Framework :: Pytest; Intended Audience :: Developers; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Build Tools; Typing :: Typed,2026-11-19T05:17:23+00:00,2026-11-19T05:37:37+00:00,https://github.com/xu-hao/agcoord,v0.9.5,1,skills/agcoord/SKILL.md,cgroups; ci; claude-code; codex; coding-agents; developer-tools; git-worktree; job-scheduler; merge-queue; python; rust,MIT,"coding-agents, claude-code, codex, merge-queue, job-scheduler, cgroups, git-worktree, ci"
+py-visactor-elk,43866391,,,,2026-11-19T05:17:23+00:00,2026-11-19T05:37:37+00:00,,,,,,,
+promptli,43866390,,,,2026-11-19T05:17:22+00:00,2026-11-19T05:37:37+00:00,,,,,,,
+chromedriver-py,43866389,,,,2026-11-18T05:21:22+00:00,2026-11-19T05:37:37+00:00,,,,,,,
+tailwhip,43866380,,,,2026-11-19T05:17:11+00:00,2026-11-19T05:37:37+00:00,,,,,,,
+esim-intellimanager,43866377,0.1.1,A modular external EDA tool manager prototype for eSim,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Topic :: Scientific/Engineering :: Electronic Design Automation (EDA),2026-11-19T05:17:02+00:00,2026-11-19T05:37:37+00:00,https://github.com/pradeep14012004/esim-intellimanager,,,,,,"esim, eda, ngspice, kicad, ghdl, verilator, tool-manager"
+rqark-tui,43866374,0.11.2,"Terminal chat client for LLM coding agents, built on Textual",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3.14; Topic :: Terminals,2026-11-19T05:16:36+00:00,2026-11-19T05:37:37+00:00,https://github.com/Red-Queen-Ark/rqark-tui,v0.11.2,0,,,MIT,"agent, chat, llm, textual, tui"
 papyrus-newsroom,43866371,,,,2026-11-19T00:26:36+00:00,,,,,,,,
 decascan,43866368,,,,,,,,,,,,
 pulumi-oci,43866365,,,,,,,,,,,,
