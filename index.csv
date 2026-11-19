@@ -543,7 +543,7 @@ actaeon,43899371,,,,,,,,,,,,
 jupyter-islide,43899363,,,,,,,,,,,,
 oniops,43899361,,,,,,,,,,,,
 pixel-editing-lab,43899358,,,,,,,,,,,,
-stagemesh,43899352,0.6.30,Provider-neutral control plane for autonomous software engineering lifecycles,Development Status :: 4 - Beta; Environment :: Console; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-11-19T16:49:31+00:00,,https://github.com/saketvishal/stagemesh,v0.6.30,5,src/stagemesh/skill_packs/frontend-design/SKILL.md,,MIT,"software-engineering, automation, agents, github"
+stagemesh,43899352,0.6.31,Provider-neutral control plane for autonomous software engineering lifecycles,Development Status :: 4 - Beta; Environment :: Console; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-11-19T18:57:55+00:00,2026-11-19T20:52:39+00:00,https://github.com/saketvishal/stagemesh,v0.6.31,5,src/stagemesh/skill_packs/frontend-design/SKILL.md,,MIT,"software-engineering, automation, agents, github"
 combycode-dpe,43899350,,,,,,,,,,,,
 kernel,43899347,,,,,,,,,,,,
 value-semantics-core,43899341,,,,,,,,,,,,
