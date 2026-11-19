@@ -579,7 +579,7 @@ opinion-cumplimiento-sat-scraper-python,43904992,,,,,,,,,,,,
 lbt-dragonfly,43904987,,,,,,,,,,,,
 sibyld,43904984,,,,2026-11-05T08:22:24+00:00,,,,,,,,
 trackfetch,43904983,,,,,,,,,,,,
-sibyl-dev,43904982,1.4.13,CLI for Sibyl knowledge graph and task workflow,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.13; Typing :: Typed,2026-11-05T08:22:23+00:00,,https://github.com/hyperb1iss/sibyl,v1.4.13,3,skills/sibyl/SKILL.md,agent-memory; agent-skills; ai-agents; ai-memory; claude; claude-code; cli; codex; cross-agent-memory; cursor; knowledge-graph; llm-memory; mcp; mcp-server; opencode; self-hosted; semantic-search; sibyl; surrealdb; task-manager,Apache-2.0,"cli, knowledge-graph, mcp, tasks"
+sibyl-dev,43904982,1.4.13,CLI for Sibyl knowledge graph and task workflow,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.13; Typing :: Typed,2026-11-05T08:22:23+00:00,2026-11-19T22:52:40+00:00,https://github.com/hyperb1iss/sibyl,v1.4.13,3,skills/sibyl/SKILL.md,agent-memory; agent-skills; ai-agents; ai-memory; claude; claude-code; cli; codex; cross-agent-memory; cursor; knowledge-graph; llm-memory; mcp; mcp-server; opencode; self-hosted; semantic-search; sibyl; surrealdb; task-manager,Apache-2.0,"cli, knowledge-graph, mcp, tasks"
 sibyl-core,43904979,,,,2026-11-05T08:22:21+00:00,,,,,,,,
 agencycore-cli,43904972,,,,,,,,,,,,
 session-migrate,43904964,,,,,,,,,,,,
@@ -691,7 +691,7 @@ nvta-taplite-workflow,43904508,,,,2026-11-05T20:42:37+00:00,,,,,,,,
 streamcast,43904505,,,,,,,,,,,,
 iristool,43904502,,,,,,,,,,,,
 openadapt-flow,43904499,,,,,,,,,,,,
-stagemesh,43904496,0.6.31,Provider-neutral control plane for autonomous software engineering lifecycles,Development Status :: 4 - Beta; Environment :: Console; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-11-19T18:57:55+00:00,,https://github.com/saketvishal/stagemesh,v0.6.31,5,src/stagemesh/skill_packs/frontend-design/SKILL.md,,MIT,"software-engineering, automation, agents, github"
+stagemesh,43904496,0.6.32,Provider-neutral control plane for autonomous software engineering lifecycles,Development Status :: 4 - Beta; Environment :: Console; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-11-19T20:53:15+00:00,2026-11-19T22:52:40+00:00,https://github.com/saketvishal/stagemesh,v0.6.32,5,src/stagemesh/skill_packs/frontend-design/SKILL.md,,MIT,"software-engineering, automation, agents, github"
 stateset-agents,43904491,,,,2026-10-27T20:56:21+00:00,,,,,,,,
 nuspace,43904485,,,,,,,,,,,,
 symcrys,43904482,,,,,,,,,,,,
