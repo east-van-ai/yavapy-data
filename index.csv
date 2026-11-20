@@ -24,7 +24,7 @@ pi-agent-python-sdk,43956101,,,,,,,,,,,,
 openrewrite,43956098,,,,,,,,,,,,
 release-drift,43956095,,,,,,,,,,,,
 embeddedci-mcp,43956094,,,,,,,,,,,,
-open-workspace-builder,43956089,1.18.4,"Scaffold, maintain, and secure AI coding workspaces",Development Status :: 4 - Beta; Environment :: Console; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Build Tools,2026-11-02T20:46:25+00:00,,https://github.com/originalrgsec/open-workspace-builder,v1.18.4,14,skills/vault-audit/SKILL.md,,MIT,
+open-workspace-builder,43956089,1.18.5,"Scaffold, maintain, and secure AI coding workspaces",Development Status :: 4 - Beta; Environment :: Console; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Build Tools,2026-11-20T22:41:49+00:00,2026-11-20T23:37:42+00:00,https://github.com/originalrgsec/open-workspace-builder,v1.18.5,14,skills/vault-audit/SKILL.md,,MIT,
 pycarlo,43956086,,,,2026-11-19T11:09:05+00:00,,,,,,,,
 coval-sdk,43956085,,,,2026-11-18T22:38:52+00:00,,,,,,,,
 tenir-governance,43956080,,,,,,,,,,,,
@@ -117,7 +117,7 @@ recipe-dsl,43955792,,,,,,,,,,,,
 amesa-train-legacy,43955790,,,,,,,,,,,,
 amesa-legacy,43955779,,,,,,,,,,,,
 amesa-inference-legacy,43955768,,,,,,,,,,,,
-peerhub,43955764,0.25.0,Local transactional coordination for collaborating AI peers,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Utilities,2026-11-20T15:36:54+00:00,,https://github.com/greatgc-flow/peerhub,v0.25.0,3,.claude/skills/refresh-model-profiles/SKILL.md,,MIT,"ai-agents, cli, coordination, multi-agent, orchestration"
+peerhub,43955764,0.26.0,Local transactional coordination for collaborating AI peers,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Utilities,2026-11-20T22:26:07+00:00,2026-11-20T23:37:42+00:00,https://github.com/greatgc-flow/peerhub,v0.26.0,3,.claude/skills/refresh-model-profiles/SKILL.md,,MIT,"ai-agents, cli, coordination, multi-agent, orchestration"
 pydantic-views,43955762,,,,2026-11-13T08:05:55+00:00,,,,,,,,
 amesa-core-legacy,43955751,,,,,,,,,,,,
 permissions2fast-fastapi,43955748,,,,,,,,,,,,
@@ -193,11 +193,11 @@ beancount-openbanking-io,43955490,,,,,,,,,,,,
 open-banking-io,43955487,,,,,,,,,,,,
 cuju-gfootball,43955484,,,,,,,,,,,,
 daita-agents,43955481,,,,,,,,,,,,
-agentenv-framework,43955479,0.9.1608,"SDK and CLI for building, deploying and running agent environments and the tasks that grade agents in them.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Science/Research; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Libraries :: Application Frameworks; Typing :: Typed,2026-11-20T22:18:18+00:00,,https://github.com/scaleapi/agentenv-framework,v0.9.1608,1,tst/data/skills/sample_skill/SKILL.md,a2a; agent-evaluation; agentic-ai; ai-agents; llm-agents; llm-evaluation; mcp; model-context-protocol; python; reinforcement-learning; reinforcement-learning-environments; sandbox,Apache-2.0,"a2a, agent-evaluation, ai-agents, llm-agents, mcp, model-context-protocol, reinforcement-learning, rl-environments, sandbox"
+agentenv-framework,43955479,0.9.1609,"SDK and CLI for building, deploying and running agent environments and the tasks that grade agents in them.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Science/Research; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Libraries :: Application Frameworks; Typing :: Typed,2026-11-20T22:54:43+00:00,2026-11-20T23:37:42+00:00,https://github.com/scaleapi/agentenv-framework,v0.9.1609,1,tst/data/skills/sample_skill/SKILL.md,a2a; agent-evaluation; agentic-ai; ai-agents; llm-agents; llm-evaluation; mcp; model-context-protocol; python; reinforcement-learning; reinforcement-learning-environments; sandbox,Apache-2.0,"a2a, agent-evaluation, ai-agents, llm-agents, mcp, model-context-protocol, reinforcement-learning, rl-environments, sandbox"
 olign,43955474,,,,,,,,,,,,
 eyepop,43955473,,,,2026-11-20T05:02:26+00:00,,,,,,,,
 tdk-py,43955470,,,,,,,,,,,,
-agent-session-insights,43955463,0.1.11,Evidence-linked reports and offline players for coding-agent sessions.,Development Status :: 3 - Alpha; Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Topic :: Software Development,2026-11-19T21:09:50+00:00,,https://github.com/markrussinovich/agent-session-insights,v0.1.11,3,.github/skills/publish-review/SKILL.md,,MIT,
+agent-session-insights,43955463,0.1.12,Evidence-linked reports and offline players for coding-agent sessions.,Development Status :: 3 - Alpha; Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Topic :: Software Development,2026-11-20T22:18:09+00:00,2026-11-20T23:37:42+00:00,https://github.com/markrussinovich/agent-session-insights,v0.1.12,3,.github/skills/publish-review/SKILL.md,,MIT,
 findfmt,43955460,,,,,,,,,,,,
 kdl-py,43955457,,,,,,,,,,,,
 cuju-engine,43955454,,,,,,,,,,,,
@@ -213,7 +213,7 @@ track-4dgs,43955386,,,,2026-11-14T22:52:50+00:00,,,,,,,,
 perata-sdk,43955378,,,,2026-11-01T20:33:56+00:00,,,,,,,,
 eda-agent-route,43955374,,,,,,,,,,,,
 data-gantry,43955362,,,,,,,,,,,,
-passkey-mcp,43955359,0.9.0,Cross-platform secrets manager for MCP servers and CLI tools,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Utilities,2026-11-20T17:13:19+00:00,,https://github.com/TheNickSanchez/passkey-mcp,v0.9.0,1,.cursor/skills/release-hygiene/SKILL.md,,MIT,"keychain, secrets, mcp, cli"
+passkey-mcp,43955359,0.10.0,Cross-platform secrets manager for MCP servers and CLI tools,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Utilities,2026-11-20T23:14:13+00:00,2026-11-20T23:37:42+00:00,https://github.com/TheNickSanchez/passkey-mcp,v0.10.0,1,.cursor/skills/release-hygiene/SKILL.md,,MIT,"keychain, secrets, mcp, cli"
 avalanche-ai,43955356,,,,,,,,,,,,
 fers-calculations,43955355,,,,2026-11-19T11:52:15+00:00,,,,,,,,
 otpme,43955351,,,,2026-10-30T20:42:38+00:00,,,,,,,,
@@ -296,7 +296,7 @@ arxyne,43955004,,,,,,,,,,,,
 tatolab-stream,43954999,,,,2026-11-20T09:03:37+00:00,,,,,,,,
 benodb-mcp,43954990,,,,,,,,,,,,
 setrya,43954982,,,,,,,,,,,,
-code-coordinator,43954977,0.5.794,Coordinate Claude Code workers across multiple machines and repos.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3.12; Topic :: Software Development :: Build Tools,2026-11-20T10:16:04+00:00,,https://github.com/JDonaghy/claude-coordinator,v0.5.794,10,coord/skills/release-now/SKILL.md,,NOASSERTION,"claude, claude-code, multi-agent, coordinator, automation"
+code-coordinator,43954977,0.5.796,Coordinate Claude Code workers across multiple machines and repos.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3.12; Topic :: Software Development :: Build Tools,2026-11-20T23:21:28+00:00,2026-11-20T23:37:42+00:00,https://github.com/JDonaghy/claude-coordinator,v0.5.796,10,coord/skills/release-now/SKILL.md,,NOASSERTION,"claude, claude-code, multi-agent, coordinator, automation"
 senpy-linter,43954970,,,,,,,,,,,,
 langlauf-cli,43954969,,,,,,,,,,,,
 secantusdb,43954962,,,,,,,,,,,,
@@ -323,7 +323,7 @@ s3dgraphy,43954883,1.5.4,3D Stratigraphic Graph Management Library for archaeolo
 sentry-protos,43954880,,,,,,,,,,,,
 vention-sim-grpc-py-sdk,43954877,,,,,,,,,,,,
 dynamicio,43954876,,,,,,,,,,,,
-ai-agent-rules,43954871,0.82.0,Manage user-level AI agent configurations,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.13; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Utilities,2026-11-16T02:30:35+00:00,,https://github.com/wpfleger96/ai-agent-rules,v0.82.0,16,src/ai_rules/config/skills/rebase/SKILL.md,ai; claude-code; coding-agents; llm; python,MIT,"ai, cli, codex, configuration, claude, goose, llm, agent"
+ai-agent-rules,43954871,0.83.0,Manage user-level AI agent configurations,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.13; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Utilities,2026-11-20T22:02:42+00:00,2026-11-20T23:37:42+00:00,https://github.com/wpfleger96/ai-agent-rules,v0.83.0,10,src/ai_rules/config/skills/rebase/SKILL.md,ai; claude-code; coding-agents; llm; python,MIT,"ai, cli, codex, configuration, claude, goose, llm, agent"
 hegeltest,43954863,,,,,,,,,,,,
 finance-calc-mcp,43954852,,,,,,,,,,,,
 vekna,43954851,,,,,,,,,,,,
@@ -424,7 +424,7 @@ griip-sdk,43954306,,,,,,,,,,,,
 griip-core,43954303,,,,,,,,,,,,
 torchvisir,43954300,,,,,,,,,,,,
 mars-agents,43954297,,,,,,,,,,,,
-bitranox-skills,43954293,11.17.5,"The bitranox Claude Code skill collection and its hooks, installable without the plugin marketplace.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Software Development,2026-11-20T21:16:16+00:00,,https://github.com/bitranox/bitranox-skills,v11.17.5,88,plugins/bitranox/skills/devops-bmk/SKILL.md,agent-memory; agent-skills; agentic-ai; ai-agents; anthropic; claude; claude-code; claude-code-hooks; claude-code-plugin; claude-code-skills; developer-tools; llm; long-term-memory; plugin-marketplace; prompt-engineering; pypi; python; self-improving; self-learning,NOASSERTION,"agent-skills, ai-agents, anthropic, claude, claude-code"
+bitranox-skills,43954293,11.18.1,"The bitranox Claude Code skill collection and its hooks, installable without the plugin marketplace.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Software Development,2026-11-20T22:57:02+00:00,2026-11-20T23:37:42+00:00,https://github.com/bitranox/bitranox-skills,v11.18.1,88,plugins/bitranox/skills/devops-bmk/SKILL.md,agent-memory; agent-skills; agentic-ai; ai-agents; anthropic; claude; claude-code; claude-code-hooks; claude-code-plugin; claude-code-skills; developer-tools; llm; long-term-memory; plugin-marketplace; prompt-engineering; pypi; python; self-improving; self-learning,NOASSERTION,"agent-skills, ai-agents, anthropic, claude, claude-code"
 b4n1-boost,43954289,,,,,,,,,,,,
 agentscope-acgs,43954281,,,,2026-10-29T16:03:08+00:00,,,,,,,,
 es-aces,43954278,,,,,,,,,,,,
