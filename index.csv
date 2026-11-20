@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-scalio-selftest,43920943,,,,,,,,,,,,
-depquiet,43920940,0.47.4,"Tells you which dependency alerts never reach production, with proof from your lockfile. pip-audit, uv audit, npm, pnpm, Yarn.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Information Technology; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing; Typing :: Typed,2026-11-17T19:37:34+00:00,,https://github.com/samuelrojas-dev/depquiet,v0.47.4,0,,cli; dependabot; dependency-management; devsecops; epss; github-actions; npm-audit; pip-audit; poetry; python; sarif; scan; security; supply-chain-security; triage; trivy; uv; vulnerability,MIT,"cve, cyclonedx, dependabot, devsecops, epss, npm-audit, pip-audit, policy-as-code, reachability, sarif, sbom, sca, security, supply-chain, triage, trivy, vulnerability"
-jijmodeling,43920937,,,,,,,,,,,,
-mystack-rig,43920933,,,,,,,,,,,,
-quelware-tools,43920930,,,,2026-11-04T00:50:31+00:00,,,,,,,,
-jokodm,43920927,,,,,,,,,,,,
-rat-trig,43920922,,,,,,,,,,,,
-leto-domain-api,43920919,,,,,,,,,,,,
-prusik,43920918,,,,2026-11-14T21:52:49+00:00,,,,,,,,
-gms-mcp,43920911,,,,2026-11-10T04:27:00+00:00,,,,,,,,
+scalio-selftest,43920943,,,,2026-11-20T06:02:36+00:00,2026-11-20T06:37:39+00:00,,,,,,,
+depquiet,43920940,0.51.1,"Tells you what to change to close your dependency alerts, verified with your resolver, and which alerts never reach production. uv, Poetry, pip-audit, npm, pnpm, Yarn.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Information Technology; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing; Typing :: Typed,2026-11-20T06:02:28+00:00,2026-11-20T06:37:39+00:00,https://github.com/samuelrojas-dev/depquiet,v0.51.1,0,,cli; dependabot; dependency-management; devsecops; epss; github-actions; mcp-server; npm-audit; pip-audit; poetry; python; sarif; scan; security; software-composition-analysis; supply-chain-security; triage; trivy; uv; vulnerability,MIT,"cve, cyclonedx, dependabot, devsecops, epss, npm-audit, pip-audit, policy-as-code, reachability, sarif, sbom, sca, security, supply-chain, triage, trivy, vulnerability"
+jijmodeling,43920937,,,,2026-11-20T06:03:39+00:00,2026-11-20T06:37:39+00:00,,,,,,,
+mystack-rig,43920933,,,,2026-11-20T06:02:12+00:00,2026-11-20T06:37:39+00:00,,,,,,,
+quelware-tools,43920930,,,,2026-11-20T06:02:05+00:00,2026-11-20T06:37:39+00:00,,,,,,,
+jokodm,43920927,,,,2026-11-20T06:30:00+00:00,2026-11-20T06:37:39+00:00,,,,,,,
+rat-trig,43920922,,,,2026-11-20T06:01:00+00:00,2026-11-20T06:37:39+00:00,,,,,,,
+leto-domain-api,43920919,,,,2026-11-20T06:00:46+00:00,2026-11-20T06:37:39+00:00,,,,,,,
+prusik,43920918,,,,2026-11-20T06:00:44+00:00,2026-11-20T06:37:39+00:00,,,,,,,
+gms-mcp,43920911,,,,2026-11-14T02:10:02+00:00,2026-11-20T06:37:39+00:00,,,,,,,
 mcp-stealth-chrome,43920908,,,,,,,,,,,,
 tatolab-stream,43920905,,,,2026-11-20T05:02:42+00:00,,,,,,,,
 mcp-server-linkedin,43920902,4.30.0,"MCP server that gives AI assistants like Claude access to LinkedIn profiles, companies, and job postings through the user's own browser session.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Internet :: WWW/HTTP :: Dynamic Content; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Libraries :: Python Modules,2026-11-13T04:50:51+00:00,,https://github.com/stickerdaniel/linkedin-mcp-server,v4.30.0,7,.agents/skills/btca-local/SKILL.md,ai-agents; anthropic; chatgpt; chatgpt-desktop; claude; claude-ai; claude-code; claude-desktop; desktop-extension; dxt; linkedin; linkedin-api; linkedin-mcp; linkedin-profile-scraper; linkedin-scraper; mcp; mcp-server; model-context-protocol; python,Apache-2.0,"mcp, model-context-protocol, ai, llm, anthropic, claude"
