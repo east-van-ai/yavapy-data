@@ -74,7 +74,7 @@ odoo-addon-delivery-package-number,43928399,,,,,,,,,,,,
 pyaga8,43928397,,,,,,,,,,,,
 msw-flir-bonsai,43928392,,,,,,,,,,,,
 vaemail,43928386,,,,,,,,,,,,
-code-coordinator,43928381,0.5.793,Coordinate Claude Code workers across multiple machines and repos.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3.12; Topic :: Software Development :: Build Tools,2026-11-20T08:33:06+00:00,,https://github.com/JDonaghy/claude-coordinator,v0.5.793,10,coord/skills/release-now/SKILL.md,,NOASSERTION,"claude, claude-code, multi-agent, coordinator, automation"
+code-coordinator,43928381,0.5.794,Coordinate Claude Code workers across multiple machines and repos.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3.12; Topic :: Software Development :: Build Tools,2026-11-20T10:16:04+00:00,2026-11-20T10:37:42+00:00,https://github.com/JDonaghy/claude-coordinator,v0.5.794,10,coord/skills/release-now/SKILL.md,,NOASSERTION,"claude, claude-code, multi-agent, coordinator, automation"
 ax-engine-sglang,43928368,,,,,,,,,,,,
 ants-platform-sdk,43928363,,,,,,,,,,,,
 openmates,43928360,,,,2026-10-27T11:34:19+00:00,,,,,,,,
@@ -136,7 +136,7 @@ ucloud-sdk-python3,43928155,,,,,,,,,,,,
 pvtlib,43928152,,,,,,,,,,,,
 imio-pm-locales,43928149,,,,2026-09-29T07:31:48+00:00,,,,,,,,
 odoo-addon-contract,43928143,,,,,,,,,,,,
-notefeed,43928141,0.38.0,"Client and CLI for notefeed, a self-hosted inbox for markdown notes that you read back as RSS.",Environment :: Console; Programming Language :: Python :: 3; Topic :: Communications,2026-11-19T17:34:42+00:00,,https://github.com/notefeed/notefeed,v0.38.0,3,.claude/skills/release/SKILL.md,api; docker; markdown; mcp; nextjs; notes; notifications; rss; self-hosted; selfhosted,AGPL-3.0,"cli, homelab, markdown, notefeed, notes, rss, self-hosted"
+notefeed,43928141,0.38.1,"Client and CLI for notefeed, a self-hosted inbox for markdown notes that you read back as RSS.",Environment :: Console; Programming Language :: Python :: 3; Topic :: Communications,2026-11-20T10:07:20+00:00,2026-11-20T10:37:42+00:00,https://github.com/notefeed/notefeed,v0.38.1,3,.claude/skills/release/SKILL.md,api; docker; markdown; mcp; nextjs; notes; notifications; rss; self-hosted; selfhosted,AGPL-3.0,"cli, homelab, markdown, notefeed, notes, rss, self-hosted"
 lingrep,43928138,,,,,,,,,,,,
 vapoursynth-fillborders,43928133,,,,,,,,,,,,
 lybase-ex,43928126,,,,2026-11-19T02:14:10+00:00,,,,,,,,
