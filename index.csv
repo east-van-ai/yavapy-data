@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-tba-protocol-workload-wimse-identifier,43910714,,,,,,,,,,,,
-configargparse,43910712,,,,,,,,,,,,
-fairshare-cli,43910709,0.1.4,"One assistant across several AI-assistant subscriptions: shared history and settings, each session started on the account whose budget is best used now.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14,2026-11-18T04:48:01+00:00,,https://github.com/Dongli99/fairshare,v0.1.4,1,src/fairshare/providers/claude_skill/SKILL.md,ai-coding; anthropic; claude; claude-code; cli; developer-tools; multi-account; python; usage-limits,MIT,"claude-code, cli, routing, subscriptions, usage"
-daclhound,43910706,0.1.32,Collect Active Directory DACLs and explore them in an interactive graph,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Information Technology; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Topic :: Security,2026-11-13T00:11:32+00:00,,,,,,,,"active-directory, acl, dacl, bloodhound, security"
-ddgai,43910703,,,,,,,,,,,,
-dinkster-api,43910700,,,,2026-11-18T09:50:32+00:00,,,,,,,,
-dinkster,43910698,,,,2026-11-18T09:50:36+00:00,,,,,,,,
-unstructured-transform-client,43910696,,,,,,,,,,,,
-dinkster-engine,43910694,,,,2026-11-18T09:50:36+00:00,,,,,,,,
-dkist-processing-vbi,43910692,,,,,,,,,,,,
+tba-protocol-workload-wimse-identifier,43910714,,,,2026-11-19T23:29:14+00:00,2026-11-20T00:37:37+00:00,,,,,,,
+configargparse,43910712,,,,2026-11-19T23:29:10+00:00,2026-11-20T00:37:37+00:00,,,,,,,
+fairshare-cli,43910709,0.2.0,"Use multiple AI subscriptions like one: Claude Code across your accounts, with shared history, memory and skills, each session on the account with the most to spare.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14,2026-11-19T23:29:08+00:00,2026-11-20T00:37:37+00:00,https://github.com/Dongli99/fairshare,v0.2.0,1,src/fairshare/providers/claude_skill/SKILL.md,ai-coding; anthropic; claude; claude-code; cli; developer-tools; multi-account; python; usage-limits,MIT,"claude-code, cli, routing, subscriptions, usage"
+daclhound,43910706,0.1.40,Collect Active Directory DACLs and explore them in an interactive graph,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Information Technology; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Topic :: Security,2026-11-19T23:28:57+00:00,2026-11-20T00:37:37+00:00,,,,,,,"active-directory, acl, dacl, bloodhound, security"
+ddgai,43910703,,,,2026-11-19T23:28:45+00:00,2026-11-20T00:37:37+00:00,,,,,,,
+dinkster-api,43910700,,,,2026-11-19T11:50:52+00:00,2026-11-20T00:37:37+00:00,,,,,,,
+dinkster,43910698,,,,2026-11-19T11:50:44+00:00,2026-11-20T00:37:37+00:00,,,,,,,
+unstructured-transform-client,43910696,,,,2026-11-19T23:28:24+00:00,2026-11-20T00:37:37+00:00,,,,,,,
+dinkster-engine,43910694,,,,2026-11-19T11:50:44+00:00,2026-11-20T00:37:37+00:00,,,,,,,
+dkist-processing-vbi,43910692,,,,2026-11-19T23:28:12+00:00,2026-11-20T00:37:37+00:00,,,,,,,
 revit-bridge,43910691,,,,,,,,,,,,
 recapi,43910688,,,,,,,,,,,,
 unredact-tools,43910685,,,,,,,,,,,,
