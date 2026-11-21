@@ -82940,16 +82940,16 @@ robotframework-reportportal,42757428,,,,2026-10-26T11:01:34+00:00,2026-11-21T05:
 safeshell-cli,42757418,0.2.0,A transactional command execution framework with AI-generated undo plans and OverlayFS-based simulation.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.9; Topic :: System :: Shells; Topic :: System :: Systems Administration,2026-10-26T11:01:24+00:00,2026-11-21T05:07:43+00:00,https://github.com/DevXDividends/SafeShell,v0.2.0,0,,,MIT,"shell, cli, rm, undo, rollback, overlayfs, safety, linux"
 horus-sdk,42757359,,,,2026-10-26T11:00:56+00:00,2026-11-21T05:07:43+00:00,,,,,,,
 owaspscan,42757303,0.13.0,"Simple, extensible OWASP Top 10 web scanner for apps you are authorized to test.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Information Technology; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Internet :: WWW/HTTP; Topic :: Security,2026-10-26T11:00:26+00:00,2026-11-21T05:07:43+00:00,,,,,,,"security, owasp, scanner, pentest, vulnerability, web-security"
-fitstitch,42757291,,,,,,,,,,,,
-pytest-reportportal,42757278,,,,,,,,,,,,
-py-draughts,42757272,,,,,,,,,,,,
-naxtopy,42757269,,,,,,,,,,,,
-effectual,42757194,,,,,,,,,,,,
-ox-train,42757184,,,,,,,,,,,,
-skrybe-sdk,42757149,,,,,,,,,,,,
-crm-csv-preflight,42757143,,,,,,,,,,,,
-agentarts-demo-mcp,42757122,,,,,,,,,,,,
-televibe,42757100,,,,,,,,,,,,
+fitstitch,42757291,0.1.0,"Join accidentally split FIT activities back into one, losslessly, from any device (Garmin, Suunto, Wahoo, Coros...)",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: End Users/Desktop; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Utilities,2026-10-26T11:00:12+00:00,2026-11-21T05:22:43+00:00,https://github.com/jmallach/fitstitch,v0.1.0,0,,coros; cycling; fit; fit-file; fitness; garmin; garmin-connect; gps; join-fit-files; merge-fit-files; pyodide; python; running; strava; suunto; trim-fit-files; wahoo,MIT,"fit, gps, running, cycling, activity, garmin, suunto, wahoo, coros, strava"
+pytest-reportportal,42757278,,,,2026-10-26T10:59:54+00:00,2026-11-21T05:22:43+00:00,,,,,,,
+py-draughts,42757272,,,,2026-10-26T10:59:47+00:00,2026-11-21T05:22:43+00:00,,,,,,,
+naxtopy,42757269,,,,2026-10-26T10:59:40+00:00,2026-11-21T05:22:43+00:00,,,,,,,
+effectual,42757194,,,,2026-10-26T10:58:55+00:00,2026-11-21T05:22:43+00:00,,,,,,,
+ox-train,42757184,,,,2026-10-26T10:58:51+00:00,2026-11-21T05:22:43+00:00,,,,,,,
+skrybe-sdk,42757149,,,,2026-10-26T10:57:05+00:00,2026-11-21T05:22:43+00:00,,,,,,,
+crm-csv-preflight,42757143,0.1.1,"Read-only preflight scan for CRM/lead CSVs before HubSpot, Salesforce, or Pipedrive import: duplicates, bad emails, blanks, personal domains, malformed phones.",Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Topic :: Office/Business; Topic :: Utilities,2026-10-26T10:56:37+00:00,2026-11-21T05:22:43+00:00,,,,,,,"crm, csv, data-cleaning, deduplication, email-validation, hubspot, lead-list, pipedrive, salesforce"
+agentarts-demo-mcp,42757122,,,,2026-10-26T10:55:31+00:00,2026-11-21T05:22:43+00:00,,,,,,,
+televibe,42757100,,,,2026-10-26T10:55:10+00:00,2026-11-21T05:22:43+00:00,,,,,,,
 geopyspark-openeo,42757048,,,,,,,,,,,,
 flowmc,42756980,,,,,,,,,,,,
 silicon-omni,42756966,,,,,,,,,,,,
