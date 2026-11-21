@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-weblitz,43983234,,,,,,,,,,,,
-juizi-dashboard,43983233,,,,,,,,,,,,
-ucs-detect,43983230,2.3.12,Detects Unicode support of an interactive terminal,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: POSIX; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.8; Programming Language :: Python :: 3.9; Topic :: Software Development :: Internationalization; Topic :: Software Development :: Libraries; Topic :: Software Development :: Localization; Topic :: Terminals; Topic :: Text Processing :: General,2026-11-21T01:46:08+00:00,,https://github.com/jquast/ucs-detect,2.3.12,0,,,MIT,"cjk, combining, console, eastasian, emoji, emulator, terminal, udhr, unicode, vs15, vs16, wcswidth, wcwidth, xterm, zwj"
-pycybase,43983228,,,,,,,,,,,,
-selfright-mcp,43983223,,,,,,,,,,,,
-pyrig-webapp,43983214,,,,,,,,,,,,
-braindecode,43983211,,,,,,,,,,,,
-viva-discovery-engine,43983208,,,,,,,,,,,,
-ableton-studio-mcp,43983205,,,,,,,,,,,,
-dlcomm,43983202,,,,,,,,,,,,
+weblitz,43983234,,,,2026-11-21T17:37:10+00:00,2026-11-21T18:37:38+00:00,,,,,,,
+juizi-dashboard,43983233,,,,2026-11-21T17:36:49+00:00,2026-11-21T18:37:38+00:00,,,,,,,
+ucs-detect,43983230,2.3.12,Detects Unicode support of an interactive terminal,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: POSIX; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.8; Programming Language :: Python :: 3.9; Topic :: Software Development :: Internationalization; Topic :: Software Development :: Libraries; Topic :: Software Development :: Localization; Topic :: Terminals; Topic :: Text Processing :: General,2026-11-21T01:46:08+00:00,2026-11-21T18:37:38+00:00,https://github.com/jquast/ucs-detect,2.3.12,0,,,MIT,"cjk, combining, console, eastasian, emoji, emulator, terminal, udhr, unicode, vs15, vs16, wcswidth, wcwidth, xterm, zwj"
+pycybase,43983228,,,,2026-11-21T17:47:11+00:00,2026-11-21T18:37:38+00:00,,,,,,,
+selfright-mcp,43983223,,,,2026-11-21T17:36:33+00:00,2026-11-21T18:37:38+00:00,,,,,,,
+pyrig-webapp,43983214,,,,2026-11-21T17:36:18+00:00,2026-11-21T18:37:38+00:00,,,,,,,
+braindecode,43983211,,,,2026-11-02T19:54:10+00:00,2026-11-21T18:37:38+00:00,,,,,,,
+viva-discovery-engine,43983208,,,,2026-11-21T17:35:36+00:00,2026-11-21T18:37:38+00:00,,,,,,,
+ableton-studio-mcp,43983205,,,,2026-11-21T18:30:29+00:00,2026-11-21T18:37:38+00:00,,,,,,,
+dlcomm,43983202,,,,2026-11-21T17:35:26+00:00,2026-11-21T18:37:38+00:00,,,,,,,
 winbearable,43983199,0.4.0,"Make Windows + WSL2 bearable (and locked down) for Linux people who are stuck with it — pure native Python, zero PowerShell wrappers.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; License :: OSI Approved :: MIT License; Operating System :: Microsoft :: Windows :: Windows 11; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: System :: Systems Administration; Typing :: Typed,2026-11-14T17:15:31+00:00,,https://github.com/hellqvio86/winbearable,v0.4.0,0,,,MIT,
 django-namedid,43983196,,,,,,,,,,,,
 data-director-inventory,43983192,0.1.0a4,"Describe a dataset's files where they live: size, digest, PRONOM format and table fields, without uploading them",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.14; Topic :: Scientific/Engineering :: Information Analysis; Topic :: System :: Archiving; Typing :: Typed,2026-11-07T19:17:15+00:00,,https://github.com/data-director-agent/data-director,,,,agentic-ai; open-data; research-data-management,MIT,"FAIR, Frictionless, PRONOM, checksum, data management, inventory, research data"
