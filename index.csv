@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-kaldi-hmm-gmm,43969845,,,,2026-11-19T13:23:13+00:00,,,,,,,,
-winlnk,43969842,,,,,,,,,,,,
-vipeak-api,43969836,,,,,,,,,,,,
-kaldifst,43969834,,,,2026-11-04T02:47:55+00:00,,,,,,,,
-aress-sdk,43969829,,,,2026-10-28T16:34:21+00:00,,,,,,,,
-nirium,43969826,,,,,,,,,,,,
-infx,43969823,,,,2026-11-21T05:17:32+00:00,,,,,,,,
-the-machine,43969820,,,,,,,,,,,,
-invisible-core,43969819,,,,,,,,,,,,
-knowop,43969813,0.1.6,"Log in to KnowOp, connect your computer, and run your agents and GPU jobs where Chat can reach them.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Science/Research; License :: OSI Approved :: Apache Software License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development; Topic :: Utilities,2026-11-05T14:51:07+00:00,,https://github.com/rekursiv-ai/knowop,v0.1.6,4,knowop/skills/jobs/SKILL.md,cli; knowop; python; rekursiv-ai; sagent; trackinizer,Apache-2.0,"agents, claude-code, cli, codex, terminal"
+kaldi-hmm-gmm,43969845,,,,2026-11-21T09:24:26+00:00,2026-11-21T09:37:40+00:00,,,,,,,
+winlnk,43969842,,,,2026-11-21T08:56:16+00:00,2026-11-21T09:37:40+00:00,,,,,,,
+vipeak-api,43969836,,,,2026-11-21T08:56:02+00:00,2026-11-21T09:37:40+00:00,,,,,,,
+kaldifst,43969834,,,,2026-11-21T09:06:00+00:00,2026-11-21T09:37:40+00:00,,,,,,,
+aress-sdk,43969829,,,,2026-11-21T08:55:52+00:00,2026-11-21T09:37:40+00:00,,,,,,,
+nirium,43969826,,,,2026-11-21T08:55:49+00:00,2026-11-21T09:37:40+00:00,,,,,,,
+infx,43969823,,,,2026-11-21T09:34:28+00:00,2026-11-21T09:37:40+00:00,,,,,,,
+the-machine,43969820,0.10.42,The Machine (TM): a local AI agent that can control your machine,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.8; Programming Language :: Python :: 3.9; Topic :: Software Development :: Libraries :: Application Frameworks; Typing :: Typed,2026-11-21T09:07:17+00:00,2026-11-21T09:37:40+00:00,https://github.com/beyondalbert/tm,v0.10.42,0,,,MIT,"agent, ai, automation, cli, coding-agent, llm"
+invisible-core,43969819,,,,2026-11-21T08:55:36+00:00,2026-11-21T09:37:40+00:00,,,,,,,
+knowop,43969813,0.1.7,"Log in to KnowOp, connect your computer, and run your agents and GPU jobs where Chat can reach them.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Science/Research; License :: OSI Approved :: Apache Software License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development; Topic :: Utilities,2026-11-21T08:55:07+00:00,2026-11-21T09:37:40+00:00,https://github.com/rekursiv-ai/knowop,v0.1.7,4,knowop/skills/jobs/SKILL.md,cli; knowop; python; rekursiv-ai; sagent; trackinizer,Apache-2.0,"agents, cli, sagent, terminal"
 makerundev,43969810,,,,,,,,,,,,
 fiscalisto,43969806,,,,2026-11-19T19:32:46+00:00,,,,,,,,
 invenio-pidbox,43969802,,,,,,,,,,,,
