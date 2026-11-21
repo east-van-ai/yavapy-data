@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-safesink,43961071,,,,,,,,,,,,
-exuvia,43961068,,,,,,,,,,,,
-drift-drought,43961067,,,,,,,,,,,,
-ucs-detect,43961060,2.3.9,Detects Unicode support of an interactive terminal,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: POSIX; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.8; Programming Language :: Python :: 3.9; Topic :: Software Development :: Internationalization; Topic :: Software Development :: Libraries; Topic :: Software Development :: Localization; Topic :: Terminals; Topic :: Text Processing :: General,2026-11-05T21:57:15+00:00,,https://github.com/jquast/ucs-detect,2.3.9,0,,,MIT,"cjk, combining, console, eastasian, emoji, emulator, terminal, udhr, unicode, vs15, vs16, wcswidth, wcwidth, xterm, zwj"
-suanlinfang-sdk,43961057,,,,,,,,,,,,
-sarj-standards,43961054,,,,2026-11-09T19:53:10+00:00,,,,,,,,
-code-standards,43961053,,,,2026-11-09T19:53:09+00:00,,,,,,,,
-increment,43961048,,,,,,,,,,,,
-passive-server,43961045,,,,,,,,,,,,
-seamless-auth,43961042,,,,2026-11-07T04:08:49+00:00,,,,,,,,
+safesink,43961071,0.4.3,MCP tool side-effect conformance verifier (formerly EffectFence),Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing,2026-11-21T01:46:27+00:00,2026-11-21T02:37:38+00:00,https://github.com/virajsabhaya23/effectfence,v0.4.3,0,,distributed-systems; fault-injection; idempotency; python; reliability; testing,Apache-2.0,"mcp, model-context-protocol, conformance, side-effects, idempotency, safesink"
+exuvia,43961068,,,,2026-11-21T02:11:40+00:00,2026-11-21T02:37:38+00:00,,,,,,,
+drift-drought,43961067,,,,2026-11-21T01:46:22+00:00,2026-11-21T02:37:38+00:00,,,,,,,
+ucs-detect,43961060,2.3.12,Detects Unicode support of an interactive terminal,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: POSIX; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.8; Programming Language :: Python :: 3.9; Topic :: Software Development :: Internationalization; Topic :: Software Development :: Libraries; Topic :: Software Development :: Localization; Topic :: Terminals; Topic :: Text Processing :: General,2026-11-21T01:46:08+00:00,2026-11-21T02:37:38+00:00,https://github.com/jquast/ucs-detect,2.3.12,0,,,MIT,"cjk, combining, console, eastasian, emoji, emulator, terminal, udhr, unicode, vs15, vs16, wcswidth, wcwidth, xterm, zwj"
+suanlinfang-sdk,43961057,,,,2026-11-21T01:45:59+00:00,2026-11-21T02:37:38+00:00,,,,,,,
+sarj-standards,43961054,,,,2026-11-21T02:19:01+00:00,2026-11-21T02:37:38+00:00,,,,,,,
+code-standards,43961053,,,,2026-11-21T02:19:00+00:00,2026-11-21T02:37:38+00:00,,,,,,,
+increment,43961048,,,,2026-11-21T01:45:30+00:00,2026-11-21T02:37:38+00:00,,,,,,,
+passive-server,43961045,,,,2026-11-21T01:45:23+00:00,2026-11-21T02:37:38+00:00,,,,,,,
+seamless-auth,43961042,,,,2026-11-21T01:45:17+00:00,2026-11-21T02:37:38+00:00,,,,,,,
 npreq-mcp,43961039,,,,,,,,,,,,
 stytch-management,43961034,,,,,,,,,,,,
 biomed-parity,43961031,,,,,,,,,,,,
