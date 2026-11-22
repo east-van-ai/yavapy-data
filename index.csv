@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-runglet,44025724,0.6.5,Typed PLC language and offline toolchain built for coding-agent authoring and exact-scan testing,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Manufacturing; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Topic :: Software Development :: Compilers; Typing :: Typed,2026-11-03T11:59:35+00:00,,,,,,,,"automation, compiler, coding-agents, control-systems, domain-specific-language, industrial-control, industrial-automation, language-server, ladder-logic, plc, plc-programming, static-analysis, verification, vscode"
-typespark,44025721,,,,,,,,,,,,
-pseek,44025720,,,,,,,,,,,,
-num-tech-py,44025711,,,,,,,,,,,,
-tandemlogbook,44025706,,,,,,,,,,,,
-tandemhandoff,44025703,,,,,,,,,,,,
-tandemrunrecord,44025698,,,,,,,,,,,,
-vcti-predicate,44025695,,,,,,,,,,,,
-sqldol,44025688,,,,,,,,,,,,
-my-claude-code,44025685,,,,2026-11-21T21:08:40+00:00,,,,,,,,
+runglet,44025724,0.7.1,Typed PLC language and offline toolchain built for coding-agent authoring and exact-scan testing,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Manufacturing; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Topic :: Software Development :: Compilers; Typing :: Typed,2026-11-22T20:28:41+00:00,2026-11-22T21:37:35+00:00,,,,,,,"automation, compiler, coding-agents, control-systems, domain-specific-language, industrial-control, industrial-automation, language-server, ladder-logic, plc, plc-programming, static-analysis, verification, vscode"
+typespark,44025721,,,,2026-11-22T20:52:28+00:00,2026-11-22T21:37:35+00:00,,,,,,,
+pseek,44025720,3.8.1,"Pseek is a Python CLI toolkit to search files, folders, and text",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Topic :: Utilities,2026-11-22T20:28:22+00:00,2026-11-22T21:37:35+00:00,https://github.com/grootle/pseek,,,,,MIT,"search, cli, filesystem, text-search, grep, find"
+num-tech-py,44025711,,,,2026-11-22T20:28:05+00:00,2026-11-22T21:37:35+00:00,,,,,,,
+tandemlogbook,44025706,,,,2026-11-22T20:27:57+00:00,2026-11-22T21:37:35+00:00,,,,,,,
+tandemhandoff,44025703,,,,2026-11-22T20:27:52+00:00,2026-11-22T21:37:35+00:00,,,,,,,
+tandemrunrecord,44025698,,,,2026-11-22T20:27:51+00:00,2026-11-22T21:37:35+00:00,,,,,,,
+vcti-predicate,44025695,,,,2026-11-22T20:27:48+00:00,2026-11-22T21:37:35+00:00,,,,,,,
+sqldol,44025688,,,,2026-11-22T20:27:35+00:00,2026-11-22T21:37:35+00:00,,,,,,,
+my-claude-code,44025685,,,,2026-11-22T20:27:31+00:00,2026-11-22T21:37:35+00:00,,,,,,,
 pyhivelms,44025683,,,,,,,,,,,,
 vikela,44025681,,,,,,,,,,,,
 inqaba,44025678,,,,,,,,,,,,
