@@ -87079,16 +87079,16 @@ rustina,42722249,,,,2026-10-25T13:43:27+00:00,2026-11-22T19:52:48+00:00,,,,,,,
 kc-sdk-python,42722228,,,,2026-10-25T13:42:58+00:00,2026-11-22T19:52:48+00:00,,,,,,,
 porttree,42722212,1.0.1,"Zero-dependency cross-platform socket scanner and process tree resolver. Maps ports to processes, Git branches, CWD, and Docker containers.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; License :: OSI Approved :: MIT License; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: OS Independent; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.9; Topic :: System :: Networking; Topic :: System :: Systems Administration; Topic :: Utilities,2026-10-25T13:42:14+00:00,2026-11-22T19:52:48+00:00,https://github.com/umutgungorr/porttree,v1.0.1,0,,cli; developer-tools; devops; docker; kubernetes; networking; port-scanner; porttree; process-tree; sockets; terminal,MIT,"cli, developer-tools, devops, diagnostics, docker, hyper-v, networking, ports, process-tree, socket, terminal, wsl2"
 flask-squeeze,42722190,,,,2026-10-25T13:41:29+00:00,2026-11-22T19:52:48+00:00,,,,,,,
-aidress-mcp,42722169,,,,,,,,,,,,
-aidress-sdk,42722168,,,,,,,,,,,,
-tooltangle,42722161,,,,,,,,,,,,
-sack-cli,42722158,,,,,,,,,,,,
-ssrfguard,42722148,,,,,,,,,,,,
-cpu-loader,42722113,,,,,,,,,,,,
-makefile-mcp,42722086,,,,,,,,,,,,
-mcp-changeset,42722061,,,,,,,,,,,,
-usel,42722053,,,,,,,,,,,,
-airgap-datahub,42722027,,,,,,,,,,,,
+aidress-mcp,42722169,,,,2026-10-25T13:39:49+00:00,2026-11-22T20:07:48+00:00,,,,,,,
+aidress-sdk,42722168,0.7.0,Python SDK and CLI for the Aidress AI agent trust registry,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Topic :: Software Development :: Libraries,2026-10-25T13:39:48+00:00,2026-11-22T20:07:48+00:00,https://github.com/Aidress-ai/Aidress,,,,a2a; a2a-protocol; agents; ai; ai-agents; autonomous-agents; registry; trust,MIT,"ai-agents, aidress, cli, registry, sdk, trust"
+tooltangle,42722161,0.4.1,Find which tools your LLM agent confuses and fix their descriptions with proof,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Testing,2026-10-25T13:38:58+00:00,2026-11-22T20:07:48+00:00,https://github.com/bebz0/tooltangle,v0.4.1,0,,agent; langchain; llm; mcp; mcp-tools; tool-calling,MIT,"mcp, llm, agents, tool-calling, evaluation, langchain"
+sack-cli,42722158,,,,2026-10-25T13:38:49+00:00,2026-11-22T20:07:48+00:00,,,,,,,
+ssrfguard,42722148,,,,2026-10-25T13:38:17+00:00,2026-11-22T20:07:48+00:00,,,,,,,
+cpu-loader,42722113,,,,2026-10-25T13:37:32+00:00,2026-11-22T20:07:48+00:00,,,,,,,
+makefile-mcp,42722086,0.3.0,Expose trusted GNU Make targets to MCP with zero-config discovery and optional governed execution.,Development Status :: 3 - Alpha; Environment :: Console; License :: OSI Approved :: Apache Software License; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development :: Build Tools,2026-10-25T13:36:44+00:00,2026-11-22T20:07:48+00:00,https://github.com/ai-ronin-systems/makefile-mcp,v0.3.0,0,,,Apache-2.0,"ai-agents, automation, developer-tools, gnu-make, makefile, mcp, model-context-protocol, security"
+mcp-changeset,42722061,,,,2026-10-25T13:35:36+00:00,2026-11-22T20:07:48+00:00,,,,,,,
+usel,42722053,,,,2026-10-25T13:34:48+00:00,2026-11-22T20:07:48+00:00,,,,,,,
+airgap-datahub,42722027,0.2.0,Local-first data governance & PII lineage auditor for DataHub. Nothing leaves your machine.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Information Technology; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Topic :: Database; Topic :: Security; Topic :: Software Development :: Quality Assurance,2026-10-25T13:31:56+00:00,2026-11-22T20:07:48+00:00,https://github.com/zelihaguven/airgap,v0.2.0,0,,cli; data-governance; data-lineage; datahub; local-first; pii; privacy; python,Apache-2.0,"datahub, governance, pii, lineage, compliance, gdpr, kvkk, ollama, local-first, data-catalog"
 braingraph,42721985,,,,,,,,,,,,
 honeyshare,42721966,,,,,,,,,,,,
 zttp,42721946,,,,,,,,,,,,
