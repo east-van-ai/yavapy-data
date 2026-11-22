@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-invenio-pidbox,44006561,,,,,,,,,,,,
-silicon-teahouse,44006558,,,,,,,,,,,,
-clawifi,44006555,,,,,,,,,,,,
-unicad-kit,44006552,,,,2026-11-21T06:50:58+00:00,,,,,,,,
-coding-agent-cli,44006549,,,,2026-11-15T08:59:22+00:00,,,,,,,,
-openmd-cli,44006546,,,,,,,,,,,,
-tasc-hpc-daemon,44006545,,,,,,,,,,,,
-telegram-tools,44006540,,,,,,,,,,,,
-deja-browser,44006537,,,,,,,,,,,,
-eviloomemvault,44006534,,,,,,,,,,,,
+invenio-pidbox,44006561,,,,2026-11-22T09:44:36+00:00,2026-11-22T10:07:37+00:00,,,,,,,
+silicon-teahouse,44006558,,,,2026-11-22T09:44:16+00:00,2026-11-22T10:07:37+00:00,,,,,,,
+clawifi,44006555,,,,2026-11-22T09:44:09+00:00,2026-11-22T10:07:37+00:00,,,,,,,
+unicad-kit,44006552,,,,2026-11-22T09:43:57+00:00,2026-11-22T10:07:37+00:00,,,,,,,
+coding-agent-cli,44006549,,,,2026-11-22T09:43:52+00:00,2026-11-22T10:07:37+00:00,,,,,,,
+openmd-cli,44006546,0.3.0,把网页文章、公众号、视频字幕等链接保存成干净的 Markdown 原文 / 逐字稿。,Environment :: Console; License :: OSI Approved :: MIT License; Natural Language :: Chinese (Simplified); Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.13; Topic :: Text Processing :: Markup :: Markdown,2026-11-22T09:43:43+00:00,2026-11-22T10:07:37+00:00,https://github.com/baigao417/openmd,v0.3.0,1,src/openmd/SKILL.md,,MIT,"markdown, transcript, subtitle, wechat, bilibili, youtube, obsidian, clipper"
+tasc-hpc-daemon,44006545,,,,2026-11-22T09:43:43+00:00,2026-11-22T10:07:37+00:00,,,,,,,
+telegram-tools,44006540,3.40.1,"Local CLI for your own Telegram chats and forum topics: chat/topic ID discovery, message search/export, topic message clearing, and bot settings editing — signed in as you, built on Telethon.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: End Users/Desktop; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Communications :: Chat; Topic :: Utilities,2026-11-22T09:42:51+00:00,2026-11-22T10:07:37+00:00,https://github.com/banozz0/telegram-tools,v3.40.1,1,skill/SKILL.md,cli; python; telegram; telegram-tools; telethon,MIT,"cli, export, forum-topics, telegram, telethon"
+deja-browser,44006537,0.4.2,"The agent browser that remembers: a separate Chromium profile your AI agent drives over CDP, with site recipes so the second visit skips reading the page.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Topic :: Internet :: WWW/HTTP :: Browsers,2026-11-22T09:42:34+00:00,2026-11-22T10:07:37+00:00,https://github.com/drpwchen/deja-browser,v0.4.2,1,skills/deja-browser/SKILL.md,agent-tools; ai-agents; browser-automation; cdp; chromium; claude-code; llm-tools; playwright; python; web-scraping,MIT,"browser-automation, cdp, ai-agent, claude-code, playwright, captcha"
+eviloomemvault,44006534,,,,2026-11-22T09:42:28+00:00,2026-11-22T10:07:37+00:00,,,,,,,
 winbearable,44006531,0.4.0,"Make Windows + WSL2 bearable (and locked down) for Linux people who are stuck with it — pure native Python, zero PowerShell wrappers.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; License :: OSI Approved :: MIT License; Operating System :: Microsoft :: Windows :: Windows 11; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: System :: Systems Administration; Typing :: Typed,2026-11-14T17:15:31+00:00,,https://github.com/hellqvio86/winbearable,v0.4.0,0,,,MIT,
 rigorous-levels,44006528,,,,,,,,,,,,
 suken-cite-guide,44006525,0.1.13,"Giải thích có bằng chứng (ảnh nguồn khoanh đỏ kèm dòng dịch, tuyến truyện trên khung UI, thẻ giải thích code) và cầm tay chỉ việc trên trình duyệt; 5 chế độ bật bằng từ khoá qua hook Claude Code.",Environment :: Console; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Topic :: Text Processing,2026-11-09T07:01:55+00:00,,,,,,,,"citation, screenshot, highlight, annotation, llm, claude-code"
