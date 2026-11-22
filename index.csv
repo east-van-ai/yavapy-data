@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-consenrich,43998751,,,,,,,,,,,,
-py-multibase,43998749,,,,,,,,,,,,
-pydaltoolbox,43998736,,,,,,,,,,,,
-namidb,43998735,,,,2026-11-05T09:44:48+00:00,,,,,,,,
-moleditpy-job-server,43998727,,,,,,,,,,,,
-py-multihash,43998724,,,,,,,,,,,,
-qfex2,43998721,,,,,,,,,,,,
-pigeon-home-runner,43998718,3.17.32.2,"Self-hosted, email-driven agent: tell your cloud SI to send signed jobs via email that execute on your machine.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: System :: Systems Administration,2026-11-20T12:06:23+00:00,,https://github.com/Pigeon-Home/homing-pigeon,v3.17.32.2,0,,ai-agents; intrusion-detection-system; local-agent; ollama; remote-execution; secure-by-default; self-hosted; selinux; si; super-intelligence; superintelligence,Apache-2.0,"agent, self-hosted, email, automation, remote-execution"
-meridian-cli,43998715,,,,2026-11-15T20:34:26+00:00,,,,,,,,
-papyrus-newsroom,43998712,,,,2026-11-21T20:21:07+00:00,,,,,,,,
+consenrich,43998751,,,,2026-11-22T03:48:15+00:00,2026-11-22T04:37:41+00:00,,,,,,,
+py-multibase,43998749,,,,2026-11-22T03:47:32+00:00,2026-11-22T04:37:41+00:00,,,,,,,
+pydaltoolbox,43998736,,,,2026-11-22T04:13:16+00:00,2026-11-22T04:37:41+00:00,,,,,,,
+namidb,43998735,,,,2026-11-22T03:47:13+00:00,2026-11-22T04:37:41+00:00,,,,,,,
+moleditpy-job-server,43998727,,,,2026-11-22T03:46:57+00:00,2026-11-22T04:37:41+00:00,,,,,,,
+py-multihash,43998724,,,,2026-11-22T03:46:47+00:00,2026-11-22T04:37:41+00:00,,,,,,,
+qfex2,43998721,,,,2026-11-22T03:46:37+00:00,2026-11-22T04:37:41+00:00,,,,,,,
+pigeon-home-runner,43998718,3.17.32.18,"Self-hosted, email-driven agent: tell your cloud SI to send signed jobs via email that execute on your machine.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: System :: Systems Administration,2026-11-22T03:46:34+00:00,2026-11-22T04:37:41+00:00,https://github.com/Pigeon-Home/homing-pigeon,v3.17.32.18,0,,ai-agents; intrusion-detection-system; local-agent; ollama; remote-execution; secure-by-default; self-hosted; selinux; si; super-intelligence; superintelligence,Apache-2.0,"agent, self-hosted, email, automation, remote-execution"
+meridian-cli,43998715,,,,2026-11-22T03:45:57+00:00,2026-11-22T04:37:41+00:00,,,,,,,
+papyrus-newsroom,43998712,,,,2026-11-22T03:45:48+00:00,2026-11-22T04:37:41+00:00,,,,,,,
 meridian-sync,43998711,,,,,,,,,,,,
 cachibot,43998710,0.3.1,"The Armored AI Agent. Cross-platform, secure, yours.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Libraries :: Python Modules,2026-11-21T04:34:39+00:00,,https://github.com/jhd3197/cachibot,v0.3.1,9,.claude/skills/lint-fix/SKILL.md,ai; ai-agents; chatbot; claude; discord-bot; llm; prompture; python; telegram-bot; vibe-coding,MIT,"agent, ai, automation, llm, python, sandbox, security"
 plugin-scanner,43998700,3.60.0,"Lint, verify, and gate plugin ecosystems for maintainers, CI, and publish workflows.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Software Development :: Quality Assurance,2026-11-19T13:09:40+00:00,,https://github.com/hashgraph-online/hol-guard,v3.60.0,17,docs/guard/SKILL.md,agent-security; ai-agent-security; ai-agents; ai-antivirus; ai-security; claude-code; cursor; devsecops; gemini-cli; mcp; mcp-security; openclaw; opencode; prompt-injection; runtime-security; secrets-detection; security; security-scanner; supply-chain-security; vulnify,Apache-2.0,"ai agent security, ai agents, ai antivirus, claude, cli, codex, cursor, gemini, mcp security, opencode, plugin security, prompt injection, runtime security, secrets detection, supply chain security"
