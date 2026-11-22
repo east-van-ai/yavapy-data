@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-pyplumio,44017662,,,,2026-11-15T03:31:35+00:00,,,,,,,,
-cofferdb,44017661,,,,,,,,,,,,
-odoo-addon-product-template-attribute-value-xmlid,44017657,,,,,,,,,,,,
-phoonnx,44017652,,,,2026-02-16T00:13:45+00:00,,,,,,,,
-ispra-idrogeo,44017648,,,,2026-11-04T10:18:21+00:00,,,,,,,,
-odoo-addon-product-template-attribute-line,44017645,,,,,,,,,,,,
-trading-desk,44017644,0.4.0,"A trading book in the terminal: SQLite, a Textual TUI, and a checker that will not let the record contradict itself",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: End Users/Desktop; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Office/Business :: Financial; Topic :: Utilities,2026-11-04T10:39:32+00:00,,https://github.com/IngTian/trading-desk,v0.4.0,0,,bookkeeping; portfolio; python; sqlite; terminal; textual; trading; tui,MIT,"tui, terminal, textual, trading, portfolio, bookkeeping, sqlite, mcp"
-steersync,44017640,,,,,,,,,,,,
-django-material-design-icons,44017635,,,,,,,,,,,,
-yace,44017631,0.13.0,yace aka Yet Another Code Emitter / Your Artisanal Code Emitter,Development Status :: 4 - Beta; Environment :: Console; Framework :: Pytest; Intended Audience :: Developers; Intended Audience :: System Administrators; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development; Topic :: Software Development :: Testing; Topic :: Text Processing; Topic :: Utilities,2026-11-20T07:01:57+00:00,,,,,,,,
+pyplumio,44017662,,,,2026-11-22T15:56:07+00:00,2026-11-22T16:37:37+00:00,,,,,,,
+cofferdb,44017661,,,,2026-11-22T15:56:05+00:00,2026-11-22T16:37:37+00:00,,,,,,,
+odoo-addon-product-template-attribute-value-xmlid,44017657,,,,2026-11-22T16:35:39+00:00,2026-11-22T16:37:37+00:00,,,,,,,
+phoonnx,44017652,,,,2026-02-16T00:13:45+00:00,2026-11-22T16:37:37+00:00,,,,,,,
+ispra-idrogeo,44017648,,,,2026-11-22T16:29:09+00:00,2026-11-22T16:37:37+00:00,,,,,,,
+odoo-addon-product-template-attribute-line,44017645,,,,2026-11-22T15:49:33+00:00,2026-11-22T16:37:37+00:00,,,,,,,
+trading-desk,44017644,0.10.0,"An MCP server that keeps your trading record: trades under versioned strategies, checked against their rules, with outcomes and stats",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Office/Business :: Financial; Topic :: Utilities,2026-11-22T15:55:26+00:00,2026-11-22T16:37:37+00:00,https://github.com/IngTian/trading-desk,v0.10.0,0,,claude-code; event-sourcing; mcp; replay; sqlite; strategy; trade-journal; trading,MIT,"trading, strategy, trade-journal, mcp, claude-code, replay, sqlite, event-sourcing"
+steersync,44017640,0.6.1,"Sync Kiro configuration (steering, specs, skills, agents, hooks, workflows, settings) with a central git repository.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Software Development :: Version Control :: Git; Typing :: Typed,2026-11-22T16:00:25+00:00,2026-11-22T16:37:37+00:00,https://github.com/SCGIS-Wales/steersync,v0.6.1,2,tests/golden/skills/broken/SKILL.md,,Apache-2.0,"agents, developer-experience, git, hooks, kiro, kiro-cli, mcp, pre-push, steering, workflows"
+django-material-design-icons,44017635,,,,2026-11-22T15:55:03+00:00,2026-11-22T16:37:37+00:00,,,,,,,
+yace,44017631,0.14.3,yace aka Yet Another Code Emitter / Your Artisanal Code Emitter,Development Status :: 4 - Beta; Environment :: Console; Framework :: Pytest; Intended Audience :: Developers; Intended Audience :: System Administrators; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development; Topic :: Software Development :: Testing; Topic :: Text Processing; Topic :: Utilities,2026-11-22T15:54:48+00:00,2026-11-22T16:37:37+00:00,,,,,,,
 kpenvelope,44017624,,,,,,,,,,,,
 typespark,44017621,,,,,,,,,,,,
 zilib,44017618,,,,,,,,,,,,
