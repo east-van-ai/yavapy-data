@@ -21,6 +21,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        # the tip when the job starts, not the commit that triggered a queued run
+        with:
+          ref: main
       - uses: astral-sh/setup-uv@v10.3.2
         # the pin lives here, so the cache refreshes when it moves
         with:
