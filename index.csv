@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-trapyze,44022858,,,,,,,,,,,,
-django-daterangefilter,44022855,,,,,,,,,,,,
-daimon-briefing,44022852,0.70.0,"Dream-briefing for AI coding agents: writes a cognitive checkpoint at session end and shows a 'while you were away' briefing at session start. Self-contained, stdlib-only.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development,2026-11-22T05:03:53+00:00,,https://github.com/Daily-Nerd/daimon,v0.70.0,3,skills/daimon-end/SKILL.md,ai; ai-agents; claude-code; codex; kimi-code; local-first; memory,Apache-2.0,"ai-agents, briefing, checkpoint, claude-code, context, llm, memory, provenance, session"
-zova,44022849,,,,2026-11-05T09:23:19+00:00,,,,,,,,
-django-systemd,44022843,,,,,,,,,,,,
-py-prim,44022842,,,,,,,,,,,,
-direct-evolution-together,44022837,,,,,,,,,,,,
-aimarket-atlas,44022836,,,,2026-11-08T19:52:02+00:00,,,,,,,,
-metergraph-core,44022833,,,,,,,,,,,,
-fiscalisto,44022828,,,,2026-11-22T06:18:55+00:00,,,,,,,,
+trapyze,44022858,,,,2026-11-22T19:33:45+00:00,2026-11-22T19:37:37+00:00,,,,,,,
+django-daterangefilter,44022855,,,,2026-11-22T18:57:12+00:00,2026-11-22T19:37:37+00:00,,,,,,,
+daimon-briefing,44022852,0.71.0,"Dream-briefing for AI coding agents: writes a cognitive checkpoint at session end and shows a 'while you were away' briefing at session start. Self-contained, stdlib-only.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development,2026-11-22T18:57:03+00:00,2026-11-22T19:37:37+00:00,https://github.com/Daily-Nerd/daimon,v0.71.0,3,skills/daimon-end/SKILL.md,ai; ai-agents; claude-code; codex; kimi-code; local-first; memory,Apache-2.0,"ai-agents, briefing, checkpoint, claude-code, context, llm, memory, provenance, session"
+zova,44022849,,,,2026-11-22T18:56:36+00:00,2026-11-22T19:37:37+00:00,,,,,,,
+django-systemd,44022843,0.7.0,Ship renderable systemd unit templates with your apps and manage project services through the django admin.,Development Status :: 5 - Production/Stable; Environment :: Console; Framework :: Django; Framework :: Django :: 5.2; Framework :: Django :: 6.0; Framework :: Django :: 6.1; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: OS Independent; Programming Language :: Python; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Internet :: WWW/HTTP; Topic :: Internet :: WWW/HTTP :: Site Management; Topic :: Software Development :: Libraries; Topic :: Software Development :: Libraries :: Python Modules,2026-11-22T18:56:22+00:00,2026-11-22T19:37:37+00:00,https://github.com/django-commons/membership,,,,,MIT,"CLI, Typer, commands, devops, django, integration, management, services, systemctl, systemd"
+py-prim,44022842,,,,2026-11-22T18:56:22+00:00,2026-11-22T19:37:37+00:00,,,,,,,
+direct-evolution-together,44022837,,,,2026-11-22T18:56:13+00:00,2026-11-22T19:37:37+00:00,,,,,,,
+aimarket-atlas,44022836,,,,2026-11-22T18:56:10+00:00,2026-11-22T19:37:37+00:00,,,,,,,
+metergraph-core,44022833,,,,2026-11-22T18:56:06+00:00,2026-11-22T19:37:37+00:00,,,,,,,
+fiscalisto,44022828,,,,2026-11-22T18:56:05+00:00,2026-11-22T19:37:37+00:00,,,,,,,
 vcti-attribute-enricher,44022827,,,,,,,,,,,,
 database-mongodb-local,44022824,,,,,,,,,,,,
 pachca-sdk,44022823,,,,2026-11-18T11:28:25+00:00,,,,,,,,
