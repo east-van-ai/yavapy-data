@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- A run queued behind another starts from the latest `main`.
+
 ## [0.1.2] - 2026-11-16
 
 - The workflows run the harvester's v0.1.2.
