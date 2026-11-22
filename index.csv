@@ -86279,16 +86279,16 @@ semdiff-html,42727698,,,,2026-10-25T16:49:08+00:00,2026-11-22T13:37:55+00:00,,,,
 gpg-mcp,42727693,0.1.0,A security-focused Model Context Protocol server for GnuPG,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: POSIX; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Security :: Cryptography,2026-10-25T16:48:53+00:00,2026-11-22T13:37:55+00:00,https://github.com/emiliano-go/gpg-mcp,v0.1.0,0,,agent-security; cryptography; gnupg; gpg; mcp; mcp-server; openpgp; python; security,MIT,"gnupg, gpg, mcp, openpgp, security, signing"
 pylukeroberts,42727686,,,,2026-10-25T16:48:33+00:00,2026-11-22T13:37:55+00:00,,,,,,,
 witchcraft,42727655,,,,2026-10-25T16:47:54+00:00,2026-11-22T13:37:55+00:00,,,,,,,
-birder-clip,42727598,,,,,,,,,,,,
-rulestamp-rds-extended-support-cost-lint,42727581,,,,,,,,,,,,
-gazoo-research-utils,42727573,,,,,,,,,,,,
-rulestamp-pqc-deprecation-lint,42727570,,,,,,,,,,,,
-rulestamp-personal-data-map-dsar-audit,42727552,,,,,,,,,,,,
-rulestamp-getraenke-beleg-lint-de,42727547,,,,,,,,,,,,
-decisionact,42727536,,,,,,,,,,,,
-deep-mab,42727524,,,,,,,,,,,,
-multiarmedbandits,42727523,,,,,,,,,,,,
-qian,42727519,,,,,,,,,,,,
+birder-clip,42727598,,,,2026-10-25T16:46:40+00:00,2026-11-22T13:52:47+00:00,,,,,,,
+rulestamp-rds-extended-support-cost-lint,42727581,1.0.2,Prices the AWS Extended Support surcharge on every RDS and Aurora database in your .tf files (bundled Node.js runtime),Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-25T16:46:02+00:00,2026-11-22T13:52:47+00:00,,,,,,,"rds extended support, terraform, aws rds, mysql 8.0 end of support, postgresql 13, aurora, finops, cost"
+gazoo-research-utils,42727573,,,,2026-10-25T16:45:59+00:00,2026-11-22T13:52:47+00:00,,,,,,,
+rulestamp-pqc-deprecation-lint,42727570,1.0.8,"Dates every quantum-vulnerable algorithm in your code against the NIST IR 8547 clock: deprecated after 2030-12-31, disallowed after 2035-12-31. (bundled Node.js runtime)",Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-25T16:45:45+00:00,2026-11-22T13:52:47+00:00,,,,,,,"post-quantum, pqc, nist, ml-kem, fips-203, rsa, ecdsa, crypto-agility, migration, security"
+rulestamp-personal-data-map-dsar-audit,42727552,0.1.8,"Reads a migration, Prisma schema, Django model or TypeORM entity and marks every column a subject access request has to reach - with the GDPR article each finding hangs on. 13 rules, line numbers, no  (bundled Node.js runtime)",Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-25T16:45:28+00:00,2026-11-22T13:52:47+00:00,,,,,,,"gdpr, dsar, privacy, schema, compliance"
+rulestamp-getraenke-beleg-lint-de,42727547,1.0.4,"Prüft Rechnungs- und Lieferschein-Vorlagen im Repository auf die Nachweisfelder der deutschen Alkoholsteuer: ARC, Verbrauchsteuernummer, hl rA, % vol, Steuersatz. (bundled Node.js runtime)",Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-25T16:45:20+00:00,2026-11-22T13:52:47+00:00,,,,,,,"alkoholsteuer, verbrauchsteuer, emcs, rechnung, zoll, lint, xrechnung, spirituosen"
+decisionact,42727536,,,,2026-10-25T16:45:01+00:00,2026-11-22T13:52:47+00:00,,,,,,,
+deep-mab,42727524,,,,2023-07-31T02:36:18+00:00,2026-11-22T13:52:47+00:00,,,,,,,
+multiarmedbandits,42727523,,,,2023-10-23T03:52:09+00:00,2026-11-22T13:52:47+00:00,,,,,,,
+qian,42727519,,,,2023-07-08T02:19:07+00:00,2026-11-22T13:52:47+00:00,,,,,,,
 imputing,42727517,,,,,,,,,,,,
 wicket,42727476,,,,,,,,,,,,
 iupitermag,42727473,,,,,,,,,,,,
