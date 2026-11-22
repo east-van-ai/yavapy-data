@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-risset,44030520,,,,,,,,,,,,
-hermes-scout,44030518,,,,,,,,,,,,
-ms-markets,44030513,,,,2026-11-11T15:01:39+00:00,,,,,,,,
-lerobot-teleoperator-rfabricd,44030512,,,,,,,,,,,,
-3dworld,44030505,,,,2026-10-29T10:21:04+00:00,,,,,,,,
-gitcalver,44030502,,,,,,,,,,,,
-zinn-sdk,44030499,,,,2026-11-22T22:22:26+00:00,,,,,,,,
-feedforward-practice,44030496,,,,,,,,,,,,
-prechips,44030493,,,,,,,,,,,,
-xpd,44030490,0.41.5,"Fast, opinionated linter for Python library habits with pandas, NumPy, SciPy, scikit-learn and eight more libraries, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-20T13:28:14+00:00,,https://github.com/bjoernaagaard/xpd,v0.41.5,3,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
+risset,44030520,,,,2026-11-22T23:27:48+00:00,2026-11-22T23:37:36+00:00,,,,,,,
+hermes-scout,44030518,0.2.0,Search local files by meaning with embeddings from any OpenAI-compatible server. A Hermes Agent plugin and a standalone CLI.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Text Processing :: Indexing,2026-11-22T23:33:48+00:00,2026-11-22T23:37:36+00:00,https://github.com/Shizoqua/hermes-scout,v0.2.0,0,,embeddings; hermes-agent; llm; ollama; python; rag; retrieval; semantic-search,MIT,"semantic search, embeddings, retrieval, rag, ollama, hermes-agent, cli"
+ms-markets,44030513,,,,2026-11-22T21:34:15+00:00,2026-11-22T23:37:36+00:00,,,,,,,
+lerobot-teleoperator-rfabricd,44030512,,,,2026-11-22T22:59:31+00:00,2026-11-22T23:37:36+00:00,,,,,,,
+3dworld,44030505,,,,2026-11-22T22:59:20+00:00,2026-11-22T23:37:36+00:00,,,,,,,
+gitcalver,44030502,,,,2026-11-22T22:59:16+00:00,2026-11-22T23:37:36+00:00,,,,,,,
+zinn-sdk,44030499,,,,2026-11-22T23:14:27+00:00,2026-11-22T23:37:36+00:00,,,,,,,
+feedforward-practice,44030496,,,,2026-11-22T22:58:42+00:00,2026-11-22T23:37:36+00:00,,,,,,,
+prechips,44030493,,,,2026-11-22T22:59:59+00:00,2026-11-22T23:37:36+00:00,,,,,,,
+xpd,44030490,0.41.6,"Fast, opinionated linter for Python library habits with pandas, NumPy, SciPy, scikit-learn and eight more libraries, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-22T22:58:06+00:00,2026-11-22T23:37:36+00:00,https://github.com/bjoernaagaard/xpd,v0.41.6,4,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
 text2spoken,44030487,,,,,,,,,,,,
 starlette-admin,44030483,,,,,,,,,,,,
 pytest-xdocker,44030477,,,,,,,,,,,,
