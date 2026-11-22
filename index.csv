@@ -343,7 +343,7 @@ puku-chainlit,44017835,,,,,,,,,,,,
 django-cachex,44017831,,,,,,,,,,,,
 stepup-reprep,44017828,,,,,,,,,,,,
 djapipes,44017824,,,,,,,,,,,,
-steersync,44017820,0.6.1,"Sync Kiro configuration (steering, specs, skills, agents, hooks, workflows, settings) with a central git repository.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Software Development :: Version Control :: Git; Typing :: Typed,2026-11-22T16:00:25+00:00,,https://github.com/SCGIS-Wales/steersync,v0.6.1,2,tests/golden/skills/broken/SKILL.md,,Apache-2.0,"agents, developer-experience, git, hooks, kiro, kiro-cli, mcp, pre-push, steering, workflows"
+steersync,44017820,0.7.0,"Sync Kiro configuration (steering, specs, skills, agents, hooks, workflows, settings) with a central git repository.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Software Development :: Version Control :: Git; Typing :: Typed,2026-11-22T17:29:24+00:00,2026-11-22T17:52:38+00:00,https://github.com/SCGIS-Wales/steersync,v0.7.0,2,tests/golden/skills/broken/SKILL.md,,Apache-2.0,"agents, developer-experience, git, hooks, kiro, kiro-cli, mcp, pre-push, steering, workflows"
 marin-zephyr,44017814,,,,2026-11-20T12:06:14+00:00,,,,,,,,
 marin-verifyit,44017813,,,,,,,,,,,,
 marin-taskcompendium,44017812,,,,,,,,,,,,
