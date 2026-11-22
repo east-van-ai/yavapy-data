@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-pigeon-home-runner,44031425,3.17.32.18,"Self-hosted, email-driven agent: tell your cloud SI to send signed jobs via email that execute on your machine.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: System :: Systems Administration,2026-11-22T03:46:34+00:00,,https://github.com/Pigeon-Home/homing-pigeon,v3.17.32.18,0,,ai-agents; intrusion-detection-system; local-agent; ollama; remote-execution; secure-by-default; self-hosted; selinux; si; super-intelligence; superintelligence,Apache-2.0,"agent, self-hosted, email, automation, remote-execution"
-connectonion,44031423,,,,2026-11-10T00:24:49+00:00,,,,,,,,
-captchakraken,44031422,,,,,,,,,,,,
-omni-local-llm,44031417,,,,,,,,,,,,
-onefollowup-cli,44031414,0.11.0,"The follow-up loop for any orchestrator repository: draft, verify, file one ticket per root cause, and answer comments, over onetaskgraph.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Rust; Topic :: Software Development :: Build Tools,2026-11-22T12:09:24+00:00,,https://github.com/nickderobertis/onefollowup,v0.11.0,0,,,MIT,"follow-up, tickets, triage, onetaskgraph, cli"
-meeting-helper,44031413,,,,2026-11-19T21:36:52+00:00,,,,,,,,
-periodic-report-kit,44031410,,,,,,,,,,,,
-ngsolve,44031407,,,,,,,,,,,,
-anaxigraph,44031406,,,,2026-11-02T15:36:28+00:00,,,,,,,,
-dau-driver,44031403,,,,,,,,,,,,
+pigeon-home-runner,44031425,3.17.33.8,"Self-hosted, email-driven agent: tell your cloud SI to send signed jobs via email that execute on your machine.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: System :: Systems Administration,2026-11-22T23:30:13+00:00,2026-11-22T23:52:35+00:00,https://github.com/Pigeon-Home/homing-pigeon,v3.17.33.8,0,,ai-agents; intrusion-detection-system; local-agent; ollama; remote-execution; secure-by-default; self-hosted; selinux; si; super-intelligence; superintelligence,Apache-2.0,"agent, self-hosted, email, automation, remote-execution"
+connectonion,44031423,,,,2026-11-22T02:31:54+00:00,2026-11-22T23:52:35+00:00,,,,,,,
+captchakraken,44031422,,,,2026-11-22T23:30:05+00:00,2026-11-22T23:52:35+00:00,,,,,,,
+omni-local-llm,44031417,,,,2026-11-22T23:30:02+00:00,2026-11-22T23:52:35+00:00,,,,,,,
+onefollowup-cli,44031414,0.13.2,"The follow-up loop for any orchestrator repository: draft, verify, file one ticket per root cause, and answer comments, over onetaskgraph.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Rust; Topic :: Software Development :: Build Tools,2026-11-22T23:49:50+00:00,2026-11-22T23:52:35+00:00,https://github.com/nickderobertis/onefollowup,v0.13.2,0,,,MIT,"follow-up, tickets, triage, onetaskgraph, cli"
+meeting-helper,44031413,,,,2026-11-22T23:29:51+00:00,2026-11-22T23:52:35+00:00,,,,,,,
+periodic-report-kit,44031410,,,,2026-11-22T23:29:35+00:00,2026-11-22T23:52:35+00:00,,,,,,,
+ngsolve,44031407,,,,2026-10-01T19:29:20+00:00,2026-11-22T23:52:35+00:00,,,,,,,
+anaxigraph,44031406,,,,2026-11-22T23:29:29+00:00,2026-11-22T23:52:35+00:00,,,,,,,
+dau-driver,44031403,,,,2026-11-22T23:29:03+00:00,2026-11-22T23:52:35+00:00,,,,,,,
 esfex,44031402,,,,,,,,,,,,
 voltage-verify,44031389,0.3.0,"Bind an Intel TDX quote and an NVIDIA GPU attestation to the workload you meant to run, then verify the bundle without trusting the cloud provider.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Information Technology; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Security :: Cryptography,2026-11-06T14:50:38+00:00,,https://github.com/VoltageGPU/voltage-verify,v0.3.0,0,,attestation; confidential-computing; confidential-vm; dcap; gpu; intel-tdx; nvidia; nvidia-attestation; python; remote-attestation; security; tee,MIT,"attestation, confidential-computing, gpu, intel-tdx, nvidia, remote-attestation"
 opengwasdb,44031386,,,,,,,,,,,,
