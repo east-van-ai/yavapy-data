@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-pyfaup-rs,44049407,,,,,,,,,,,,
-lj-api-client,44049406,,,,,,,,,,,,
-pysvf,44049391,,,,2026-11-19T11:03:01+00:00,,,,,,,,
-ariston-net-api,44049371,,,,2026-10-26T08:31:36+00:00,,,,,,,,
-marauder,44049364,,,,,,,,,,,,
-jitcatch,44049356,,,,,,,,,,,,
-novasvg,44049341,,,,2026-11-05T19:32:13+00:00,,,,,,,,
-blade-agent-kit,44049335,,,,,,,,,,,,
-canconf,44049331,0.5.0,One-shot reconfiguration and live monitoring of SocketCAN / CAN-FD interfaces,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; License :: OSI Approved :: MIT License; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Topic :: System :: Hardware; Topic :: System :: Networking; Topic :: Utilities,2026-10-25T14:09:03+00:00,,https://github.com/mickeyl/canconf,v0.5.0,0,,,MIT,"automotive, can, canbus, canfd, linux, socketcan"
-sbmlmath,44049317,,,,,,,,,,,,
+pyfaup-rs,44049407,,,,2026-11-23T10:08:58+00:00,2026-11-23T10:37:38+00:00,,,,,,,
+lj-api-client,44049406,,,,2026-11-23T10:08:09+00:00,2026-11-23T10:37:38+00:00,,,,,,,
+pysvf,44049391,,,,2026-11-23T10:17:30+00:00,2026-11-23T10:37:38+00:00,,,,,,,
+ariston-net-api,44049371,,,,2026-11-23T10:07:37+00:00,2026-11-23T10:37:38+00:00,,,,,,,
+marauder,44049364,1.0.0,"Build .usmap mapping files for Unreal Engine games from the installed files, without running the game.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Games/Entertainment; Topic :: Software Development :: Libraries,2026-11-23T10:07:35+00:00,2026-11-23T10:37:38+00:00,https://github.com/anantoni/marauder,v1.0.0,0,,,MIT,"unreal-engine, usmap, mappings, modding, cue4parse, fmodel"
+jitcatch,44049356,0.2.2,"Just-in-Time catching test generation: LLM-generated tests that fail on risky code changes, with rule-based and LLM-judge false-positive filtering.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing,2026-11-23T10:07:32+00:00,2026-11-23T10:37:38+00:00,https://github.com/khawjaahmad/jitcatch,,,,,,"testing, regression, llm, mutation-testing, test-generation, code-review"
+novasvg,44049341,,,,2026-11-23T10:07:22+00:00,2026-11-23T10:37:38+00:00,,,,,,,
+blade-agent-kit,44049335,,,,2026-11-23T10:07:19+00:00,2026-11-23T10:37:38+00:00,,,,,,,
+canconf,44049331,0.6.2,One-shot reconfiguration and live monitoring of SocketCAN / CAN-FD interfaces,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; License :: OSI Approved :: MIT License; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Topic :: System :: Hardware; Topic :: System :: Networking; Topic :: Utilities,2026-11-23T10:09:16+00:00,2026-11-23T10:37:38+00:00,https://github.com/mickeyl/canconf,v0.6.2,0,,,MIT,"automotive, can, canbus, canfd, linux, socketcan"
+sbmlmath,44049317,,,,2026-11-23T10:07:13+00:00,2026-11-23T10:37:38+00:00,,,,,,,
 espzero,44049304,,,,2026-11-04T20:51:28+00:00,,,,,,,,
 classics-index,44049301,,,,2026-11-04T08:16:00+00:00,,,,,,,,
 socratic-mcp,44049297,,,,2026-11-06T05:08:34+00:00,,,,,,,,
