@@ -90467,16 +90467,16 @@ apache-airflow-providers-elasticsearch,42696226,6.10.0,Provider package apache-a
 apache-airflow-providers-discord,42696222,3.12.5,Provider package apache-airflow-providers-discord for Apache Airflow,Development Status :: 5 - Production/Stable; Environment :: Console; Environment :: Web Environment; Framework :: Apache Airflow; Framework :: Apache Airflow :: Provider; Intended Audience :: Developers; Intended Audience :: System Administrators; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: System :: Monitoring,2026-10-24T18:48:48+00:00,2026-11-23T22:52:49+00:00,https://github.com/apache/airflow,,,,airflow; apache; apache-airflow; automation; dag; data-engineering; data-integration; data-orchestrator; data-pipelines; data-science; elt; etl; machine-learning; mlops; orchestration; python; scheduler; workflow; workflow-engine; workflow-orchestration,Apache-2.0,"airflow-provider, discord, airflow, integration"
 apache-airflow-providers-apache-tinkerpop,42696203,1.2.2,Provider package apache-airflow-providers-apache-tinkerpop for Apache Airflow,Development Status :: 5 - Production/Stable; Environment :: Console; Environment :: Web Environment; Framework :: Apache Airflow; Framework :: Apache Airflow :: Provider; Intended Audience :: Developers; Intended Audience :: System Administrators; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: System :: Monitoring,2026-10-24T18:48:40+00:00,2026-11-23T22:52:49+00:00,https://github.com/apache/airflow,,,,airflow; apache; apache-airflow; automation; dag; data-engineering; data-integration; data-orchestrator; data-pipelines; data-science; elt; etl; machine-learning; mlops; orchestration; python; scheduler; workflow; workflow-engine; workflow-orchestration,Apache-2.0,"airflow-provider, apache.tinkerpop, airflow, integration"
 apache-airflow-providers-apache-livy,42696197,4.6.4,Provider package apache-airflow-providers-apache-livy for Apache Airflow,Development Status :: 5 - Production/Stable; Environment :: Console; Environment :: Web Environment; Framework :: Apache Airflow; Framework :: Apache Airflow :: Provider; Intended Audience :: Developers; Intended Audience :: System Administrators; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: System :: Monitoring,2026-10-24T18:48:38+00:00,2026-11-23T22:52:49+00:00,https://github.com/apache/airflow,,,,airflow; apache; apache-airflow; automation; dag; data-engineering; data-integration; data-orchestrator; data-pipelines; data-science; elt; etl; machine-learning; mlops; orchestration; python; scheduler; workflow; workflow-engine; workflow-orchestration,Apache-2.0,"airflow-provider, apache.livy, airflow, integration"
-apache-airflow-providers-apache-hdfs,42696195,,,,,,,,,,,,
-draftail-text-utils,42695988,,,,,,,,,,,,
-pyfootix,42695889,,,,,,,,,,,,
-zerynex-python,42695879,,,,,,,,,,,,
-minni,42695851,,,,,,,,,,,,
-solidsforyou-whisper-small-2,42695836,,,,,,,,,,,,
-solidsforyou-whisper-small-1,42695832,,,,,,,,,,,,
-solidsforyou-whisper-base-2,42695828,,,,,,,,,,,,
-solidsforyou-whisper-base-1,42695823,,,,,,,,,,,,
-sparse-delta-memory,42695798,,,,,,,,,,,,
+apache-airflow-providers-apache-hdfs,42696195,4.14.2,Provider package apache-airflow-providers-apache-hdfs for Apache Airflow,Development Status :: 5 - Production/Stable; Environment :: Console; Environment :: Web Environment; Framework :: Apache Airflow; Framework :: Apache Airflow :: Provider; Intended Audience :: Developers; Intended Audience :: System Administrators; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: System :: Monitoring,2026-10-24T18:48:37+00:00,2026-11-23T23:07:47+00:00,https://github.com/apache/airflow,,,,airflow; apache; apache-airflow; automation; dag; data-engineering; data-integration; data-orchestrator; data-pipelines; data-science; elt; etl; machine-learning; mlops; orchestration; python; scheduler; workflow; workflow-engine; workflow-orchestration,Apache-2.0,"airflow-provider, apache.hdfs, airflow, integration"
+draftail-text-utils,42695988,,,,2026-10-24T18:46:20+00:00,2026-11-23T23:07:47+00:00,,,,,,,
+pyfootix,42695889,,,,2026-10-24T18:42:04+00:00,2026-11-23T23:07:47+00:00,,,,,,,
+zerynex-python,42695879,,,,2026-10-24T18:41:44+00:00,2026-11-23T23:07:47+00:00,,,,,,,
+minni,42695851,,,,2026-10-24T18:40:37+00:00,2026-11-23T23:07:47+00:00,,,,,,,
+solidsforyou-whisper-small-2,42695836,,,,2026-10-24T18:40:03+00:00,2026-11-23T23:07:47+00:00,,,,,,,
+solidsforyou-whisper-small-1,42695832,,,,2026-10-24T18:39:58+00:00,2026-11-23T23:07:47+00:00,,,,,,,
+solidsforyou-whisper-base-2,42695828,,,,2026-10-24T18:39:53+00:00,2026-11-23T23:07:47+00:00,,,,,,,
+solidsforyou-whisper-base-1,42695823,,,,2026-10-24T18:39:48+00:00,2026-11-23T23:07:47+00:00,,,,,,,
+sparse-delta-memory,42695798,,,,2026-10-24T18:39:26+00:00,2026-11-23T23:07:47+00:00,,,,,,,
 polygon-mcp-server,42695781,,,,,,,,,,,,
 agoradm-uhp,42695676,,,,,,,,,,,,
 lenmark-converter,42695645,,,,,,,,,,,,
