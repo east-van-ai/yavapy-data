@@ -34,7 +34,7 @@ cedarling-python,44038539,,,,2026-11-18T04:53:53+00:00,,,,,,,,
 bosch-shc-camera-client,44038535,,,,2026-10-28T19:50:26+00:00,,,,,,,,
 fencewalk,44038530,,,,,,,,,,,,
 apuntalo,44038527,,,,,,,,,,,,
-wherefore-build,44038524,0.27.0,"A company that compiles: every asset generated from one source of truth, every change proven.",Environment :: Console; Programming Language :: Python :: 3; Topic :: Software Development :: Build Tools,2026-11-23T00:51:01+00:00,,https://github.com/wherefore-build/wherefore,v0.27.0,1,src/wherefore/skills/wherefore/SKILL.md,ai-agents; code-generation; continuous-integration; docs-as-code; python; single-source-of-truth,Apache-2.0,"build, documentation, single source of truth, ci, agents"
+wherefore-build,44038524,0.27.1,"A company that compiles: every asset generated from one source of truth, every change proven.",Environment :: Console; Programming Language :: Python :: 3; Topic :: Software Development :: Build Tools,2026-11-23T04:25:01+00:00,2026-11-23T05:37:41+00:00,https://github.com/wherefore-build/wherefore,v0.27.1,1,src/wherefore/skills/wherefore/SKILL.md,ai-agents; code-generation; continuous-integration; docs-as-code; python; single-source-of-truth,Apache-2.0,"build, documentation, single source of truth, ci, agents"
 yb,44038521,,,,2026-11-22T11:55:27+00:00,,,,,,,,
 herald-bridge,44038518,,,,,,,,,,,,
 bimforge,44038515,,,,,,,,,,,,
