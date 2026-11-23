@@ -45,7 +45,7 @@ fiscalisto,44032128,,,,2026-11-22T18:56:05+00:00,,,,,,,,
 quizgenerator,44032125,,,,2026-11-08T03:21:33+00:00,,,,,,,,
 remove-ai-watermarks,44032122,,,,,,,,,,,,
 discordcli-agents,44032119,,,,,,,,,,,,
-xpd,44032107,0.41.6,"Fast, opinionated linter for Python library habits with pandas, NumPy, SciPy, scikit-learn and eight more libraries, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-22T22:58:06+00:00,,https://github.com/bjoernaagaard/xpd,v0.41.6,4,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
+xpd,44032107,0.42.0,"Fast, opinionated linter for Python library habits with pandas, NumPy, SciPy, scikit-learn and eight more libraries, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-22T23:52:35+00:00,2026-11-23T00:37:41+00:00,https://github.com/bjoernaagaard/xpd,v0.42.0,4,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
 contour-alley-designer,44032105,,,,,,,,,,,,
 exuvia,44032095,,,,2026-11-22T05:23:24+00:00,,,,,,,,
 lab-kit-cli,44032092,,,,,,,,,,,,
@@ -67,7 +67,7 @@ ai-devlease-client,44032046,,,,,,,,,,,,
 onefollowup-cli,44032039,0.13.2,"The follow-up loop for any orchestrator repository: draft, verify, file one ticket per root cause, and answer comments, over onetaskgraph.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Rust; Topic :: Software Development :: Build Tools,2026-11-22T23:49:50+00:00,,https://github.com/nickderobertis/onefollowup,v0.13.2,0,,,MIT,"follow-up, tickets, triage, onetaskgraph, cli"
 remote-ollama-herd-bridge,44032037,,,,,,,,,,,,
 aspose-cad,44032032,,,,,,,,,,,,
-wxcli,44032031,1.11.3,Webex Calling CLI — terminal-based provisioning for Webex APIs,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12,2026-11-09T14:36:30+00:00,,https://github.com/achobgood/wxops,v1.11.3,117,.claude/skills/teardown/SKILL.md,,Apache-2.0,"webex, cisco, calling, cli, provisioning"
+wxcli,44032031,1.12.0,Webex Calling CLI — terminal-based provisioning for Webex APIs,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12,2026-11-22T23:49:11+00:00,2026-11-23T00:37:41+00:00,https://github.com/achobgood/wxops,v1.12.0,117,.claude/skills/teardown/SKILL.md,,Apache-2.0,"webex, cisco, calling, cli, provisioning"
 node-mantis,44032028,,,,2026-11-18T21:06:48+00:00,,,,,,,,
 prototwin-gymnasium,44032026,,,,,,,,,,,,
 langflow,44032020,,,,,,,,,,,,
