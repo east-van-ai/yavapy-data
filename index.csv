@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-kagesec,44040906,,,,,,,,,,,,
-personalbpnet,44040902,,,,,,,,,,,,
-semops-system,44040896,,,,,,,,,,,,
-nonebot-plugin-mantou-affection,44040891,,,,2026-11-14T03:14:21+00:00,,,,,,,,
-sensor-sdk,44040886,,,,2026-11-05T08:23:23+00:00,,,,,,,,
-rubicon-agents,44040885,,,,,,,,,,,,
-uproot-science,44040880,,,,2026-11-02T01:03:26+00:00,,,,,,,,
-gd-crawler-mcp,44040878,,,,,,,,,,,,
-bisos-common,44040876,,,,2026-11-02T04:02:28+00:00,,,,,,,,
-agent-toggle,44040874,0.19.0,"Temporarily disable / re-enable AI-agent skills, agents, commands, rules, plugins and MCP servers across harnesses (Claude Code, Codex, Grok, OpenCode, OpenClaw, Copilot, Vibe, Devin, Antigravity)",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development; Topic :: Utilities,2026-11-02T10:33:10+00:00,,https://github.com/weskao/agent-toggle,v0.19.0,9,tests/fixtures/grok/.grok/skills/demo-skill/SKILL.md,ai-agents; claude-code; cli; mcp; python,MIT,"ai-agents, claude-code, codex, skills, mcp, cli, toggle"
+kagesec,44040906,0.4.0,"AI-powered web application security scanner — OWASP Top 10, HIPAA, GDPR, ISO 27001, APPI",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Information Technology; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Internet :: WWW/HTTP; Topic :: Security,2026-11-23T06:05:30+00:00,2026-11-23T06:37:36+00:00,https://github.com/ZulAmi/KageSecurity,v0.4.0,0,,,MIT,"security, scanner, dast, owasp, penetration-testing, appsec"
+personalbpnet,44040902,,,,2026-11-23T06:05:25+00:00,2026-11-23T06:37:36+00:00,,,,,,,
+semops-system,44040896,,,,2026-11-23T06:04:50+00:00,2026-11-23T06:37:36+00:00,,,,,,,
+nonebot-plugin-mantou-affection,44040891,,,,2026-11-23T06:04:41+00:00,2026-11-23T06:37:36+00:00,,,,,,,
+sensor-sdk,44040886,,,,2026-11-23T06:04:34+00:00,2026-11-23T06:37:36+00:00,,,,,,,
+rubicon-agents,44040885,,,,2026-11-23T06:04:20+00:00,2026-11-23T06:37:36+00:00,,,,,,,
+uproot-science,44040880,,,,2026-11-23T06:04:11+00:00,2026-11-23T06:37:36+00:00,,,,,,,
+gd-crawler-mcp,44040878,,,,2026-11-23T06:13:03+00:00,2026-11-23T06:37:36+00:00,,,,,,,
+bisos-common,44040876,,,,2026-11-23T06:03:40+00:00,2026-11-23T06:37:36+00:00,,,,,,,
+agent-toggle,44040874,0.20.0,"Temporarily disable / re-enable AI-agent skills, agents, commands, rules, plugins and MCP servers across harnesses (Claude Code, Codex, Grok, OpenCode, OpenClaw, Copilot, Vibe, Devin, Antigravity)",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development; Topic :: Utilities,2026-11-23T06:03:26+00:00,2026-11-23T06:37:36+00:00,https://github.com/weskao/agent-toggle,v0.20.0,9,tests/fixtures/grok/.grok/skills/demo-skill/SKILL.md,ai-agents; claude-code; cli; mcp; python,MIT,"ai-agents, claude-code, codex, skills, mcp, cli, toggle"
 oara-prometheus,44040871,,,,2026-11-03T01:55:35+00:00,,,,,,,,
 biocartoon,44040868,,,,,,,,,,,,
 purpleair-api,44040867,,,,2026-11-02T18:42:08+00:00,,,,,,,,
