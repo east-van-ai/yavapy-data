@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-telegram-archive,44112274,,,,,,,,,,,,
-increase,44112273,,,,,,,,,,,,
-invisible-playwright-mcp,44112268,,,,,,,,,,,,
-hotsos,44112267,,,,,,,,,,,,
-pforge-cli,44112265,,,,,,,,,,,,
-wandelbots-api-client,44112260,,,,2026-11-04T15:09:09+00:00,,,,,,,,
-dsoxlab,44112259,0.9.1,"Turn declarative exercises into reproducible, runnable and verifiable lab environments",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Education; Intended Audience :: System Administrators; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Education; Topic :: System :: Systems Administration; Typing :: Typed,2026-11-14T08:47:10+00:00,,https://github.com/stephrobert/dsoxlab,v0.9.1,0,,ansible; cli; devops; devsecops; education; labs; python; rhcsa; terraform; training,Apache-2.0,"ansible, devops, education, kubernetes, labs, linux, training"
-cctrack,44112252,,,,,,,,,,,,
-chalkcompute,44112249,,,,,,,,,,,,
-blueskyagent-ai-client,44112244,,,,,,,,,,,,
+telegram-archive,44112274,,,,2026-11-24T15:29:25+00:00,2026-11-24T16:07:38+00:00,,,,,,,
+increase,44112273,,,,2026-11-24T15:29:24+00:00,2026-11-24T16:07:38+00:00,,,,,,,
+invisible-playwright-mcp,44112268,,,,2026-11-24T15:29:19+00:00,2026-11-24T16:07:38+00:00,,,,,,,
+hotsos,44112267,,,,2026-11-24T15:29:20+00:00,2026-11-24T16:07:38+00:00,,,,,,,
+pforge-cli,44112265,,,,2026-11-24T15:56:59+00:00,2026-11-24T16:07:38+00:00,,,,,,,
+wandelbots-api-client,44112260,,,,2026-11-17T09:33:39+00:00,2026-11-24T16:07:38+00:00,,,,,,,
+dsoxlab,44112259,0.11.1,"Turn declarative exercises into reproducible, runnable and verifiable lab environments",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Education; Intended Audience :: System Administrators; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Education; Topic :: System :: Systems Administration; Typing :: Typed,2026-11-24T15:29:16+00:00,2026-11-24T16:07:38+00:00,https://github.com/stephrobert/dsoxlab,v0.11.1,0,,ansible; cli; devops; devsecops; education; labs; python; rhcsa; terraform; training,Apache-2.0,"ansible, devops, education, kubernetes, labs, linux, training"
+cctrack,44112252,0.12.5,Claude Code cost tracker — scans JSONL logs and reports token usage + estimated cost,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Quality Assurance; Topic :: System :: Monitoring,2026-11-24T15:58:13+00:00,2026-11-24T16:07:38+00:00,https://github.com/rappdw/cctrack,v0.12.5,1,.claude/skills/step/SKILL.md,,MIT,"anthropic, claude, claude-code, cost, tokens"
+chalkcompute,44112249,,,,2026-11-24T15:28:52+00:00,2026-11-24T16:07:38+00:00,,,,,,,
+blueskyagent-ai-client,44112244,,,,2026-11-24T15:36:13+00:00,2026-11-24T16:07:38+00:00,,,,,,,
 pax-api,44112239,,,,,,,,,,,,
 pymmcore-plus,44112226,,,,,,,,,,,,
 lictor,44112214,0.7.1,Implementa escenarios Gherkin con un agente y los verifica de forma determinista.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Natural Language :: Spanish; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing :: BDD; Typing :: Typed,2026-11-19T08:50:21+00:00,,https://github.com/jmorenobl/lictor,v0.7.1,0,,,EUPL-1.2,"gherkin, bdd, agents, llm, claude, acceptance-testing, quality-gates"
