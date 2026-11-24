@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-bmdwire,44121138,,,,,,,,,,,,
-tf-nightly,44121126,,,,2026-11-22T16:55:39+00:00,,,,,,,,
-croqui,44121119,,,,,,,,,,,,
-lightspeed-stack,44121113,,,,2026-11-02T21:24:09+00:00,,,,,,,,
-agentenv-framework,44121103,0.9.1639,"SDK and CLI for building, deploying and running agent environments and the tasks that grade agents in them.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Science/Research; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Libraries :: Application Frameworks; Typing :: Typed,2026-11-24T17:48:53+00:00,,https://github.com/scaleapi/agentenv-framework,v0.9.1639,1,tst/data/skills/sample_skill/SKILL.md,a2a; agent-evaluation; agentic-ai; ai-agents; llm-agents; llm-evaluation; mcp; model-context-protocol; python; reinforcement-learning; reinforcement-learning-environments; sandbox,Apache-2.0,"a2a, agent-evaluation, ai-agents, llm-agents, mcp, model-context-protocol, reinforcement-learning, rl-environments, sandbox"
-typed-agent-hooks,44121099,,,,2026-10-27T20:32:39+00:00,,,,,,,,
-pulumi-kubernetes-ingress-nginx,44121096,,,,,,,,,,,,
-wraith-modelgen,44121091,,,,,,,,,,,,
-compass-kb-validation,44121086,,,,2026-11-10T03:56:47+00:00,,,,,,,,
-apx-jenkins,44121083,,,,,,,,,,,,
+bmdwire,44121138,,,,2026-11-24T19:02:45+00:00,2026-11-24T19:37:45+00:00,,,,,,,
+tf-nightly,44121126,,,,2026-11-24T19:04:22+00:00,2026-11-24T19:37:45+00:00,,,,,,,
+croqui,44121119,0.6.2,"Sketch-style interactive maps of any API and the database it touches, generated from source.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Documentation; Topic :: Software Development :: Documentation,2026-11-24T19:02:16+00:00,2026-11-24T19:37:45+00:00,https://github.com/guimileib/croqui,v0.6.2,0,,,MIT,"api, documentation, diagram, openapi, database, visualization, mermaid, prd, uml, mcp, llm, claude, fastapi, flask, django, express, nestjs, spring-boot"
+lightspeed-stack,44121113,,,,2026-11-24T19:02:10+00:00,2026-11-24T19:37:45+00:00,,,,,,,
+agentenv-framework,44121103,0.9.1642,"SDK and CLI for building, deploying and running agent environments and the tasks that grade agents in them.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Science/Research; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Libraries :: Application Frameworks; Typing :: Typed,2026-11-24T19:17:06+00:00,2026-11-24T19:37:45+00:00,https://github.com/scaleapi/agentenv-framework,v0.9.1642,1,tst/data/skills/sample_skill/SKILL.md,a2a; agent-evaluation; agentic-ai; ai-agents; llm-agents; llm-evaluation; mcp; model-context-protocol; python; reinforcement-learning; reinforcement-learning-environments; sandbox,Apache-2.0,"a2a, agent-evaluation, ai-agents, llm-agents, mcp, model-context-protocol, reinforcement-learning, rl-environments, sandbox"
+typed-agent-hooks,44121099,,,,2026-11-24T19:01:47+00:00,2026-11-24T19:37:45+00:00,,,,,,,
+pulumi-kubernetes-ingress-nginx,44121096,,,,2026-10-28T19:19:39+00:00,2026-11-24T19:37:45+00:00,,,,,,,
+wraith-modelgen,44121091,,,,2026-11-24T19:01:21+00:00,2026-11-24T19:37:45+00:00,,,,,,,
+compass-kb-validation,44121086,,,,2026-11-24T19:01:07+00:00,2026-11-24T19:37:45+00:00,,,,,,,
+apx-jenkins,44121083,,,,2026-11-24T19:00:54+00:00,2026-11-24T19:37:45+00:00,,,,,,,
 buildman,44121082,,,,,,,,,,,,
 apx-sentry,44121077,,,,,,,,,,,,
 apx-github,44121070,,,,,,,,,,,,
