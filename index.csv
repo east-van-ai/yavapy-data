@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-curu-catalog,44113669,,,,,,,,,,,,
-elephant-lab,44113666,,,,,,,,,,,,
-codescope-ai,44113665,,,,,,,,,,,,
-inspire-mcp,44113664,,,,,,,,,,,,
-teddy-cli,44113659,,,,2026-11-06T14:44:44+00:00,,,,,,,,
-plantstar-shared,44113658,,,,,,,,,,,,
-mistralai-workflows-plugins-evaluations,44113657,,,,,,,,,,,,
-biliz,44113654,,,,2026-11-03T08:29:44+00:00,,,,,,,,
-qpictures,44113647,,,,,,,,,,,,
-http-tls,44113646,,,,,,,,,,,,
+curu-catalog,44113669,0.6.2,Catalogues a media estate in place by content and answers search queries over it.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: End Users/Desktop; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Topic :: Database; Topic :: Multimedia,2026-11-24T15:59:51+00:00,2026-11-24T16:37:39+00:00,https://github.com/darth-veitcher/curu-catalog,,,,,,"media, catalogue, search, embeddings, near-duplicates, postgresql, mcp"
+elephant-lab,44113666,,,,2026-11-24T15:58:14+00:00,2026-11-24T16:37:39+00:00,,,,,,,
+codescope-ai,44113665,0.1.4,"Understand a Python codebase: docs linked to the source, cited answers (RAG or an agent), change review, and MCP tools for AI apps.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Documentation; Topic :: Software Development :: Quality Assurance,2026-11-24T16:16:14+00:00,2026-11-24T16:37:39+00:00,https://github.com/kushpatel2012/codescope,,,,,,"agent, code-review, documentation, llm, mcp, rag, static-analysis"
+inspire-mcp,44113664,,,,2026-11-24T15:59:40+00:00,2026-11-24T16:37:39+00:00,,,,,,,
+teddy-cli,44113659,,,,2026-11-23T10:57:17+00:00,2026-11-24T16:37:39+00:00,,,,,,,
+plantstar-shared,44113658,,,,2026-11-24T15:59:34+00:00,2026-11-24T16:37:39+00:00,,,,,,,
+mistralai-workflows-plugins-evaluations,44113657,,,,2026-11-24T15:59:34+00:00,2026-11-24T16:37:39+00:00,,,,,,,
+biliz,44113654,,,,2026-11-24T15:59:33+00:00,2026-11-24T16:37:39+00:00,,,,,,,
+qpictures,44113647,0.1.3,Interactive plots and analyses for qPCR data exported from Thermo QuantStudio Design & Analysis.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Scientific/Engineering :: Bio-Informatics; Topic :: Scientific/Engineering :: Visualization; Typing :: Typed,2026-11-24T15:59:30+00:00,2026-11-24T16:37:39+00:00,https://github.com/SemiQuant/qPiCtuRes,v0.1.3,0,,,MIT,"qpcr, rt-qpcr, plotly, bioinformatics, thermo, quantstudio, relative-quantification, standard-curve, absolute-quantification"
+http-tls,44113646,,,,2026-11-24T15:59:30+00:00,2026-11-24T16:37:39+00:00,,,,,,,
 compose-api-client,44113645,,,,2026-10-29T02:42:39+00:00,,,,,,,,
 loop-api-sdk,44113636,,,,,,,,,,,,
 antihallucination,44113631,,,,,,,,,,,,
