@@ -91264,16 +91264,16 @@ grouped-nf4-gemm,42688777,,,,2026-10-24T14:47:09+00:00,2026-11-24T06:22:52+00:00
 pyvarcheck,42688745,,,,2026-10-24T14:46:29+00:00,2026-11-24T06:22:52+00:00,,,,,,,
 vaft,42688744,,,,2026-10-24T14:46:26+00:00,2026-11-24T06:22:52+00:00,,,,,,,
 streamcase,42688667,,,,2026-10-24T14:43:12+00:00,2026-11-24T06:22:52+00:00,,,,,,,
-pyclann,42688632,,,,,,,,,,,,
-cxcrypt,42688611,,,,,,,,,,,,
-supabase-pydantic,42688605,,,,,,,,,,,,
-tg-agent,42688567,,,,,,,,,,,,
-rlaif-mcp,42688545,,,,,,,,,,,,
-local-llm-kit,42688509,,,,,,,,,,,,
-turbojev,42688500,,,,,,,,,,,,
-pycvr,42688414,,,,,,,,,,,,
-alhena,42688410,,,,,,,,,,,,
-pyxfoil,42688351,,,,,,,,,,,,
+pyclann,42688632,,,,2026-10-24T14:41:40+00:00,2026-11-24T06:37:57+00:00,,,,,,,
+cxcrypt,42688611,,,,2026-10-24T14:41:20+00:00,2026-11-24T06:37:57+00:00,,,,,,,
+supabase-pydantic,42688605,0.26.29,A Pydantic(+) model generator for Supabase,Development Status :: 3 - Alpha; Environment :: Console; Framework :: FastAPI; Framework :: Pydantic; Framework :: Pydantic :: 2; Framework :: Pytest; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Natural Language :: English; Operating System :: MacOS :: MacOS X; Programming Language :: PL/SQL; Programming Language :: Python; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-10-24T14:41:14+00:00,2026-11-24T06:37:57+00:00,https://github.com/kmbhm1/supabase-pydantic,v0.26.29,0,,fastapi; mysql; postgres; pydantic-models; pydantic-v2; python; python3; sqlalchemy; supabase,MIT,"supabase, pydantic, fastapi, sqlalchemy, REST, generator, schema, model"
+tg-agent,42688567,0.2.4.2,"Telegram automation dependency for coding agents — tg-agent CLI + skill for Claude Code, OpenCode, Codex",Development Status :: 4 - Beta; Environment :: Console; Environment :: Web Environment; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Topic :: Communications :: Chat,2026-10-24T14:40:05+00:00,2026-11-24T06:37:57+00:00,https://github.com/axisrow/tg_content_factory,v0.2.4.2,2,skills/tg-agent/SKILL.md,agent-skills; ai-agents; automation; claude-code; claude-code-plugin; cli; content-pipeline; llm-tools; python; telegram; telegram-api; telethon,MIT,"telegram, agent, automation, assistant, telethon, content"
+rlaif-mcp,42688545,3.0.0,Single-user MCP server with negative and positive feedback channels,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: End Users/Desktop; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Communications; Topic :: Software Development :: Libraries :: Python Modules; Topic :: System :: Monitoring; Typing :: Typed,2026-10-24T14:39:48+00:00,2026-11-24T06:37:57+00:00,https://github.com/a9lim/rlaif,v3.0.0,0,,agent; intiface; llm; mcp; mcp-server; openshock; pishock; python,AGPL-3.0,"agent, buttplug, intiface, mcp, model-context-protocol, openshock, pishock"
+local-llm-kit,42688509,,,,2026-10-24T14:39:11+00:00,2026-11-24T06:37:57+00:00,,,,,,,
+turbojev,42688500,,,,2026-10-24T14:38:47+00:00,2026-11-24T06:37:57+00:00,,,,,,,
+pycvr,42688414,0.1.0,"Turn source code into a typewriter-style video, rendered in your real VS Code colour theme.",Development Status :: 4 - Beta; Environment :: Console; Environment :: MacOS X; Environment :: Win32 (MS Windows); Environment :: X11 Applications; Intended Audience :: Developers; Intended Audience :: Education; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Multimedia :: Video; Topic :: Software Development :: Documentation; Typing :: Typed,2026-10-24T14:34:59+00:00,2026-11-24T06:37:57+00:00,https://github.com/anishbhattarai-asm/CVR,v0.1.0,0,,cli; code-animation; ffmpeg; pygments; python; syntax-highlighting; tkinter; typewriter; video; vscode; vscode-theme,MIT,"code, video, typewriter, vscode, theme, syntax-highlighting, animation"
+alhena,42688410,,,,2026-10-24T14:34:54+00:00,2026-11-24T06:37:57+00:00,,,,,,,
+pyxfoil,42688351,,,,2026-10-24T14:32:48+00:00,2026-11-24T06:37:57+00:00,,,,,,,
 pyvlm,42688323,,,,,,,,,,,,
 manimol,42688319,,,,,,,,,,,,
 spritepro,42688302,,,,,,,,,,,,
