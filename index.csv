@@ -91391,16 +91391,16 @@ every-app-is-open-source,42686864,,,,2026-10-24T13:43:14+00:00,2026-11-24T08:07:
 nokkam,42686833,0.1.1,"A calcurse-inspired terminal task manager and calendar, styled with a Material-tonal / Apple-HIG color system.",Development Status :: 4 - Beta; Environment :: Console; Environment :: Console :: Curses; Intended Audience :: End Users/Desktop; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Office/Business :: Scheduling; Topic :: Utilities,2026-10-24T13:40:53+00:00,2026-11-24T08:07:44+00:00,https://github.com/AyirusZone/cad_tui,,,,,,"tui, terminal, cli, calendar, task-manager, todo, productivity, textual, calcurse"
 meetwave-stream,42686780,,,,2026-10-24T13:37:45+00:00,2026-11-24T08:07:44+00:00,,,,,,,
 png2svg-viethung103,42686774,,,,2026-10-24T13:37:36+00:00,2026-11-24T08:07:44+00:00,,,,,,,
-feincms-elephantblog,42686723,,,,,,,,,,,,
-explainkit,42686695,,,,,,,,,,,,
-ret2win,42686687,,,,,,,,,,,,
-darksemantica,42686658,,,,,,,,,,,,
-ddflow-mcp,42686635,,,,,,,,,,,,
-lightly-train,42686629,,,,,,,,,,,,
-aya-rocket-package,42686619,,,,,,,,,,,,
-filebackup,42686587,,,,,,,,,,,,
-scopewake,42686582,,,,,,,,,,,,
-spluspy,42686579,,,,,,,,,,,,
+feincms-elephantblog,42686723,,,,2026-10-24T13:36:35+00:00,2026-11-24T08:22:46+00:00,,,,,,,
+explainkit,42686695,,,,2026-10-24T13:36:01+00:00,2026-11-24T08:22:46+00:00,,,,,,,
+ret2win,42686687,1.3.4,Automated CTF Return-to-Win Exploitation Toolkit & Interactive Rich TUI,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Information Technology; Intended Audience :: System Administrators; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.8; Programming Language :: Python :: 3.9; Topic :: Security,2026-10-24T13:35:49+00:00,2026-11-24T08:22:46+00:00,https://github.com/Vishal-07-R/Ret2Win,,,,,MIT,"ctf, pwn, binary-exploitation, ret2win, buffer-overflow, rop, pwntools, security"
+darksemantica,42686658,,,,2026-10-24T13:33:12+00:00,2026-11-24T08:22:46+00:00,,,,,,,
+ddflow-mcp,42686635,,,,2026-10-24T13:32:32+00:00,2026-11-24T08:22:46+00:00,,,,,,,
+lightly-train,42686629,,,,2026-10-24T13:32:25+00:00,2026-11-24T08:22:46+00:00,,,,,,,
+aya-rocket-package,42686619,,,,2026-10-24T13:31:25+00:00,2026-11-24T08:22:46+00:00,,,,,,,
+filebackup,42686587,0.5.19,Tool for creating and restoring file system backups.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: End Users/Desktop; Intended Audience :: System Administrators; Natural Language :: English; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: System :: Archiving :: Backup; Topic :: System :: Archiving :: Mirroring; Topic :: System :: Systems Administration; Topic :: Utilities,2026-10-24T13:30:18+00:00,2026-11-24T08:22:46+00:00,https://github.com/davidbrownell/FileBackup,v0.5.19,0,,,MIT,"backup, mirror, offsite, restore"
+scopewake,42686582,0.3.0,"See what each AI agent could reach, and keep AI approvals current when that reach changes. Local, read-only, offline.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Information Technology; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Security,2026-10-24T13:30:01+00:00,2026-11-24T08:22:46+00:00,https://github.com/tidelinehq/scopewake,v0.3.0,0,,,MIT,"ai-agents, mcp, security, blast-radius, ai-governance, mas, compliance, claude-code, cursor"
+spluspy,42686579,,,,2026-10-24T13:29:57+00:00,2026-11-24T08:22:46+00:00,,,,,,,
 dbrownell-resumetools,42686552,,,,,,,,,,,,
 asslayer,42686540,,,,,,,,,,,,
 dbrownell-parserlib,42686533,,,,,,,,,,,,
