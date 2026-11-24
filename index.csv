@@ -111,7 +111,7 @@ imste,44104438,,,,2026-11-21T00:15:35+00:00,,,,,,,,
 cognite-toolkit,44104426,,,,,,,,,,,,
 vtlengine,44104422,,,,,,,,,,,,
 veriact,44104416,,,,,,,,,,,,
-terno-agent,44104409,0.3.19,Multi-agent CLI that answers questions about your database and runs code in a sandbox.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Database; Topic :: Software Development :: Libraries,2026-11-24T10:50:49+00:00,,https://github.com/terno-ai/terno-agent,v0.3.19,14,sdk/src/terno_agent/skills/builtin/debugging/SKILL.md,agent; ai-agents; harness,Apache-2.0,"agent, ai, cli, database, llm, sandbox, sql"
+terno-agent,44104409,0.3.20,Multi-agent CLI that answers questions about your database and runs code in a sandbox.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Database; Topic :: Software Development :: Libraries,2026-11-24T12:15:44+00:00,2026-11-24T13:37:40+00:00,https://github.com/terno-ai/terno-agent,v0.3.20,14,sdk/src/terno_agent/skills/builtin/debugging/SKILL.md,agent; ai-agents; harness,Apache-2.0,"agent, ai, cli, database, llm, sandbox, sql"
 backstab,44104397,,,,,,,,,,,,
 aioebus,44104390,,,,2026-11-07T15:42:30+00:00,,,,,,,,
 whiteout-litellm,44104354,,,,,,,,,,,,
