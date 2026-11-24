@@ -17,7 +17,7 @@ dxray,44121063,,,,,,,,,,,,
 free-crypto-trading-bot,44121055,,,,,,,,,,,,
 ketrs,44121052,,,,,,,,,,,,
 huelake-connectivitizer,44121051,,,,,,,,,,,,
-ananke-plexus,44121040,0.3.45,A local-first ADLC control plane for governed agentic software engineering.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Software Development :: Libraries :: Application Frameworks; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing; Typing :: Typed,2026-11-12T05:18:39+00:00,,https://github.com/Neo-Pragnya/Ananke-Plexus,v0.3.45,5,tests/fixtures/sample-skill/SKILL.md,,Apache-2.0,"adlc, agentic, ai-agents, architecture-as-code, calm, code-graph, devsecops, evidence, mcp, policy-engine, software-supply-chain, spec-driven-development, tensegrity"
+ananke-plexus,44121040,0.3.46,A local-first ADLC control plane for governed agentic software engineering.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Software Development :: Libraries :: Application Frameworks; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing; Typing :: Typed,2026-11-24T18:59:50+00:00,2026-11-24T19:37:51+00:00,https://github.com/Neo-Pragnya/Ananke-Plexus,v0.3.46,5,tests/fixtures/sample-skill/SKILL.md,,Apache-2.0,"adlc, agentic, ai-agents, architecture-as-code, calm, code-graph, devsecops, evidence, mcp, policy-engine, software-supply-chain, spec-driven-development, tensegrity"
 c2cgeoportal-admin,44121027,,,,,,,,,,,,
 c2cgeoportal-geoportal,44121024,,,,,,,,,,,,
 c2cgeoportal-commons,44121020,,,,,,,,,,,,
@@ -55,7 +55,7 @@ kdl-py,44120913,,,,,,,,,,,,
 cleanedweb,44120908,,,,,,,,,,,,
 remitmatch,44120905,,,,,,,,,,,,
 pybamm,44120901,,,,,,,,,,,,
-xpd,44120889,0.44.0,"Fast, opinionated linter for Python library habits with pandas, NumPy, SciPy, scikit-learn and eight more libraries, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-23T20:04:52+00:00,,https://github.com/bjoernaagaard/xpd,v0.44.0,5,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
+xpd,44120889,0.45.0,"Fast, opinionated linter for Python library habits with pandas, NumPy, SciPy, scikit-learn and eight more libraries, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-24T18:57:10+00:00,2026-11-24T19:37:51+00:00,https://github.com/bjoernaagaard/xpd,v0.45.0,5,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
 scavio,44120877,,,,2026-11-18T18:01:43+00:00,,,,,,,,
 overture-spark,44120874,,,,2026-11-09T17:21:23+00:00,,,,,,,,
 django-spec-agents,44120870,,,,,,,,,,,,
@@ -95,7 +95,7 @@ straufi,44120756,,,,,,,,,,,,
 mainsequence-metatable,44120755,,,,,,,,,,,,
 lightfall-voice,44120751,,,,,,,,,,,,
 chronologia,44120748,,,,2026-08-18T01:05:06+00:00,,,,,,,,
-cavelon,44120745,0.2.18,The Cavelon dev-kit CLI and MCP server for building Cavelon solutions with a coding agent.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Topic :: Software Development :: Build Tools,2026-11-11T09:58:21+00:00,,https://github.com/goodguys-gmbh/cavelon-dev-kit,v0.2.18,4,plugin/skills/cavelon-loop/SKILL.md,,Apache-2.0,"cavelon, cli, mcp, coding-agent, claude-code, codex"
+cavelon,44120745,0.2.19,The Cavelon dev-kit CLI and MCP server for building Cavelon solutions with a coding agent.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Topic :: Software Development :: Build Tools,2026-11-24T18:52:25+00:00,2026-11-24T19:37:51+00:00,https://github.com/goodguys-gmbh/cavelon-dev-kit,v0.2.19,4,plugin/skills/cavelon-loop/SKILL.md,,Apache-2.0,"cavelon, cli, mcp, coding-agent, claude-code, codex"
 invenio-subjects-lcsh,44120737,,,,,,,,,,,,
 aqua-diagnostics,44120736,,,,2026-10-30T17:25:18+00:00,,,,,,,,
 minman,44120731,,,,,,,,,,,,
