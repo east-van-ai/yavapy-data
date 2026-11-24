@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-ochreml,44084794,,,,2026-11-16T02:39:41+00:00,,,,,,,,
-region-geo,44084793,,,,,,,,,,,,
-yup-audio,44084790,,,,,,,,,,,,
-sarj-python-lint,44084776,,,,,,,,,,,,
-axonbase-sdk,44084763,,,,,,,,,,,,
-pressoir,44084755,,,,,,,,,,,,
-unidl,44084753,,,,,,,,,,,,
-tokedex,44084742,,,,,,,,,,,,
-samdei-type,44084741,,,,,,,,,,,,
-raster2dggs,44084738,0.19.1,"CLI tool to index raster files to DGGS in parallel, writing out to Parquet.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Scientific/Engineering; Topic :: Scientific/Engineering :: GIS; Topic :: Scientific/Engineering :: Image Processing; Topic :: Scientific/Engineering :: Information Analysis,2026-11-06T01:17:12+00:00,,https://github.com/manaakiwhenua/raster2dggs,v0.19.1,0,,a5; cli-tool; data-science; data-vizualisation; dggs; geohash; geoparquet; geospatial; gis; h3; maidenhead; map-visualization; parquet; qth; raster; raster-data; rhealpix; s2,LGPL-3.0,"dggs, raster, cli, gis, geospatial, h3, rHEALPix, s2, a5, geohash, maidenhead, healpix, isea, geoparquet, parquet, zonal-statistics, dask"
+ochreml,44084794,,,,2026-11-23T06:36:06+00:00,2026-11-24T02:37:36+00:00,,,,,,,
+region-geo,44084793,,,,2026-11-24T01:49:22+00:00,2026-11-24T02:37:36+00:00,,,,,,,
+yup-audio,44084790,,,,2026-11-24T01:49:18+00:00,2026-11-24T02:37:36+00:00,,,,,,,
+sarj-python-lint,44084776,,,,2026-11-24T01:49:06+00:00,2026-11-24T02:37:36+00:00,,,,,,,
+axonbase-sdk,44084763,,,,2026-11-24T01:48:56+00:00,2026-11-24T02:37:36+00:00,,,,,,,
+pressoir,44084755,,,,2026-11-24T01:48:50+00:00,2026-11-24T02:37:36+00:00,,,,,,,
+unidl,44084753,,,,2026-11-24T01:48:49+00:00,2026-11-24T02:37:36+00:00,,,,,,,
+tokedex,44084742,,,,2026-11-13T19:40:52+00:00,2026-11-24T02:37:36+00:00,,,,,,,
+samdei-type,44084741,,,,2026-11-24T01:48:24+00:00,2026-11-24T02:37:36+00:00,,,,,,,
+raster2dggs,44084738,0.19.2,"CLI tool to index raster files to DGGS in parallel, writing out to Parquet.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Scientific/Engineering; Topic :: Scientific/Engineering :: GIS; Topic :: Scientific/Engineering :: Image Processing; Topic :: Scientific/Engineering :: Information Analysis,2026-11-24T01:48:03+00:00,2026-11-24T02:37:36+00:00,https://github.com/manaakiwhenua/raster2dggs,v0.19.2,0,,a5; cli-tool; data-science; data-vizualisation; dggs; geohash; geoparquet; geospatial; gis; h3; maidenhead; map-visualization; parquet; qth; raster; raster-data; rhealpix; s2,LGPL-3.0,"dggs, raster, cli, gis, geospatial, h3, rHEALPix, s2, a5, geohash, maidenhead, healpix, isea, geoparquet, parquet, zonal-statistics, dask"
 envodat,44084735,,,,,,,,,,,,
 aix,44084734,,,,2026-11-06T11:14:55+00:00,,,,,,,,
 prohori,44084729,1.0.1,"A laptop-sized mini-SOC: from raw logs to detections, enriched incidents and analyst-ready reports.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Information Technology; Intended Audience :: System Administrators; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: System :: Logging; Topic :: System :: Monitoring; Typing :: Typed,2026-11-03T14:17:38+00:00,,https://github.com/UtshaBasak/Prohori,v1.0.1,0,,blue-team; cli; detection-engineering; incident-response; intrusion-detection; log-analysis; mitre-attack; python; security; siem; soc; threat-detection,MIT,"detection-engineering, incident-response, log-analysis, security, siem, soc, threat-detection"
