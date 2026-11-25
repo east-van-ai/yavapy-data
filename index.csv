@@ -105,7 +105,7 @@ tencentcloud-agentobs-opentelemetry-semantic-conventions,44148965,,,,,,,,,,,,
 agentcrew-ai,44148963,,,,2026-11-19T15:54:59+00:00,,,,,,,,
 tencentcloud-agentobs-opentelemetry-sdk,44148960,,,,,,,,,,,,
 qprogram-qblox,44148958,,,,,,,,,,,,
-xpd,44148955,0.47.0,"Fast, opinionated linter for Python library habits with pandas, NumPy, SciPy, scikit-learn and eight more libraries, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-25T06:59:43+00:00,,https://github.com/bjoernaagaard/xpd,v0.47.0,5,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
+xpd,44148955,0.47.1,"Fast, opinionated linter for Python library habits with pandas, NumPy, SciPy, scikit-learn and eight more libraries, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-25T09:29:48+00:00,2026-11-25T10:07:43+00:00,https://github.com/bjoernaagaard/xpd,v0.47.1,5,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
 tencentcloud-agentobs-opentelemetry-proto,44148953,,,,,,,,,,,,
 quapp-qiskit,44148951,,,,2026-10-29T06:59:29+00:00,,,,,,,,
 tencentcloud-agentobs-opentelemetry-instrumentation-threading,44148947,,,,,,,,,,,,
