@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-chronologia,44132960,,,,2026-08-18T01:05:06+00:00,,,,,,,,
-opengwasdb,44132955,,,,,,,,,,,,
-textual-system-monitor,44132952,,,,,,,,,,,,
-membase-haystack,44132949,,,,2026-11-04T08:52:53+00:00,,,,,,,,
-trampoline-delta,44132948,,,,,,,,,,,,
-uluka,44132947,,,,,,,,,,,,
-spine,44132946,,,,,,,,,,,,
-n1mem,44132938,,,,,,,,,,,,
-qtop,44132933,,,,,,,,,,,,
-n1mem-mcp,44132932,,,,,,,,,,,,
+chronologia,44132960,,,,2026-08-18T01:05:06+00:00,2026-11-25T00:37:37+00:00,,,,,,,
+opengwasdb,44132955,,,,2026-11-25T00:07:26+00:00,2026-11-25T00:37:37+00:00,,,,,,,
+textual-system-monitor,44132952,1.0.8,"A simple system monitor in Python, using Textual",Development Status :: 3 - Alpha; Environment :: Console; License :: OSI Approved :: MIT License; Operating System :: Microsoft :: Windows :: Windows 10; Operating System :: Microsoft :: Windows :: Windows 11; Operating System :: POSIX :: Linux; Programming Language :: Python; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Typing :: Typed,2026-11-25T00:07:15+00:00,2026-11-25T00:37:37+00:00,https://github.com/BlackSound1/textual-system-monitor,v1.0.8,0,,python; system-monitoring; terminal; textual; tui; tui-app,MIT,"python, terminal, textual, tui, uv"
+membase-haystack,44132949,,,,2026-11-04T08:52:53+00:00,2026-11-25T00:37:37+00:00,,,,,,,
+trampoline-delta,44132948,,,,2026-11-25T00:07:11+00:00,2026-11-25T00:37:37+00:00,,,,,,,
+uluka,44132947,,,,2026-11-25T00:24:41+00:00,2026-11-25T00:37:37+00:00,,,,,,,
+spine,44132946,,,,2026-11-25T00:24:33+00:00,2026-11-25T00:37:37+00:00,,,,,,,
+n1mem,44132938,,,,2026-11-25T00:06:59+00:00,2026-11-25T00:37:37+00:00,,,,,,,
+qtop,44132933,0.9.20261121,qtop: the fast text mode way to monitor your cluster's utilization and status; the time has come to take back control of your cluster's scheduling business,Environment :: Console; Intended Audience :: System Administrators; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: System :: Clustering; Topic :: System :: Monitoring,2026-11-25T00:06:56+00:00,2026-11-25T00:37:37+00:00,https://github.com/qtop/qtop,v0.9.20261121,1,skills/qtop-cluster-status/SKILL.md,clusters-management; gridengine; hacktoberfest; hpc; htcondor; json; lsf; lsf-jobs; oar; openpbs; pbs; pbs-torque; pbspro; sge; sgecore; slurm; slurm-cluster; slurm-job-scheduler; slurm-workload-manager; supercomputing,MIT,"HPC, monitoring, PBS, scheduler, SGE, Slurm"
+n1mem-mcp,44132932,,,,2026-11-25T00:06:56+00:00,2026-11-25T00:37:37+00:00,,,,,,,
 rsarray,44132927,,,,,,,,,,,,
 verovo,44132925,0.13.0,"Buyer-side AI service charge and delivery review, supported bill recounts and local agent diagnostics. Zero external dependencies.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.9; Topic :: Software Development :: Quality Assurance,2026-11-04T04:32:29+00:00,,,,,,,,"agent, codex, claude, observability, measurement, healthcheck, conformance"
 bacen-ifdata-scraper,44132896,,,,,,,,,,,,
