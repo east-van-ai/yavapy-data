@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-agent-paranoid-android,44149389,,,,,,,,,,,,
-videoipath-automation-tool,44149386,,,,2026-11-12T19:28:03+00:00,,,,,,,,
-emby-curator,44149383,,,,,,,,,,,,
-dinkster-supervisor,44149382,,,,2026-11-23T23:46:20+00:00,,,,,,,,
-aramid,44149380,,,,,,,,,,,,
-fibaro-flua,44149375,,,,2026-11-23T15:42:01+00:00,,,,,,,,
-sarvamai,44149374,,,,2026-11-19T20:26:30+00:00,,,,,,,,
-trend-following-pytorch,44149369,,,,,,,,,,,,
-mirabase,44149364,,,,,,,,,,,,
-piceli,44149359,,,,,,,,,,,,
+agent-paranoid-android,44149389,,,,2026-11-15T18:56:20+00:00,2026-11-25T10:07:36+00:00,,,,,,,
+videoipath-automation-tool,44149386,,,,2026-11-24T23:07:51+00:00,2026-11-25T10:07:36+00:00,,,,,,,
+emby-curator,44149383,3.4.10,"Curate Emby libraries: deduplicate, localize genres & descriptions, clean up stale media, and analyze missing episodes",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: End Users/Desktop; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Multimedia :: Video; Topic :: Utilities,2026-11-25T09:42:59+00:00,2026-11-25T10:07:36+00:00,https://github.com/Barlog951/emby-curator,v3.4.10,0,,cli; deduplication; emby; media-library; media-server; python; tmdb,Apache-2.0,"emby, media, library, curation, deduplication, genres, metadata, cleanup"
+dinkster-supervisor,44149382,,,,2026-11-23T23:46:20+00:00,2026-11-25T10:07:36+00:00,,,,,,,
+aramid,44149380,0.20.21,"A deterministic, offline security and quality gate for git hooks -- gitleaks, semgrep, ruff/eslint, pip-audit and your own suite, at pre-commit and pre-push.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Security; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing,2026-11-25T09:42:57+00:00,2026-11-25T10:07:36+00:00,https://github.com/jared0565/aramid,v0.20.21,0,,,MIT,"security, sast, secrets, git-hooks, pre-commit, static-analysis, linting, devsecops"
+fibaro-flua,44149375,,,,2026-11-25T09:42:46+00:00,2026-11-25T10:07:36+00:00,,,,,,,
+sarvamai,44149374,,,,2026-11-23T18:23:04+00:00,2026-11-25T10:07:36+00:00,,,,,,,
+trend-following-pytorch,44149369,,,,2026-11-25T09:42:44+00:00,2026-11-25T10:07:36+00:00,,,,,,,
+mirabase,44149364,,,,2026-11-25T09:42:30+00:00,2026-11-25T10:07:36+00:00,,,,,,,
+piceli,44149359,0.81.0,"Kubernetes infrastructure as typed Python: model, plan, apply and observe",Development Status :: 2 - Pre-Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; Operating System :: OS Independent; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development :: Build Tools; Topic :: System :: Clustering; Topic :: System :: Systems Administration; Typing :: Typed,2026-11-25T09:42:24+00:00,2026-11-25T10:07:36+00:00,https://github.com/pynenc/piceli,v0.81.0,1,skills/piceli/SKILL.md,,MIT,"deployment, devops, gitops, helm, infrastructure-as-code, k8s, kubernetes, kustomize, typed"
 kivi,44149356,,,,,,,,,,,,
 ansys-hdf5-composite-cae,44149353,,,,,,,,,,,,
 cohere-haystack,44149350,,,,2026-11-11T09:43:45+00:00,,,,,,,,
