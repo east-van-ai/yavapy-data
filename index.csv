@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-mindroom,44170016,,,,2026-11-21T00:45:45+00:00,,,,,,,,
-mulebox,44170014,,,,,,,,,,,,
-commissura,44170012,,,,,,,,,,,,
-osp-provider-sdk,44170009,,,,,,,,,,,,
-caesium-toolkit,44170006,,,,,,,,,,,,
-kute-engine,44170005,,,,,,,,,,,,
-mcp-gee-sweet,44170000,,,,2026-11-12T06:41:22+00:00,,,,,,,,
-geoextract-gee,44169997,,,,2026-11-11T12:32:48+00:00,,,,,,,,
-maplewatch-mcp,44169994,,,,,,,,,,,,
-v6ctl,44169991,,,,,,,,,,,,
+mindroom,44170016,,,,2026-11-25T19:24:39+00:00,2026-11-25T19:37:35+00:00,,,,,,,
+mulebox,44170014,1.42.3,"Send AI coding agents' builds and tests to Linux machines on your network, through one queue",Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Build Tools; Topic :: Software Development :: Testing,2026-11-25T18:49:14+00:00,2026-11-25T19:37:35+00:00,https://github.com/typerhack/mulebox,v1.42.3,2,skills/mulebox/SKILL.md,,MIT,
+commissura,44170012,0.1.3,"Turn raw clinical material into standardised, de-identified, research-ready datasets",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Healthcare Industry; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Scientific/Engineering :: Medical Science Apps.; Typing :: Typed,2026-11-25T19:28:57+00:00,2026-11-25T19:37:35+00:00,https://github.com/jonathanmanca/commissura,,,,,Apache-2.0,"bids, clinical-data, de-identification, dicom, ehds, hl7, pseudonymisation, synthetic-data"
+osp-provider-sdk,44170009,,,,2026-11-25T18:48:44+00:00,2026-11-25T19:37:35+00:00,,,,,,,
+caesium-toolkit,44170006,,,,2026-11-25T18:48:31+00:00,2026-11-25T19:37:35+00:00,,,,,,,
+kute-engine,44170005,,,,2026-11-25T18:48:30+00:00,2026-11-25T19:37:35+00:00,,,,,,,
+mcp-gee-sweet,44170000,,,,2026-11-12T06:41:22+00:00,2026-11-25T19:37:35+00:00,,,,,,,
+geoextract-gee,44169997,,,,2026-11-25T18:48:21+00:00,2026-11-25T19:37:35+00:00,,,,,,,
+maplewatch-mcp,44169994,,,,2026-11-25T18:48:13+00:00,2026-11-25T19:37:35+00:00,,,,,,,
+v6ctl,44169991,0.11.1,The official CLI for the v6Node API.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: System :: Systems Administration; Topic :: Utilities,2026-11-25T18:48:01+00:00,2026-11-25T19:37:35+00:00,,,,,,,"v6node, cloud, vps, cli, hosting"
 agentenv-framework,44169988,0.9.1644,"SDK and CLI for building, deploying and running agent environments and the tasks that grade agents in them.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Science/Research; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Libraries :: Application Frameworks; Typing :: Typed,2026-11-25T15:55:28+00:00,,https://github.com/scaleapi/agentenv-framework,v0.9.1644,1,tst/data/skills/sample_skill/SKILL.md,a2a; agent-evaluation; agentic-ai; ai-agents; llm-agents; llm-evaluation; mcp; model-context-protocol; python; reinforcement-learning; reinforcement-learning-environments; sandbox,Apache-2.0,"a2a, agent-evaluation, ai-agents, llm-agents, mcp, model-context-protocol, reinforcement-learning, rl-environments, sandbox"
 ablt,44169985,,,,,,,,,,,,
 saql4l,44169982,,,,2026-11-23T21:05:30+00:00,,,,,,,,
