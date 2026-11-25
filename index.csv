@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-egisai,44142819,,,,2026-11-07T18:57:48+00:00,,,,,,,,
-crewai-core,44142817,,,,,,,,,,,,
-crewai-cli,44142814,,,,,,,,,,,,
-synaptra,44142811,,,,2026-11-04T18:27:48+00:00,,,,,,,,
-crewai,44142810,,,,,,,,,,,,
-data-olympus,44142805,0.11.4,Governance-grade knowledge-base format (OKF-compatible) plus CLI and single-writer MCP server,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.13; Topic :: Software Development :: Documentation; Topic :: Software Development :: Libraries; Typing :: Typed,2026-10-25T15:27:23+00:00,,https://github.com/knaisoma/data-olympus,v0.11.4,0,,ai-agents; knowledge-base; knowledge-management; markdown; mcp; model-context-protocol; okf,Apache-2.0,"agents, governance, knowledge-base, mcp, okf, rag"
-byzerllm,44142802,,,,,,,,,,,,
-remoterf-server,44142801,,,,,,,,,,,,
-velocity-python,44142800,,,,,,,,,,,,
-ty,44142793,0.0.107,"An extremely fast Python type checker, written in Rust.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Programming Language :: Python :: 3.8; Programming Language :: Python :: 3.9; Programming Language :: Rust; Topic :: Software Development :: Libraries; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing,2026-11-18T21:08:00+00:00,,https://github.com/astral-sh/ty,0.0.107,0,,,MIT,"ty, typing, analysis, check"
+egisai,44142819,,,,2026-11-25T06:11:36+00:00,2026-11-25T06:37:35+00:00,,,,,,,
+crewai-core,44142817,,,,2026-11-24T03:55:42+00:00,2026-11-25T06:37:35+00:00,,,,,,,
+crewai-cli,44142814,,,,2026-11-24T03:55:38+00:00,2026-11-25T06:37:35+00:00,,,,,,,
+synaptra,44142811,,,,2026-11-25T06:11:31+00:00,2026-11-25T06:37:35+00:00,,,,,,,
+crewai,44142810,,,,2026-11-24T03:55:34+00:00,2026-11-25T06:37:35+00:00,,,,,,,
+data-olympus,44142805,0.12.0,Governance-grade knowledge-base format (OKF-compatible) plus CLI and single-writer MCP server,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Software Development :: Documentation; Topic :: Software Development :: Libraries; Typing :: Typed,2026-11-23T18:22:14+00:00,2026-11-25T06:37:35+00:00,https://github.com/knaisoma/data-olympus,v0.12.0,0,,ai-agents; knowledge-base; knowledge-management; markdown; mcp; model-context-protocol; okf,Apache-2.0,"agents, governance, knowledge-base, mcp, okf, rag"
+byzerllm,44142802,,,,2026-11-25T06:11:17+00:00,2026-11-25T06:37:35+00:00,,,,,,,
+remoterf-server,44142801,,,,2026-11-25T06:11:16+00:00,2026-11-25T06:37:35+00:00,,,,,,,
+velocity-python,44142800,,,,2026-11-25T06:11:16+00:00,2026-11-25T06:37:35+00:00,,,,,,,
+ty,44142793,0.0.110,"An extremely fast Python type checker, written in Rust.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Programming Language :: Python :: 3.8; Programming Language :: Python :: 3.9; Programming Language :: Rust; Topic :: Software Development :: Libraries; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing,2026-11-25T06:11:12+00:00,2026-11-25T06:37:35+00:00,https://github.com/astral-sh/ty,0.0.110,0,,,MIT,"ty, typing, analysis, check"
 remoterf,44142792,,,,,,,,,,,,
 remoterf-host,44142788,,,,,,,,,,,,
 l-whd,44142784,,,,,,,,,,,,
