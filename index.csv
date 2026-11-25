@@ -195,7 +195,7 @@ fluss,44157650,,,,2026-10-29T22:50:33+00:00,,,,,,,,
 pyyeast,44157644,,,,,,,,,,,,
 asset-aware-mcp,44157639,,,,,,,,,,,,
 dokuments,44157635,,,,2026-10-28T13:55:18+00:00,,,,,,,,
-monash-study-kit,44157631,1.18.1,"Connect Monash Moodle and Ed to Claude, Codex, Cursor or any local MCP client via a local MCP server and CLI: deadlines, announcements, grades, full-text search over course materials and Ed posts, all on your own machine.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Education; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.13; Topic :: Education,2026-11-25T13:25:12+00:00,,https://github.com/Waldo0926/monash-study-kit,v1.18.1,1,skills/monash-study-kit/SKILL.md,,MIT,"claude, cli, codex, cursor, edstem, mcp, model-context-protocol, monash, moodle, study-tools"
+monash-study-kit,44157631,1.18.1,"Connect Monash Moodle and Ed to Claude, Codex, Cursor or any local MCP client via a local MCP server and CLI: deadlines, announcements, grades, full-text search over course materials and Ed posts, all on your own machine.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Education; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.13; Topic :: Education,2026-11-25T13:25:12+00:00,2026-11-25T14:37:41+00:00,https://github.com/Waldo0926/monash-study-kit,v1.18.1,1,skills/monash-study-kit/SKILL.md,,MIT,"claude, cli, codex, cursor, edstem, mcp, model-context-protocol, monash, moodle, study-tools"
 nenuflow,44157630,,,,2026-11-09T17:23:00+00:00,,,,,,,,
 tugaphone,44157621,,,,2026-02-06T19:04:27+00:00,,,,,,,,
 ondewo-vtsi-client,44157616,,,,,,,,,,,,
@@ -246,7 +246,7 @@ fem-post,44157403,,,,2026-11-24T17:20:46+00:00,,,,,,,,
 fem-core,44157396,,,,2026-11-24T17:20:43+00:00,,,,,,,,
 harnessed,44157395,,,,,,,,,,,,
 fibaro-flua,44157390,,,,2026-11-25T09:42:46+00:00,,,,,,,,
-xpd,44157387,0.48.0,"Fast, opinionated linter for Python library habits with pandas, NumPy, SciPy, scikit-learn and eight more libraries, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-25T13:20:21+00:00,,https://github.com/bjoernaagaard/xpd,v0.48.0,5,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
+xpd,44157387,0.50.0,"Fast, opinionated linter for Python library habits with pandas, NumPy, SciPy, scikit-learn and eight more libraries, for humans and coding agents",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Rust; Topic :: Software Development :: Quality Assurance,2026-11-25T14:33:42+00:00,2026-11-25T14:37:41+00:00,https://github.com/bjoernaagaard/xpd,v0.50.0,5,skills/xpd/SKILL.md,,Apache-2.0,"pandas, python, linter, ast-grep, agents"
 lokra,44157383,,,,,,,,,,,,
 python-amazon-ad-api,44157376,,,,,,,,,,,,
 napkinstack,44157373,,,,,,,,,,,,
