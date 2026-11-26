@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-samai-zagent,44183232,,,,2026-11-09T04:14:05+00:00,,,,,,,,
-civ6-turn-announcer,44183231,,,,,,,,,,,,
-ragleap-voice,44183226,,,,2026-11-08T17:13:05+00:00,,,,,,,,
-forgexa-cli,44183221,1.94.3,Forgexa CLI — command-line client and AI agent runtime for the Forgexa platform,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.9; Topic :: Software Development :: Build Tools; Topic :: Software Development :: Quality Assurance,2026-11-06T15:54:27+00:00,,https://github.com/forgexa/forgexa,,,,,,"forgexa, ai, software-factory, cli, devops, agent"
-clipper-gg,44183218,,,,,,,,,,,,
-bussdcc-plants,44183215,,,,,,,,,,,,
-ultratransfert-mcp,44183212,,,,,,,,,,,,
-aris-server,44183211,,,,,,,,,,,,
-py-alpha-lib,44183206,,,,,,,,,,,,
-ani-talent,44183196,,,,2026-11-15T04:22:45+00:00,,,,,,,,
+samai-zagent,44183232,,,,2026-11-26T01:53:18+00:00,2026-11-26T02:37:37+00:00,,,,,,,
+civ6-turn-announcer,44183231,0.1.1,"Spoken turn alerts for live multiplayer Civilization VI, read from the game's own log files. No mod.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: End Users/Desktop; Operating System :: MacOS; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Topic :: Games/Entertainment :: Turn Based Strategy,2026-11-26T01:53:16+00:00,2026-11-26T02:37:37+00:00,https://github.com/johntrandall/civ6-turn-announcer,v0.1.1,0,,civ6; civilization-vi; macos; multiplayer; python; text-to-speech,MIT,"civ6, civilization, civilization-vi, multiplayer, notification, text-to-speech, turn"
+ragleap-voice,44183226,,,,2026-11-26T01:53:14+00:00,2026-11-26T02:37:37+00:00,,,,,,,
+forgexa-cli,44183221,1.111.1,Forgexa CLI — command-line client and AI agent runtime for the Forgexa platform,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.9; Topic :: Software Development :: Build Tools; Topic :: Software Development :: Quality Assurance,2026-11-26T01:53:13+00:00,2026-11-26T02:37:37+00:00,https://github.com/forgexa/forgexa,,,,,,"forgexa, ai, software-factory, cli, devops, agent"
+clipper-gg,44183218,0.8.1,"Automatic gaming highlight trimmer with a local AI director, audio + motion detection, and lossless FFmpeg cuts.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: End Users/Desktop; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Multimedia :: Video; Topic :: Multimedia :: Video :: Non-Linear Editor,2026-11-26T01:53:00+00:00,2026-11-26T02:37:37+00:00,https://github.com/hatermedia/clipper,v0.8.1,0,,clip-trimmer; fastapi; ffmpeg; gameplay; gaming; highlight-detection; local-first; lossless-video; open-source; opencv; portable; python; shadowplay; twitch; twitch-vod; video-editing; video-trimmer; windows; youtube,MIT,"gaming, highlights, clipper, ffmpeg, video-editing, twitch, youtube, opencv"
+bussdcc-plants,44183215,0.11.0,bussdcc-plants,Development Status :: 2 - Pre-Alpha; Environment :: Console; Intended Audience :: Developers; Natural Language :: English; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Typing :: Typed,2026-11-26T02:16:59+00:00,2026-11-26T02:37:37+00:00,https://github.com/jbussdieker/bussdcc-plants,v0.11.0,0,,,MIT,plants
+ultratransfert-mcp,44183212,,,,2026-11-26T02:36:25+00:00,2026-11-26T02:37:37+00:00,,,,,,,
+aris-server,44183211,,,,2026-11-26T01:52:32+00:00,2026-11-26T02:37:37+00:00,,,,,,,
+py-alpha-lib,44183206,,,,2026-11-26T01:52:16+00:00,2026-11-26T02:37:37+00:00,,,,,,,
+ani-talent,44183196,,,,2026-11-26T01:51:59+00:00,2026-11-26T02:37:37+00:00,,,,,,,
 aiosellers-nechel12,44183193,,,,,,,,,,,,
 vivarium-workbench,44183190,,,,,,,,,,,,
 polyester-sdk,44183187,,,,2026-11-11T02:52:01+00:00,,,,,,,,
