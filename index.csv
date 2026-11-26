@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-qufit,44207391,,,,,,,,,,,,
-whole-body-compute,44207389,,,,,,,,,,,,
-testbench-ai-service,44207386,1.3.0,REST API service supporting multiple AI agents for imbus TestBench,Environment :: Console; Environment :: Web Environment; Framework :: AsyncIO; Framework :: FastAPI; Intended Audience :: Developers; Intended Audience :: Information Technology; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Internet :: WWW/HTTP :: HTTP Servers; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing,2026-10-27T08:48:23+00:00,,https://github.com/imbus/testbench-ai-service,v1.3.0,0,,,Apache-2.0,"testbench, ai-proxy, artificial-intelligence, llm, openai, test-automation, test-case-review, test-case-generation, defect-explanation, fastapi, proxy-server"
-blockmetric,44207383,,,,2026-11-12T22:23:09+00:00,,,,,,,,
-anomx,44207380,,,,,,,,,,,,
-statsx,44207379,,,,2026-11-20T07:29:47+00:00,,,,,,,,
-aiopnsense,44207375,,,,2026-11-06T22:45:00+00:00,,,,,,,,
-tina4-python,44207372,,,,,,,,,,,,
-trytond-company,44207369,,,,,,,,,,,,
-usif,44207366,,,,,,,,,,,,
+qufit,44207391,,,,2026-11-26T14:07:20+00:00,2026-11-26T14:37:35+00:00,,,,,,,
+whole-body-compute,44207389,0.1.7,"Cut agent token burn with zero accuracy loss on SWE-bench Verified. Local <3ms AST shield, Apple Silicon vision & memory runtime for Claude Code, Cursor & Antigravity.",Development Status :: 4 - Beta; Environment :: Console; Environment :: MacOS X; Intended Audience :: Developers; Operating System :: MacOS :: MacOS X; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Libraries :: Application Frameworks; Topic :: System :: Monitoring,2026-11-26T14:07:15+00:00,2026-11-26T14:37:35+00:00,https://github.com/wholebodycompute/whole-body-compute,v0.1.7,0,,ai-agents; antigravity; apple-silicon; claude-code; context-engineering; cursor; finops; mcp; mlx; swebench,NOASSERTION,"ai-agents, antigravity, apple-silicon, claude-code, context-engineering, cursor, finops, macos, mcp, mlx, swebench, tree-sitter, whole-body-compute"
+testbench-ai-service,44207386,1.3.1,REST API service supporting multiple AI agents for imbus TestBench,Environment :: Console; Environment :: Web Environment; Framework :: AsyncIO; Framework :: FastAPI; Intended Audience :: Developers; Intended Audience :: Information Technology; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Internet :: WWW/HTTP :: HTTP Servers; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing,2026-11-26T14:07:00+00:00,2026-11-26T14:37:35+00:00,https://github.com/imbus/testbench-ai-service,,,,,Apache-2.0,"testbench, ai-proxy, artificial-intelligence, llm, openai, test-automation, test-case-review, test-case-generation, defect-explanation, fastapi, proxy-server"
+blockmetric,44207383,,,,2026-11-26T14:06:55+00:00,2026-11-26T14:37:35+00:00,,,,,,,
+anomx,44207380,,,,2026-11-26T14:06:52+00:00,2026-11-26T14:37:35+00:00,,,,,,,
+statsx,44207379,,,,2026-11-26T14:06:50+00:00,2026-11-26T14:37:35+00:00,,,,,,,
+aiopnsense,44207375,,,,2026-11-26T14:06:46+00:00,2026-11-26T14:37:35+00:00,,,,,,,
+tina4-python,44207372,,,,2026-11-26T14:06:44+00:00,2026-11-26T14:37:35+00:00,,,,,,,
+trytond-company,44207369,,,,2026-11-26T14:06:41+00:00,2026-11-26T14:37:35+00:00,,,,,,,
+usif,44207366,,,,2026-11-26T14:03:43+00:00,2026-11-26T14:37:35+00:00,,,,,,,
 volcenginesdk-redis,44207365,,,,,,,,,,,,
 logogram,44207363,,,,,,,,,,,,
 capdag,44207360,,,,,,,,,,,,
