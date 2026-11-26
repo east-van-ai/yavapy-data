@@ -97080,16 +97080,16 @@ odoo-addon-stock-picking-report-summary,42646844,,,,2025-10-06T07:53:05+00:00,20
 pyromax,42646724,,,,2026-10-23T14:50:33+00:00,2026-11-26T04:22:48+00:00,,,,,,,
 sciwidgets,42646723,,,,2026-10-23T14:50:31+00:00,2026-11-26T04:22:48+00:00,,,,,,,
 django-lettermint,42646681,,,,2026-10-23T14:48:30+00:00,2026-11-26T04:22:48+00:00,,,,,,,
-starfish-storage-sdk,42646660,,,,,,,,,,,,
-playbook-scheduler,42646623,,,,,,,,,,,,
-rulestamp-npm-trusted-publish-lint,42646620,,,,,,,,,,,,
-mundorum-noid-collections,42646615,,,,,,,,,,,,
-rulestamp-nomina-es-cotizacion-2026,42646602,,,,,,,,,,,,
-pm-publisher,42646597,,,,,,,,,,,,
-rulestamp-nis2-incident-runbook-lint,42646588,,,,,,,,,,,,
-mundorum-noid,42646583,,,,,,,,,,,,
-rulestamp-consent-audit-eu,42646576,,,,,,,,,,,,
-zboxapi,42646562,,,,,,,,,,,,
+starfish-storage-sdk,42646660,,,,2026-10-23T14:48:02+00:00,2026-11-26T04:38:02+00:00,,,,,,,
+playbook-scheduler,42646623,,,,2026-10-23T14:46:10+00:00,2026-11-26T04:38:02+00:00,,,,,,,
+rulestamp-npm-trusted-publish-lint,42646620,1.0.7,Finds the credential in your release workflow that expires before your next release (bundled Node.js runtime),Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-23T14:46:09+00:00,2026-11-26T04:38:02+00:00,,,,,,,"npm, trusted publishing, oidc, github actions, provenance, supply chain, release, gitlab ci"
+mundorum-noid-collections,42646615,,,,2026-10-08T16:18:11+00:00,2026-11-26T04:38:02+00:00,,,,,,,
+rulestamp-nomina-es-cotizacion-2026,42646602,1.0.5,"Marca en tu fichero de tablas cada tipo, tope y tramo de cotización que sigue en valores de 2025 y pone al lado el valor oficial de 2026 con la cita del BOE. (bundled Node.js runtime)",Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-23T14:45:49+00:00,2026-11-26T04:38:02+00:00,,,,,,,"nomina, cotizacion, seguridad social, espana, tgss, mei, solidaridad"
+pm-publisher,42646597,,,,2026-10-23T14:45:46+00:00,2026-11-26T04:38:02+00:00,,,,,,,
+rulestamp-nis2-incident-runbook-lint,42646588,1.0.8,Reads your incident-response runbook and says which of the three Article 23 clocks it gets wrong (bundled Node.js runtime),Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-23T14:45:29+00:00,2026-11-26T04:38:02+00:00,,,,,,,"nis2, incident response, runbook, csirt, article 23, compliance, markdown"
+mundorum-noid,42646583,,,,2026-07-09T11:05:42+00:00,2026-11-26T04:38:02+00:00,,,,,,,
+rulestamp-consent-audit-eu,42646576,0.1.6,"Finds the analytics, pixels, fonts and embeds that fire before your cookie banner is answered - in the source, before you deploy. 24 rules. (bundled Node.js runtime)",Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-23T14:45:06+00:00,2026-11-26T04:38:02+00:00,,,,,,,"gdpr, cookies, consent, privacy, eprivacy"
+zboxapi,42646562,,,,2026-10-23T14:45:01+00:00,2026-11-26T04:38:02+00:00,,,,,,,
 fuck-your-markdown,42646559,,,,,,,,,,,,
 qiantong,42646545,,,,,,,,,,,,
 hoh,42646536,,,,,,,,,,,,
