@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-abakus,44226805,,,,,,,,,,,,
-gurp-sdk,44226803,,,,,,,,,,,,
-tuieval,44226799,,,,,,,,,,,,
-streamlit-table-filter,44226796,,,,,,,,,,,,
-kaitaistruct,44226793,,,,,,,,,,,,
-paper-sources-mcp,44226788,,,,,,,,,,,,
-hanzoai,44226783,,,,,,,,,,,,
-prwarden,44226780,3.5.1,Self-hosted AI pull-request reviewer built on the AI and GitHub CLIs you already use,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Software Development :: Quality Assurance,2026-11-17T21:45:26+00:00,,https://github.com/bruha/prwarden,v3.5.1,0,,ai; code-review; github; llm; pull-requests; python,Apache-2.0,"ai, code-review, github, llm, pull-requests"
-code-coordinator,44226777,0.5.844,Coordinate Claude Code workers across multiple machines and repos.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3.12; Topic :: Software Development :: Build Tools,2026-11-26T22:18:52+00:00,,https://github.com/JDonaghy/claude-coordinator,v0.5.844,10,coord/skills/release-now/SKILL.md,,NOASSERTION,"claude, claude-code, multi-agent, coordinator, automation"
-django-mvp,44226774,,,,,,,,,,,,
+abakus,44226805,,,,2026-11-26T23:15:15+00:00,2026-11-26T23:37:40+00:00,,,,,,,
+gurp-sdk,44226803,,,,2026-11-26T23:15:14+00:00,2026-11-26T23:37:40+00:00,,,,,,,
+tuieval,44226799,,,,2026-11-26T23:14:41+00:00,2026-11-26T23:37:40+00:00,,,,,,,
+streamlit-table-filter,44226796,,,,2026-11-26T23:14:29+00:00,2026-11-26T23:37:40+00:00,,,,,,,
+kaitaistruct,44226793,,,,2025-09-08T15:46:25+00:00,2026-11-26T23:37:40+00:00,,,,,,,
+paper-sources-mcp,44226788,,,,2026-11-26T23:14:18+00:00,2026-11-26T23:37:40+00:00,,,,,,,
+hanzoai,44226783,,,,2026-11-26T22:25:35+00:00,2026-11-26T23:37:40+00:00,,,,,,,
+prwarden,44226780,4.4.0,Self-hosted AI pull-request reviewer built on the AI and GitHub CLIs you already use,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Software Development :: Quality Assurance,2026-11-26T23:13:53+00:00,2026-11-26T23:37:40+00:00,https://github.com/bruha/prwarden,v4.4.0,0,,ai; code-review; github; llm; pull-requests; python,Apache-2.0,"ai, code-review, github, llm, pull-requests"
+code-coordinator,44226777,0.5.845,Coordinate Claude Code workers across multiple machines and repos.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3.12; Topic :: Software Development :: Build Tools,2026-11-26T23:13:43+00:00,2026-11-26T23:37:40+00:00,https://github.com/JDonaghy/claude-coordinator,v0.5.845,10,coord/skills/release-now/SKILL.md,,NOASSERTION,"claude, claude-code, multi-agent, coordinator, automation"
+django-mvp,44226774,,,,2026-11-26T23:13:37+00:00,2026-11-26T23:37:40+00:00,,,,,,,
 macore-client-dev,44226771,,,,2026-11-19T17:22:05+00:00,,,,,,,,
 chronologia,44226770,,,,2026-08-18T01:05:06+00:00,,,,,,,,
 agent-toolkit-cli,44226765,,,,,,,,,,,,
