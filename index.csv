@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-autumn-sdk,44256702,,,,2026-11-20T15:09:33+00:00,,,,,,,,
-stayawakebot,44256701,,,,,,,,,,,,
-ukr-dev-kit,44256696,,,,,,,,,,,,
-figma2lvgl,44256690,,,,,,,,,,,,
-bindview,44256687,,,,,,,,,,,,
-gradientcobra,44256684,,,,,,,,,,,,
-satsgate,44256681,,,,,,,,,,,,
-piceli,44256678,0.92.0,"Kubernetes infrastructure as typed Python: model, plan, apply and observe",Development Status :: 2 - Pre-Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; Operating System :: OS Independent; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development :: Build Tools; Topic :: System :: Clustering; Topic :: System :: Systems Administration; Typing :: Typed,2026-11-27T14:14:53+00:00,,https://github.com/pynenc/piceli,v0.92.0,1,skills/piceli/SKILL.md,,MIT,"deployment, devops, gitops, helm, infrastructure-as-code, k8s, kubernetes, kustomize, typed"
-promptmap,44256675,,,,,,,,,,,,
-vis-agent,44256672,,,,,,,,,,,,
+autumn-sdk,44256702,,,,2026-11-27T14:55:12+00:00,2026-11-27T15:37:35+00:00,,,,,,,
+stayawakebot,44256701,,,,2026-11-27T14:55:13+00:00,2026-11-27T15:37:35+00:00,,,,,,,
+ukr-dev-kit,44256696,0.4.0,"Українська мова для розробників і AI-агентів: вичитка суржику й типографіки, прибирання ШІ-стилю, перевірка локалізації, українські дані (РНОКПП, ЄДРПОУ, IBAN), озвучка.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Natural Language :: Ukrainian; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Topic :: Multimedia :: Sound/Audio :: Speech; Topic :: Software Development :: Internationalization; Topic :: Software Development :: Localization; Topic :: Software Development :: Quality Assurance; Topic :: Text Processing :: Linguistic,2026-11-27T15:20:40+00:00,2026-11-27T15:37:35+00:00,https://github.com/MaxKarasha/ukr-dev-kit,v0.4.0,5,skills/ukr-data/SKILL.md,agent-skills; ai-writing; claude-code; claude-code-plugin; claude-code-skills; claude-skills; gemini; humanizer; i18n; l10n; linter; localization; proofreading; python; surzhyk; text-to-speech; transliteration; tts; ukrainian; ukrainian-language,MIT,"agent-skills, ai-writing, claude-code, edrpou, humanizer, i18n, iban, l10n, linter, localization, proofreading, rnokpp, surzhyk, transliteration, tts, ukrainian"
+figma2lvgl,44256690,0.6.0,Generate LVGL9 C source files from Figma XML exports,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Code Generators; Topic :: Software Development :: Embedded Systems,2026-11-27T14:55:03+00:00,2026-11-27T15:37:35+00:00,https://github.com/khiyamiftikhar/figma2lvgl,v0.6.0,0,,,MIT,"lvgl, lvgl9, figma, codegen, embedded, ui, lvgl-ui"
+bindview,44256687,,,,2026-11-27T14:54:55+00:00,2026-11-27T15:37:35+00:00,,,,,,,
+gradientcobra,44256684,,,,2026-11-27T14:54:50+00:00,2026-11-27T15:37:35+00:00,,,,,,,
+satsgate,44256681,,,,2026-11-27T14:54:37+00:00,2026-11-27T15:37:35+00:00,,,,,,,
+piceli,44256678,0.93.0,"Kubernetes infrastructure as typed Python: model, plan, apply and observe",Development Status :: 2 - Pre-Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; Operating System :: OS Independent; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Software Development :: Build Tools; Topic :: System :: Clustering; Topic :: System :: Systems Administration; Typing :: Typed,2026-11-27T14:54:25+00:00,2026-11-27T15:37:35+00:00,https://github.com/pynenc/piceli,v0.93.0,1,skills/piceli/SKILL.md,,MIT,"deployment, devops, gitops, helm, infrastructure-as-code, k8s, kubernetes, kustomize, typed"
+promptmap,44256675,,,,2026-11-27T15:01:57+00:00,2026-11-27T15:37:35+00:00,,,,,,,
+vis-agent,44256672,,,,2026-11-24T23:23:29+00:00,2026-11-27T15:37:35+00:00,,,,,,,
 impi-rt,44256671,,,,2026-11-12T15:03:59+00:00,,,,,,,,
 pymss,44256668,,,,2026-11-15T10:26:02+00:00,,,,,,,,
 rokadice,44256665,,,,,,,,,,,,
