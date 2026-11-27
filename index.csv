@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-pixtreme-transport-ffmpeg,44250426,,,,,,,,,,,,
-umbod,44250425,,,,2026-09-07T14:55:08+00:00,,,,,,,,
-idftool,44250420,,,,,,,,,,,,
-govrule,44250417,,,,,,,,,,,,
-baudrier,44250414,0.7.5,Baudrier CLI: connect projects to your AI coding harness and validate harness repositories,Environment :: Console; License :: Other/Proprietary License; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-11-06T14:31:05+00:00,,,,,,,,
-repull-sdk,44250413,,,,2026-11-11T04:19:58+00:00,,,,,,,,
-ngsolve,44250408,,,,2026-10-01T19:29:20+00:00,,,,,,,,
-infobim,44250407,,,,2026-11-10T20:12:07+00:00,,,,,,,,
-everysk-orjson,44250403,,,,,,,,,,,,
-ccvet,44250402,,,,,,,,,,,,
+pixtreme-transport-ffmpeg,44250426,,,,2026-11-27T12:23:54+00:00,2026-11-27T12:37:43+00:00,,,,,,,
+umbod,44250425,,,,2026-09-07T14:55:08+00:00,2026-11-27T12:37:43+00:00,,,,,,,
+idftool,44250420,,,,2026-11-27T12:23:49+00:00,2026-11-27T12:37:43+00:00,,,,,,,
+govrule,44250417,0.37.0,治理规则 DSL：四值判据 + 证据 + 基线棘轮（离线、零第三方依赖）,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-11-27T12:23:28+00:00,2026-11-27T12:37:43+00:00,,,,,,,"governance, policy-as-code, dsl, gates, offline"
+baudrier,44250414,0.12.0,"Baudrier CLI: install, convert and prove whole agent harnesses (hooks, rules, skills, subagents) for Claude Code and Codex",Environment :: Console; License :: Other/Proprietary License; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13,2026-11-27T12:23:22+00:00,2026-11-27T12:37:43+00:00,,,,,,,
+repull-sdk,44250413,,,,2026-11-27T12:23:21+00:00,2026-11-27T12:37:43+00:00,,,,,,,
+ngsolve,44250408,,,,2026-10-01T19:29:20+00:00,2026-11-27T12:37:43+00:00,,,,,,,
+infobim,44250407,,,,2026-11-27T12:22:58+00:00,2026-11-27T12:37:43+00:00,,,,,,,
+everysk-orjson,44250403,,,,2026-11-27T12:22:41+00:00,2026-11-27T12:37:43+00:00,,,,,,,
+ccvet,44250402,0.2.2,"A risk-classifying PreToolUse permission hook for Claude Code. Auto-approves safe commands, blocks dangerous ones, asks about the rest, with an optional local LLM for the gray zone.",Development Status :: 2 - Pre-Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Topic :: Security; Topic :: Software Development :: Build Tools; Topic :: Utilities,2026-11-27T12:33:32+00:00,2026-11-27T12:37:43+00:00,https://github.com/saicharansreedhara2/ccvet,v0.2.2,0,,,MIT,"ai-agent-security, anthropic, auto-approve, claude, claude-code, guardrails, llm-agent-safety, lm-studio, ollama, permission-hook, pretooluse, risk-classifier, security"
 losalamos,44250396,,,,2026-11-06T20:42:47+00:00,,,,,,,,
 shirdal,44250389,,,,,,,,,,,,
 pigeon-home-runner,44250387,3.19.35.2,"Self-hosted, email-driven agent: tell your cloud SI to send signed jobs via email that execute on your machine.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: Apache Software License; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: System :: Systems Administration,2026-11-26T18:10:27+00:00,,https://github.com/Pigeon-Home/homing-pigeon,v3.19.35.2,0,,ai-agents; intrusion-detection-system; local-agent; ollama; remote-execution; secure-by-default; self-hosted; selinux; si; super-intelligence; superintelligence,Apache-2.0,"agent, self-hosted, email, automation, remote-execution"
