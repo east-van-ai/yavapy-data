@@ -100586,16 +100586,16 @@ cortex-ai-memory,42614990,,,,2026-10-22T21:59:49+00:00,2026-11-27T09:52:43+00:00
 agent-code-guard,42614979,,,,2026-10-22T21:59:18+00:00,2026-11-27T09:52:43+00:00,,,,,,,
 quantbt-native,42614975,,,,2026-10-22T21:59:11+00:00,2026-11-27T09:52:43+00:00,,,,,,,
 microsoft-agents-m365copilot,42614962,,,,2026-10-22T21:58:55+00:00,2026-11-27T09:52:43+00:00,,,,,,,
-zotegrep,42614915,,,,,,,,,,,,
-interpax,42614878,,,,,,,,,,,,
-mkit-cli,42614866,,,,,,,,,,,,
-ss-cloud-cli,42614853,,,,,,,,,,,,
-huira,42614839,,,,,,,,,,,,
-adafruit-circuitpython-funhouse,42614831,,,,,,,,,,,,
-globus-sdk,42614782,,,,,,,,,,,,
-vtai-agent,42614680,,,,,,,,,,,,
-hg-git-sign,42614674,,,,,,,,,,,,
-pulumi-onepassword,42614562,,,,,,,,,,,,
+zotegrep,42614915,0.1.0,"Full-text search inside every PDF of your Zotero library: phrases, NEAR, regex, page numbers. Command line and local web interface.",Development Status :: 4 - Beta; Environment :: Console; Environment :: Web Environment; Intended Audience :: Science/Research; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Scientific/Engineering; Topic :: Text Processing :: Indexing,2026-10-22T21:57:29+00:00,2026-11-27T10:07:43+00:00,https://github.com/marcpinet/zotegrep,v0.1.0,0,,latex; research; search-algorithm; zotero; zotero-api,AGPL-3.0,"full-text search, grep, literature review, ocr, pdf, research, zotero"
+interpax,42614878,,,,2026-10-22T21:56:53+00:00,2026-11-27T10:07:43+00:00,,,,,,,
+mkit-cli,42614866,0.5.0,"Release Android apps to Google Play from the command line: build, upload, listing, screenshots, data safety, in-app products, vitals and Firebase, in one tool built for humans and AI agents.",Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Build Tools; Topic :: Software Development :: Libraries :: Application Frameworks; Topic :: System :: Software Distribution,2026-10-22T21:56:32+00:00,2026-11-27T10:07:43+00:00,https://github.com/almasumdev/mkit-cli,v0.5.0,0,,ai-agents; android; aso; cli; firebase; flutter; google-play; release-automation,MIT,"android, aso, firebase, flutter, google-play, release"
+ss-cloud-cli,42614853,0.2.2,"Unified cloud and platform CLI for AWS, Kubernetes, and registry workflows.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; License :: OSI Approved :: MIT License; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Build Tools; Topic :: System :: Systems Administration,2026-10-22T21:56:25+00:00,2026-11-27T10:07:43+00:00,https://github.com/sszhu/cloudcli,,,,,,"aws, cli, cloud, devops, eks, kubernetes, platform"
+huira,42614839,,,,2026-10-22T21:55:47+00:00,2026-11-27T10:07:43+00:00,,,,,,,
+adafruit-circuitpython-funhouse,42614831,,,,2026-10-22T21:55:40+00:00,2026-11-27T10:07:43+00:00,,,,,,,
+globus-sdk,42614782,,,,2026-10-22T21:23:42+00:00,2026-11-27T10:07:43+00:00,,,,,,,
+vtai-agent,42614680,0.7.0,VT-AIAgent — system-automation agent exposed as an MCP server for opencode/claude/pi,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Intended Audience :: End Users/Desktop; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3.14; Topic :: Scientific/Engineering :: Artificial Intelligence; Topic :: Security; Topic :: System :: Systems Administration,2026-10-22T21:51:35+00:00,2026-11-27T10:07:43+00:00,https://github.com/velsrocky/vtai-agent,v0.7.0,0,,,MIT,"mcp, mcp-server, claude, opencode, agent, guardrails, audit, automation, sandbox, llm-agent"
+hg-git-sign,42614674,0.1.0,Sign Mercurial changesets so hg-git pushes them to Git as signed commits,Development Status :: 4 - Beta; Environment :: Console; Programming Language :: Python :: 3; Topic :: Software Development :: Version Control :: Git; Topic :: Software Development :: Version Control :: Mercurial,2026-10-22T21:51:14+00:00,2026-11-27T10:07:43+00:00,https://github.com/stephenskory/hg-git-sign,v0.1.0,0,,,GPL-2.0,
+pulumi-onepassword,42614562,,,,2026-10-22T21:49:10+00:00,2026-11-27T10:07:43+00:00,,,,,,,
 offenders,42614554,,,,,,,,,,,,
 mediapane-claude,42614543,,,,,,,,,,,,
 homesmartlink,42614511,,,,,,,,,,,,
