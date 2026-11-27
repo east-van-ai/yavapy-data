@@ -54016,31 +54016,31 @@ governed-objects,43607145,,,,,,,,,,,,
 drain-swamp,43607132,,,,,,,,,,,,
 gacalc,43607117,,,,,,,,,,,,
 blackfire-conprof,43607097,,,,,,,,,,,,
-sascalc,43607087,,,,,,,,,,,,
+sascalc,43607087,,,,,2026-11-27T04:07:41+00:00,,,,,,,
 sasdata,43607083,,,,2026-07-30T09:36:31+00:00,2026-11-13T14:37:35+00:00,,,,,,,
 prefect-specstream,43607078,,,,2026-11-13T13:37:42+00:00,2026-11-13T14:37:35+00:00,,,,,,,
 sasmodels,43607075,1.1.0,SasModels small-angle scattering modelling,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Science/Research; License :: Public Domain; Operating System :: OS Independent; Programming Language :: C; Programming Language :: Python; Topic :: Scientific/Engineering; Topic :: Scientific/Engineering :: Chemistry; Topic :: Scientific/Engineering :: Physics,2026-07-30T09:52:55+00:00,2026-11-13T14:37:35+00:00,https://github.com/SasView/sasmodels,v1.1.0,0,,,BSD-3-Clause,"X-ray, data analysis, neutron, scattering, small-angle"
 zeeml-cadence,43607070,,,,2026-11-13T13:37:30+00:00,2026-11-13T14:37:35+00:00,,,,,,,
 sasview,43607065,,,,2026-07-30T10:51:39+00:00,2026-11-13T14:37:35+00:00,,,,,,,
-mr-distributions-test-mr,43607030,,,,,,,,,,,,
-scanwitness,43607007,,,,,,,,,,,,
-moselecta,43607005,,,,,,,,,,,,
-rashomon-llm,43606992,,,,,,,,,,,,
-veilio-sdk,43606987,,,,,,,,,,,,
-xrpl-camp,43606956,,,,,,,,,,,,
-django-image-toolkit,43606944,,,,,,,,,,,,
-sampiclyser,43606941,,,,,,,,,,,,
-piper-plus,43606914,,,,,,,,,,,,
-ibl-neuropixel,43606909,,,,2026-11-01T14:42:10+00:00,,,,,,,,
-fieldgraph,43606905,,,,,,,,,,,,
-scalekit-sdk-python,43606888,,,,,,,,,,,,
-texdocxdrafter,43606873,,,,,,,,,,,,
-arguebuf,43606834,,,,,,,,,,,,
-aurasprout,43606832,,,,,,,,,,,,
-french-cities,43606774,,,,,,,,,,,,
-yandex-infradev-scorch-client,43606764,,,,,,,,,,,,
-agentic-radar,43606732,,,,,,,,,,,,
-undatum,43606729,2.0.0,A powerful command-line tool for data processing and analysis,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; Programming Language :: Python; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development; Topic :: System :: Networking; Topic :: Terminals; Topic :: Text Processing; Topic :: Utilities,2026-10-30T08:26:43+00:00,,https://github.com/datenoio/undatum,v2.0.0,0,,bson; cli; command-line; csv; data; dataset; json; jsonl; jsonlines; parquet,MIT,"json, jsonl, csv, bson, cli, dataset, data-processing"
+mr-distributions-test-mr,43607030,,,,,2026-11-27T04:07:41+00:00,,,,,,,
+scanwitness,43607007,2.2.2,"Runs wafw00f, shcheck, sslscan and whatweb and consolidates the results into HTML, Markdown and CSV reports with severity, evidence and recommendations per target",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Information Technology; Intended Audience :: System Administrators; Natural Language :: English; Natural Language :: Portuguese (Brazilian); Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Security,2026-11-13T13:36:01+00:00,2026-11-27T04:07:41+00:00,https://github.com/IsaacLouzeiro/scanwitness,v2.2.2,0,,,MIT,"security, pentest, recon, tls, security-headers, waf, report, vulnerability-scanner, owasp"
+moselecta,43607005,0.3.0,"CDS-structure-aware gene-model selection with optional genomic sequence, protein, and transcript evidence integration",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Science/Research; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Scientific/Engineering :: Bio-Informatics,2026-11-13T13:36:00+00:00,2026-11-27T04:07:41+00:00,,,,,,,"annotation, GFF3, gene models, CDS, genome annotation"
+rashomon-llm,43606992,0.1.0,Measure how often an LLM endpoint returns different outcomes for identical request parameters under concurrent load.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Scientific/Engineering :: Artificial Intelligence,2026-11-13T13:35:57+00:00,2026-11-27T04:07:41+00:00,https://github.com/Egzakta-AILab/rashomon-llm,v0.1.0,0,,benchmarking-tools; inference; llama-cpp; llm; measurement; nondeterminism; reproducibility; vllm,Apache-2.0,"llm, inference, nondeterminism, measurement, vllm, llama.cpp"
+veilio-sdk,43606987,,,,2026-11-13T13:35:40+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+xrpl-camp,43606956,1.6.0,"Learn the XRP Ledger in one sitting — real transactions, portable proof, 10 minutes.",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Education; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Education,2026-11-13T13:34:54+00:00,2026-11-27T04:07:41+00:00,,,,,,,"education, ledger, testnet, web3, xrpl"
+django-image-toolkit,43606944,,,,2026-11-13T13:34:37+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+sampiclyser,43606941,0.2.2,Python library to help decoding and analysing data from a SAMPIC system,Development Status :: 3 - Alpha; Environment :: Console; License :: OSI Approved :: zlib/libpng License; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Scientific/Engineering,2026-11-13T13:34:34+00:00,2026-11-27T04:07:41+00:00,https://github.com/cbeiraod/SAMPIClyser,v0.2.2,0,,,Zlib,"Awesome, ROOT, SAMPIC"
+piper-plus,43606914,,,,2026-11-13T13:34:06+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+ibl-neuropixel,43606909,,,,2026-11-13T13:33:56+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+fieldgraph,43606905,,,,2026-11-13T13:33:50+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+scalekit-sdk-python,43606888,,,,2026-11-13T13:33:22+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+texdocxdrafter,43606873,,,,2026-11-13T13:32:51+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+arguebuf,43606834,,,,2026-11-13T13:31:58+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+aurasprout,43606832,,,,2026-11-13T13:31:56+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+french-cities,43606774,,,,2026-11-13T13:31:15+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+yandex-infradev-scorch-client,43606764,,,,2026-11-13T13:31:04+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+agentic-radar,43606732,,,,2026-11-13T13:30:04+00:00,2026-11-27T04:07:41+00:00,,,,,,,
+undatum,43606729,2.0.1,A powerful command-line tool for data processing and analysis,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Intended Audience :: System Administrators; Programming Language :: Python; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development; Topic :: System :: Networking; Topic :: Terminals; Topic :: Text Processing; Topic :: Utilities,2026-11-13T06:47:02+00:00,2026-11-27T04:07:41+00:00,https://github.com/datenoio/undatum,v2.0.1,0,,bson; cli; command-line; csv; data; dataset; json; jsonl; jsonlines; parquet,MIT,"json, jsonl, csv, bson, cli, dataset, data-processing"
 hostpulse,43606728,,,,2026-11-13T13:29:38+00:00,2026-11-27T03:52:40+00:00,,,,,,,
 midi-ascii,43606715,1.2.0,"The MIDI version of Unix' ascii: look up MIDI pitches, note names (English, German, solfège) and frequencies",Environment :: Console; Programming Language :: Python :: 3; Topic :: Multimedia :: Sound/Audio :: MIDI,2026-11-13T13:29:13+00:00,2026-11-27T03:52:40+00:00,https://github.com/fbous/midi,v1.2.0,0,,,GPL-3.0,"midi, pitch, frequency, music, terminal"
 tag-publish,43606708,1.3.5,"Tools used to publish Python packages, Docker images and Helm charts for GitHub tag and branch",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Typing :: Typed,2026-11-13T13:28:44+00:00,2026-11-27T03:52:40+00:00,https://github.com/camptocamp/tag-publish,1.3.5,0,,geospatial,BSD-2-Clause,ci
