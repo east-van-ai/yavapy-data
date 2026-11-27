@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-changelogkit,44237536,,,,,,,,,,,,
-suru-lang,44237535,,,,,,,,,,,,
-structx-mcp,44237530,,,,,,,,,,,,
-omni-reason,44237529,,,,,,,,,,,,
-secure-cli,44237528,,,,2026-11-26T11:11:06+00:00,,,,,,,,
-mcp-gee-sweet,44237524,,,,2026-11-12T06:41:22+00:00,,,,,,,,
-randonneuring-intelligence,44237523,,,,,,,,,,,,
-stranger-test,44237518,0.2.0,Tests MCP servers for cross-identity and delegated-authority (RFC 8693) authorization leaks.,Development Status :: 2 - Pre-Alpha; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.9; Topic :: Security; Topic :: Software Development :: Testing,2026-11-19T08:18:03+00:00,,https://github.com/Vedant-Agarwal/stranger-test,v0.2.0,0,,,Apache-2.0,"mcp, model-context-protocol, security, authorization, confused-deputy"
-featuremesh-serving-runtime,44237514,,,,,,,,,,,,
-cwa,44237512,,,,,,,,,,,,
+changelogkit,44237536,0.14.1,本機變更歷史 GUI 與開發索引：解析 ChangeHistory.md、唯讀索引 Git／文件／API 宣告,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Documentation; Topic :: Software Development :: Version Control :: Git,2026-11-27T06:50:50+00:00,2026-11-27T07:37:41+00:00,https://github.com/TwhomeGH/ChangeLogKit,v0.14.1,0,,code-review; developer-tools,MIT,"changelog, developer-tools, docc, documentation, git"
+suru-lang,44237535,0.10.1,日本語の関数型プログラミング言語「する」(インタプリタ・型検査・LLVM コンパイラ),Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Education; Natural Language :: Japanese; Operating System :: MacOS; Operating System :: POSIX; Programming Language :: Python :: 3; Topic :: Software Development :: Compilers; Topic :: Software Development :: Interpreters,2026-11-27T06:50:50+00:00,2026-11-27T07:37:41+00:00,https://github.com/suru-lang/suru,v0.10.1,0,,,GPL-3.0,"compiler, interpreter, japanese, llvm, programming-language"
+structx-mcp,44237530,,,,2026-11-27T06:49:44+00:00,2026-11-27T07:37:41+00:00,,,,,,,
+omni-reason,44237529,,,,2026-11-27T07:06:20+00:00,2026-11-27T07:37:41+00:00,,,,,,,
+secure-cli,44237528,,,,2026-11-27T06:50:25+00:00,2026-11-27T07:37:41+00:00,,,,,,,
+mcp-gee-sweet,44237524,,,,2026-11-12T06:41:22+00:00,2026-11-27T07:37:41+00:00,,,,,,,
+randonneuring-intelligence,44237523,,,,2026-11-27T06:50:17+00:00,2026-11-27T07:37:41+00:00,,,,,,,
+stranger-test,44237518,0.4.7,"Can user B read user A's data in your AI app? Two-user tenant isolation tests (IDOR/BOLA) for LangGraph agent servers, MCP servers and gateways, and LLM semantic caches.",Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Information Technology; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.9; Topic :: Security; Topic :: Software Development :: Testing,2026-11-27T06:50:14+00:00,2026-11-27T07:37:41+00:00,https://github.com/strangertest-labs/stranger-test,v0.4.7,0,,agent-memory; ai-agents; ai-security; authorization; bola; github-actions; idor; langchain; langgraph; llm-security; mcp; mcp-security; mcp-server; model-context-protocol; multi-tenancy; multi-tenant; pentesting; security-testing; semantic-cache; tenant-isolation,Apache-2.0,"mcp, model-context-protocol, mcp-security, langgraph, langchain, tenant-isolation, multi-tenant, cross-tenant, idor, bola, broken-access-control, authorization, security-testing, pentest, ai-agents, agent-memory, semantic-cache, llm, llm-security, confused-deputy, data-segregation"
+featuremesh-serving-runtime,44237514,,,,2026-11-27T06:50:07+00:00,2026-11-27T07:37:41+00:00,,,,,,,
+cwa,44237512,,,,2026-11-27T06:44:44+00:00,2026-11-27T07:37:41+00:00,,,,,,,
 vernier-leaderboard,44237510,,,,,,,,,,,,
 percia,44237500,,,,,,,,,,,,
 mindroom,44237497,,,,2026-11-25T19:24:39+00:00,,,,,,,,
