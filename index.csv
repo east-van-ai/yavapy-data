@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-scim2-django,44288713,,,,2026-11-24T09:25:22+00:00,,,,,,,,
-autokeeper,44288712,0.0.7.2,自动化 CoC 7 版中文跑团：自研 harness 上的多智能体守秘人，Claude / DeepSeek / 本地模型可换，模组导入与生成，彩色 ASCII 终端界面,Environment :: Console; Natural Language :: Chinese (Simplified); Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Topic :: Games/Entertainment :: Role-Playing,2026-10-31T16:22:42+00:00,,https://github.com/satoshinji2992/autokeeper,,,,,NOASSERTION,"call-of-cthulhu, coc7, llm, tabletop, textual, trpg"
-vllm-sr,44288709,,,,2026-09-27T06:53:40+00:00,,,,,,,,
-moxi-repo,44288704,,,,,,,,,,,,
-moxi-publishing,44288699,,,,,,,,,,,,
-moxi-projects,44288694,,,,,,,,,,,,
-agent-voice-input,44288693,0.18.0,Context-aware voice input for CLI coding agents and desktop apps (two-stage STT + refiner or single-hop multimodal).,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Multimedia :: Sound/Audio :: Speech; Topic :: Software Development :: User Interfaces,2026-11-27T14:57:39+00:00,,https://github.com/xiaohuaxi/agent-voice-input,v0.18.0,1,.agents/skills/voice-eval/SKILL.md,antigravity; claude-code; cli; codex; coding-agent; speech-to-text; voice-input,Apache-2.0,"voice-input, dictation, asr, speech-to-text, cli-agent, codex, claude-code, antigravity, agy, tmux, wsl2, macos"
-moxi-notes,44288688,,,,,,,,,,,,
-prefect-client,44288687,,,,,,,,,,,,
-factorial-api-client,44288678,,,,,,,,,,,,
+scim2-django,44288713,,,,2026-11-28T08:13:17+00:00,2026-11-28T08:37:41+00:00,,,,,,,
+autokeeper,44288712,0.0.11.1,自动化 CoC 7 版中文跑团：自研 harness 上的多智能体守秘人，Claude / DeepSeek / 本地模型可换，模组导入与生成，彩色 ASCII 终端界面,Environment :: Console; Natural Language :: Chinese (Simplified); Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.12; Topic :: Games/Entertainment :: Role-Playing,2026-11-28T08:13:15+00:00,2026-11-28T08:37:41+00:00,https://github.com/satoshinji2992/autokeeper,,,,,NOASSERTION,"call-of-cthulhu, coc7, llm, tabletop, textual, trpg"
+vllm-sr,44288709,,,,2026-09-27T06:53:40+00:00,2026-11-28T08:37:41+00:00,,,,,,,
+moxi-repo,44288704,,,,2026-11-28T08:12:16+00:00,2026-11-28T08:37:41+00:00,,,,,,,
+moxi-publishing,44288699,,,,2026-11-28T08:12:15+00:00,2026-11-28T08:37:41+00:00,,,,,,,
+moxi-projects,44288694,,,,2026-11-28T08:12:13+00:00,2026-11-28T08:37:41+00:00,,,,,,,
+agent-voice-input,44288693,0.18.1,Context-aware voice input for CLI coding agents and desktop apps (two-stage STT + refiner or single-hop multimodal).,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Multimedia :: Sound/Audio :: Speech; Topic :: Software Development :: User Interfaces,2026-11-28T08:12:12+00:00,2026-11-28T08:37:41+00:00,https://github.com/xiaohuaxi/agent-voice-input,v0.18.1,1,.agents/skills/voice-eval/SKILL.md,antigravity; claude-code; cli; codex; coding-agent; speech-to-text; voice-input,Apache-2.0,"voice-input, dictation, asr, speech-to-text, cli-agent, codex, claude-code, antigravity, agy, tmux, wsl2, macos"
+moxi-notes,44288688,,,,2026-11-28T08:12:12+00:00,2026-11-28T08:37:41+00:00,,,,,,,
+prefect-client,44288687,,,,2026-11-24T21:48:03+00:00,2026-11-28T08:37:41+00:00,,,,,,,
+factorial-api-client,44288678,,,,2026-10-05T10:36:05+00:00,2026-11-28T08:37:41+00:00,,,,,,,
 cua-bench,44288675,,,,,,,,,,,,
 mindroom,44288672,,,,2026-11-28T06:34:55+00:00,,,,,,,,
 tyrannis,44288670,,,,,,,,,,,,
