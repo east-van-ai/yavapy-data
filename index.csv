@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-hermes-mobile-plugin,44294874,,,,2026-11-06T06:37:24+00:00,,,,,,,,
-rootos,44294871,,,,,,,,,,,,
-birds-vs-bats,44294870,,,,,,,,,,,,
-numtag,44294867,,,,2026-11-25T05:11:00+00:00,,,,,,,,
-frappex-client,44294866,,,,,,,,,,,,
-ovos-number-parser,44294859,,,,2026-08-13T16:19:33+00:00,,,,,,,,
-fitscube-rs,44294856,,,,,,,,,,,,
-codecin,44294854,,,,,,,,,,,,
-liter-llm-hermes-plugin,44294852,,,,,,,,,,,,
-govrule,44294846,0.37.0,治理规则 DSL：四值判据 + 证据 + 基线棘轮（离线、零第三方依赖）,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-11-27T12:23:28+00:00,,,,,,,,"governance, policy-as-code, dsl, gates, offline"
+hermes-mobile-plugin,44294874,,,,2026-11-28T13:06:27+00:00,2026-11-28T13:37:36+00:00,,,,,,,
+rootos,44294871,1.1.4,"ROOT // a sandboxed personal operating system, root of all things",Environment :: Console; Intended Audience :: Developers; Intended Audience :: Information Technology; License :: OSI Approved :: MIT License; Operating System :: POSIX; Programming Language :: Python :: 3; Topic :: Education; Topic :: Security; Topic :: Terminals,2026-11-28T13:37:34+00:00,2026-11-28T13:37:36+00:00,,,,,,,"terminal, tui, root, sandbox, operating-system, cybersecurity, hacking, generative, offline, worldbuilding, simulation"
+birds-vs-bats,44294870,2.5.5,"BVB - Bird vs Bat: an arcade roguelike in the terminal (or in a window), with a music that follows your flock",Environment :: Console; Programming Language :: Python :: 3; Topic :: Games/Entertainment :: Arcade,2026-11-28T13:22:00+00:00,2026-11-28T13:37:36+00:00,https://github.com/Onheiron/PY-birds-vs-bats,v2.5.5,0,,,,"arcade, ascii, game, roguelike, terminal"
+numtag,44294867,,,,2026-11-28T13:06:37+00:00,2026-11-28T13:37:36+00:00,,,,,,,
+frappex-client,44294866,,,,2026-11-28T13:06:17+00:00,2026-11-28T13:37:36+00:00,,,,,,,
+ovos-number-parser,44294859,,,,2026-08-13T16:19:33+00:00,2026-11-28T13:37:36+00:00,,,,,,,
+fitscube-rs,44294856,,,,2026-11-28T13:05:29+00:00,2026-11-28T13:37:36+00:00,,,,,,,
+codecin,44294854,,,,2026-11-28T13:05:27+00:00,2026-11-28T13:37:36+00:00,,,,,,,
+liter-llm-hermes-plugin,44294852,,,,2026-11-28T13:05:26+00:00,2026-11-28T13:37:36+00:00,,,,,,,
+govrule,44294846,0.102.0,治理规则 DSL：四值判据 + 证据 + 基线棘轮（离线、零第三方依赖）,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-11-28T13:11:42+00:00,2026-11-28T13:37:36+00:00,,,,,,,"governance, policy-as-code, dsl, gates, offline"
 chinf,44294839,,,,,,,,,,,,
 figma2lvgl,44294836,0.6.0,Generate LVGL9 C source files from Figma XML exports,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Code Generators; Topic :: Software Development :: Embedded Systems,2026-11-27T14:55:03+00:00,,https://github.com/khiyamiftikhar/figma2lvgl,v0.6.0,0,,,MIT,"lvgl, lvgl9, figma, codegen, embedded, ui, lvgl-ui"
 streamlit-mcp,44294833,,,,,,,,,,,,
