@@ -104300,16 +104300,16 @@ amagi-receipts-to-csv,42575601,0.1.0,"Turn a folder of receipt photos and PDFs i
 tosa-ml,42575538,,,,2026-10-22T04:51:46+00:00,2026-11-28T19:22:45+00:00,,,,,,,
 czk-tool,42575536,,,,2026-10-22T04:51:45+00:00,2026-11-28T19:22:45+00:00,,,,,,,
 eza-bin,42575448,,,,2026-10-22T04:49:24+00:00,2026-11-28T19:22:45+00:00,,,,,,,
-gutenberg2kindle,42575436,,,,,,,,,,,,
-xh-bin,42575415,,,,,,,,,,,,
-mark-my-word,42575369,,,,,,,,,,,,
-ltem-core,42575365,,,,,,,,,,,,
-sibyl-research,42575345,,,,,,,,,,,,
-amagi-name-check,42575339,,,,,,,,,,,,
-serogen,42575328,,,,,,,,,,,,
-python-redilock,42575271,,,,,,,,,,,,
-mynah-stt,42575268,,,,,,,,,,,,
-metalog-jax,42575255,,,,,,,,,,,,
+gutenberg2kindle,42575436,0.8.1,A small Python tool to download and send ebooks from Project Gutenberg to a Kindle email address via SMTP,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: Education; Intended Audience :: Science/Research; License :: OSI Approved :: GNU Affero General Public License v3; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Communications :: File Sharing; Topic :: Utilities; Typing :: Typed,2026-10-22T04:49:02+00:00,2026-11-28T19:37:55+00:00,https://github.com/aitorres/gutenberg2kindle,v0.8.1,0,,cli; ebooks; email; gutenberg; hacktoberfest; kindle; project-gutenberg; python; smtp,AGPL-3.0,"python, cli, ebooks, kindle, gutenberg, project gutenberg"
+xh-bin,42575415,,,,2026-10-22T04:48:18+00:00,2026-11-28T19:37:55+00:00,,,,,,,
+mark-my-word,42575369,0.10.0,Convert Markdown file to PDF using themes extracted directly from Word templates,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Intended Audience :: End Users/Desktop; License :: OSI Approved :: MIT License; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Topic :: Text Processing :: Markup; Topic :: Utilities,2026-10-22T04:44:37+00:00,2026-11-28T19:37:55+00:00,https://gitlab.com/tastapod/mark-my-word,,,,,,"docx, markdown, pdf, theme, weasyprint, word"
+ltem-core,42575365,,,,2026-10-22T04:47:01+00:00,2026-11-28T19:37:55+00:00,,,,,,,
+sibyl-research,42575345,,,,2026-07-15T00:19:45+00:00,2026-11-28T19:37:55+00:00,,,,,,,
+amagi-name-check,42575339,0.1.0,"Check a project name against PyPI, npm, crates.io, Homebrew, GitHub and common domains in one command, with near-collision warnings.",Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development; Topic :: Utilities,2026-10-22T04:44:56+00:00,2026-11-28T19:37:55+00:00,https://github.com/amagilabs/amagi-name-check,v0.1.0,1,.claude/skills/amagi-name-check/SKILL.md,cli; crates; domains; github; homebrew; naming; npm; package-name; pypi; python; rdap,MIT,"naming, package-name, pypi, npm, crates, homebrew, github, domains, rdap, cli"
+serogen,42575328,,,,2026-10-22T04:44:31+00:00,2026-11-28T19:37:55+00:00,,,,,,,
+python-redilock,42575271,,,,2026-10-22T04:41:50+00:00,2026-11-28T19:37:55+00:00,,,,,,,
+mynah-stt,42575268,0.5.0,Local-first transcription tool for Korean meetings (audio file -> txt),Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: End Users/Desktop; License :: OSI Approved :: Apache Software License; Operating System :: MacOS; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Multimedia :: Sound/Audio :: Speech,2026-10-22T04:41:45+00:00,2026-11-28T19:37:55+00:00,https://github.com/rlawjdghksdlqslek/mynah-stt,v0.5.0,0,,,Apache-2.0,"speech-to-text, transcription, whisper, korean, meeting, tui"
+metalog-jax,42575255,,,,2026-10-22T04:40:48+00:00,2026-11-28T19:37:55+00:00,,,,,,,
 skillsentinel-cli,42575243,,,,,,,,,,,,
 amagi-federal-compliance-matrix,42575242,,,,,,,,,,,,
 servo-reader,42575184,,,,,,,,,,,,
