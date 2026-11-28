@@ -102629,16 +102629,16 @@ rulestamp-ai-act-article-50-audit,42595550,0.1.10,"Finds the AI call sites, gene
 mangono-addon-env-odoo-logger,42595532,,,,2026-10-22T13:45:46+00:00,2026-11-28T03:07:42+00:00,,,,,,,
 rulestamp-wp-plugin-review-gate,42595528,1.0.7,"The readme.txt and plugin-header lines that send a wordpress.org submission back, found before you submit (bundled Node.js runtime)",Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-22T13:45:45+00:00,2026-11-28T03:07:42+00:00,,,,,,,"wordpress, plugin, readme.txt, stable tag, plugin review, wordpress.org, linter"
 rulestamp-openbao-migration-lint,42595497,1.0.1,"OpenBao migration check for HashiCorp Vault scripts, Terraform, Helm values and server HCL: 14 rules, each with the OpenBao fix (bundled Node.js runtime)",Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-22T13:45:27+00:00,2026-11-28T03:07:42+00:00,,,,,,,"openbao, hashicorp vault, vault, bsl, licence, migration, terraform, helm, secrets"
-rulestamp-mysql84-upgrade-blocker-lint,42595478,,,,,,,,,,,,
-agentdrill,42595461,,,,,,,,,,,,
-lookyloo-models,42595456,,,,,,,,,,,,
-udtools,42595448,,,,,,,,,,,,
-fasthx,42595382,,,,,,,,,,,,
-brainspace,42595317,,,,,,,,,,,,
-pystra,42595263,,,,,,,,,,,,
-lumos-maxima,42595247,,,,,,,,,,,,
-pycparser,42595238,,,,,,,,,,,,
-stacklet-client-platform,42595206,,,,,,,,,,,,
+rulestamp-mysql84-upgrade-blocker-lint,42595478,1.0.1,"MySQL upgrade 8.0 → 8.4: finds the SQL, my.cnf and parameter-group lines that MySQL 8.4 removed, with the fix on each line (bundled Node.js runtime)",Environment :: Console; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-10-22T13:45:07+00:00,2026-11-28T03:22:45+00:00,,,,,,,"mysql, mysql 8.4, mysql upgrade, rds mysql, rds extended support, sql lint, replication, migration"
+agentdrill,42595461,,,,2026-10-22T13:44:56+00:00,2026-11-28T03:22:45+00:00,,,,,,,
+lookyloo-models,42595456,,,,2026-10-22T13:44:52+00:00,2026-11-28T03:22:45+00:00,,,,,,,
+udtools,42595448,,,,2026-10-22T13:44:46+00:00,2026-11-28T03:22:45+00:00,,,,,,,
+fasthx,42595382,,,,2026-10-22T13:43:23+00:00,2026-11-28T03:22:45+00:00,,,,,,,
+brainspace,42595317,,,,2026-10-22T13:41:33+00:00,2026-11-28T03:22:45+00:00,,,,,,,
+pystra,42595263,2.0.0,Python Structural Reliability Analysis,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Science/Research; License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+); Natural Language :: English; Operating System :: MacOS :: MacOS X; Operating System :: Microsoft :: Windows; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3 :: Only; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Scientific/Engineering,2026-10-22T13:40:52+00:00,2026-11-28T03:22:45+00:00,https://github.com/pystra/pystra,v2.0.0,0,,reliability-analysis; structural-engineering,NOASSERTION,"structural, reliability, engineering"
+lumos-maxima,42595247,,,,2026-10-22T13:40:29+00:00,2026-11-28T03:22:45+00:00,,,,,,,
+pycparser,42595238,,,,2026-10-22T13:40:03+00:00,2026-11-28T03:22:45+00:00,,,,,,,
+stacklet-client-platform,42595206,,,,2026-10-22T13:38:33+00:00,2026-11-28T03:22:45+00:00,,,,,,,
 qenvs,42595203,,,,,,,,,,,,
 firewheel-repo-android,42595173,,,,,,,,,,,,
 zabbix-cli-uio,42595165,,,,,,,,,,,,
