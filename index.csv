@@ -1,14 +1,14 @@
 name,serial,version,summary,classifiers,released_at,checked_at,repo_url,tag,skill_count,skill_path,topics,license,keywords
-markdown-vault-mcp,44308542,,,,,,,,,,,,
-fastws-cli,44308539,,,,2026-11-22T17:56:14+00:00,,,,,,,,
-kinescope,44308536,,,,,,,,,,,,
-govrule,44308533,0.102.0,治理规则 DSL：四值判据 + 证据 + 基线棘轮（离线、零第三方依赖）,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-11-28T13:11:42+00:00,,,,,,,,"governance, policy-as-code, dsl, gates, offline"
-jaxonomy,44308530,,,,2026-10-27T13:47:19+00:00,,,,,,,,
-localcode,44308527,0.5.43,High-performance AI coding on consumer hardware.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development; Topic :: Software Development :: Code Generators,2026-11-22T15:42:26+00:00,,https://github.com/mjwsolo/localcode,v0.5.43,5,llama-cpp-turboquant/skills/code-review/SKILL.md,,Apache-2.0,"ai, cli, coding-assistant, gemma, local-first, tui"
-django-core-micha,44308525,,,,,,,,,,,,
-safe-ssh-mcp,44308522,,,,,,,,,,,,
-rumdl,44308519,,,,,,,,,,,,
-raytrace-sdk,44308515,,,,2026-11-23T01:30:35+00:00,,,,,,,,
+markdown-vault-mcp,44308542,,,,2026-11-28T12:28:31+00:00,2026-11-28T21:37:34+00:00,,,,,,,
+fastws-cli,44308539,,,,2026-11-28T21:09:36+00:00,2026-11-28T21:37:34+00:00,,,,,,,
+kinescope,44308536,,,,2026-11-28T21:09:31+00:00,2026-11-28T21:37:34+00:00,,,,,,,
+govrule,44308533,1.31.0,治理规则 DSL：四值判据 + 证据 + 基线棘轮（离线、零第三方依赖）,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Software Development :: Quality Assurance,2026-11-28T21:12:06+00:00,2026-11-28T21:37:34+00:00,,,,,,,"governance, policy-as-code, dsl, gates, offline"
+jaxonomy,44308530,,,,2026-11-28T21:09:24+00:00,2026-11-28T21:37:34+00:00,,,,,,,
+localcode,44308527,0.5.43,High-performance AI coding on consumer hardware.,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Developers; Operating System :: MacOS; Operating System :: POSIX :: Linux; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development; Topic :: Software Development :: Code Generators,2026-11-22T15:42:26+00:00,2026-11-28T21:37:34+00:00,https://github.com/mjwsolo/localcode,v0.5.43,5,llama-cpp-turboquant/skills/code-review/SKILL.md,,Apache-2.0,"ai, cli, coding-assistant, gemma, local-first, tui"
+django-core-micha,44308525,,,,2026-11-28T21:29:44+00:00,2026-11-28T21:37:34+00:00,,,,,,,
+safe-ssh-mcp,44308522,,,,2026-11-28T21:08:58+00:00,2026-11-28T21:37:34+00:00,,,,,,,
+rumdl,44308519,0.3.9,A fast Markdown linter and formatter written in Rust,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; License :: OSI Approved :: MIT License; Operating System :: OS Independent; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.9; Programming Language :: Rust; Topic :: Software Development :: Libraries :: Python Modules; Topic :: Software Development :: Quality Assurance; Topic :: Text Processing :: Markup :: Markdown,2026-11-28T21:08:51+00:00,2026-11-28T21:37:34+00:00,https://github.com/rvben/rumdl,v0.3.9,0,,cli; developer-tools; formatter; linter; markdown; rust,NOASSERTION,
+raytrace-sdk,44308515,,,,2026-11-28T21:08:45+00:00,2026-11-28T21:37:34+00:00,,,,,,,
 otel-neomundi,44308511,,,,,,,,,,,,
 agentenv-framework-protocol,44308504,,,,2026-11-18T21:37:12+00:00,,,,,,,,
 sccp,44308501,,,,2026-11-12T23:11:54+00:00,,,,,,,,
