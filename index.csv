@@ -104481,16 +104481,16 @@ beetech-smartsdk,42573553,,,,2026-10-22T03:29:46+00:00,2026-11-28T21:22:45+00:00
 papis-make-epub,42573552,0.1.0,Build EPUB renditions of papis documents,Development Status :: 3 - Alpha; Environment :: Console; Intended Audience :: Science/Research; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Topic :: Text Processing :: Markup; Topic :: Utilities,2026-10-22T03:29:32+00:00,2026-11-28T21:22:45+00:00,https://github.com/jabarszcz/papis-make-epub,v0.1.0,0,,arxiv; bibliography; e-reader; epub; papis,GPL-3.0,"arxiv, bibliography, e-reader, epub, papis"
 sitemend,42573547,1.9.1,"SEO regression tests for CI: crawls your site folder or URL, fails the build when a change breaks crawling or indexing, and cites the evidence. Never invents a number.",Environment :: Console; Programming Language :: Python :: 3; Topic :: Internet :: WWW/HTTP :: Site Management; Topic :: Software Development :: Quality Assurance; Topic :: Software Development :: Testing,2026-10-22T03:29:25+00:00,2026-11-28T21:22:45+00:00,https://github.com/SurendharVr/sitemend,v1.9.1,1,SKILL.md,agent-skills; astro; ci; claude-code; claude-code-plugin; claude-skill; core-web-vitals; docusaurus; github-actions; lighthouse; nextjs; regression-testing; seo; seo-audit; seo-testing; sitemap; structured-data; technical-seo; vercel; web-crawler,MIT,"seo, seo-audit, technical-seo, crawler, sitemap, structured-data, core-web-vitals, lighthouse, claude-code, claude-skill, ai-seo, ai-agent, seo-testing, ci, github-actions, nextjs, astro"
 alembic,42573478,1.20.1,A database migration tool for SQLAlchemy.,Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python; Programming Language :: Python :: 3; Programming Language :: Python :: 3.10; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Programming Language :: Python :: 3.14; Programming Language :: Python :: 3.15; Programming Language :: Python :: Implementation :: CPython; Programming Language :: Python :: Implementation :: PyPy; Topic :: Database :: Front-Ends,2026-10-22T03:24:37+00:00,2026-11-28T21:22:45+00:00,https://github.com/sqlalchemy/alembic,,,,python; sql; sqlalchemy,MIT,
-small-websocket-prebuilt,42573454,,,,,,,,,,,,
-element-51,42573453,,,,,,,,,,,,
-ctxburn,42573443,,,,,,,,,,,,
-alibabacloud-agentcore-collaboration,42573433,,,,,,,,,,,,
-lucidlearn,42573422,,,,,,,,,,,,
-artwarp-py,42573401,,,,,,,,,,,,
-foundry-cli-agent,42573396,,,,,,,,,,,,
-saferelay,42573383,,,,,,,,,,,,
-buildingsync-asset-extractor,42573359,,,,,,,,,,,,
-odoo-addon-l10n-br-fiscal-subsequent-document,42573339,,,,,,,,,,,,
+small-websocket-prebuilt,42573454,,,,2026-10-22T03:22:19+00:00,2026-11-28T21:37:53+00:00,,,,,,,
+element-51,42573453,,,,2026-10-22T03:22:19+00:00,2026-11-28T21:37:53+00:00,,,,,,,
+ctxburn,42573443,,,,2026-10-22T03:21:42+00:00,2026-11-28T21:37:53+00:00,,,,,,,
+alibabacloud-agentcore-collaboration,42573433,,,,2026-10-22T03:20:33+00:00,2026-11-28T21:37:53+00:00,,,,,,,
+lucidlearn,42573422,,,,2026-10-22T03:19:41+00:00,2026-11-28T21:37:53+00:00,,,,,,,
+artwarp-py,42573401,,,,2026-10-22T03:18:30+00:00,2026-11-28T21:37:53+00:00,,,,,,,
+foundry-cli-agent,42573396,0.3.1,A local-first AI coding agent with one gateway for five LLM providers and a self-provisioning database.,Development Status :: 4 - Beta; Environment :: Console; Intended Audience :: Developers; Programming Language :: Python :: 3; Programming Language :: Python :: 3.11; Programming Language :: Python :: 3.12; Programming Language :: Python :: 3.13; Topic :: Software Development :: Code Generators; Topic :: Utilities,2026-10-22T03:17:52+00:00,2026-11-28T21:37:53+00:00,https://github.com/am1t-verma/opencode_foundry,,,,,,"ai, agent, llm, cli, coding-assistant, ollama, bedrock, openai, anthropic"
+saferelay,42573383,3.7.2,"Local DLP for AI-era workflows — 8 shields incl. Gov/CUI + exfiltration, 50+ patterns",Development Status :: 5 - Production/Stable; Environment :: Console; Intended Audience :: Developers; Operating System :: OS Independent; Programming Language :: Python :: 3; Topic :: Security,2026-10-22T03:16:31+00:00,2026-11-28T21:37:53+00:00,,,,,,,ai-safety api-keys cli dlp pii redaction security zero-trust saferelay
+buildingsync-asset-extractor,42573359,,,,2026-10-22T03:15:17+00:00,2026-11-28T21:37:53+00:00,,,,,,,
+odoo-addon-l10n-br-fiscal-subsequent-document,42573339,,,,2026-08-28T14:01:55+00:00,2026-11-28T21:37:53+00:00,,,,,,,
 odoo-addon-l10n-br-fiscal-queue,42573329,,,,,,,,,,,,
 randmac,42573316,,,,,,,,,,,,
 bldg,42573290,,,,,,,,,,,,
